@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Archivi di Eupharos
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -21,25 +21,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#F2EBDD"
+        lightgray: "#D4C4A8"
+        gray: "#625A4B"
+        darkgray: "#29251F"
+        dark: "#29251F"
+        secondary: "#7A263A"
+        tertiary: "#5B1B2B"
+        highlight: rgba(122, 38, 58, 0.12)
+        textHighlight: "#A8874A66"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1D1E1B"
+        lightgray: "#41433D"
+        gray: "#A7A191"
+        darkgray: "#DED8CC"
+        dark: "#F2EBDD"
+        secondary: "#C58B98"
+        tertiary: "#DCC292"
+        highlight: rgba(197, 139, 152, 0.16)
+        textHighlight: "#A8874A66"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -82,7 +82,7 @@ plugins:
     order: 50
     layout:
       position: right
-      priority: 30
+      priority: 10
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
@@ -163,7 +163,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10

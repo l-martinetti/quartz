@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Frontiera</title>
+  <desc id="desc">Illustrazione evocativa di montagne e nebbia, senza valore cartografico.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#152833"/><stop offset="1" stop-color="#7b9390"/></linearGradient>
+    <linearGradient id="mist" x2="0" y2="1"><stop stop-color="#d9e2d2" stop-opacity=".4"/><stop offset="1" stop-color="#d9e2d2" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#sky)"/>
+  <path d="M0 213 105 150l71 40L289 68l85 110 90-56 98 91 98-145 83 103 83-61 94 113 89-75 102 65v87H0Z" fill="#8ca39e"/>
+  <path d="m230 133 59-65 49 63-40-19-16 14-15-15Zm388 4 42-69 46 58-37-15-18 18-10-16Z" fill="#d8ddd0"/>
+  <path d="M0 238 90 204l81 24 108-60 110 67 109-56 92 51 106-42 107 54 106-40 110 45 100-40 81 39v54H0Z" fill="#29474a"/>
+  <path d="M0 239h1200v61H0Z" fill="url(#mist)"/>
+  <path d="M0 274q210-58 400-5t420-7 380 7v31H0Z" fill="#17383c"/>
+  <path d="M27 25h1146v250H27Z" fill="none" stroke="#c9ae72" stroke-opacity=".7" stroke-width="2"/>
+  <path d="M45 25v23m0-23h23m1087 0h-23m23 0v23M45 275v-23m0 23h23m1087 0h-23m23 0v-23" fill="none" stroke="#c9ae72" stroke-width="3"/>
+</svg>

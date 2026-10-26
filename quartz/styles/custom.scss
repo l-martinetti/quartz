@@ -1,3 +1,202 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Il tema Obsidian ridefinisce i token Quartz nei propri CSS layers.
+// Il ponte qui sotto conserva gli stessi riferimenti in entrambe le modalità.
+:root {
+  --color-base-00: var(--light);
+  --color-base-20: var(--lightgray);
+  --color-base-40: var(--gray);
+  --background-primary: var(--light);
+  --background-primary-alt: var(--color-base-10);
+  --background-secondary: var(--lightgray);
+  --text-normal: var(--darkgray);
+  --text-muted: var(--gray);
+  --text-accent: var(--secondary);
+  --text-accent-hover: var(--tertiary);
+  --interactive-accent: var(--secondary);
+}
+
+// Pergamena Imperiale: soltanto tema chiaro.
+:root:not([saved-theme="dark"]) {
+  --color-bg: #f2ebdd;
+  --color-surface: #e4d7bf;
+  --color-text: #29251f;
+  --color-accent: #7a263a;
+  --color-gold: #a8874a;
+  --color-accent-hover: #5b1b2b;
+
+  --light: var(--color-bg);
+  --lightgray: #d4c4a8;
+  --gray: #625a4b;
+  --darkgray: var(--color-text);
+  --dark: var(--color-text);
+  --secondary: var(--color-accent);
+  --tertiary: var(--color-accent-hover);
+  --highlight: #7a263a1f;
+  --textHighlight: #a8874a66;
+
+  --color-base-05: #f7f0e3;
+  --color-base-10: #ede2ce;
+  --color-base-25: #dccdaf;
+  --color-base-30: #d4c4a8;
+  --color-base-35: #c2ad86;
+  --color-base-50: #826d50;
+  --color-base-60: var(--gray);
+  --color-base-70: var(--color-text);
+  --color-base-100: var(--color-text);
+  --background-secondary: var(--color-surface);
+  --background-secondary-alt: var(--color-base-05);
+  --tab-container-background: var(--color-bg);
+  --bases-cards-background: var(--color-surface);
+  --bases-cards-cover-background: var(--color-surface);
+  --text-on-accent: var(--color-bg);
+  --nav-item-color-active: var(--color-accent);
+  --icon-color-active: var(--color-accent);
+  --divider-color: var(--color-gold);
+  --accent-h: 346;
+  --accent-s: 53%;
+  --accent-l: 31%;
+}
+
+:root[saved-theme="dark"] {
+  --light: #1d1e1b;
+  --lightgray: #41433d;
+  --gray: #a7a191;
+  --darkgray: #ded8cc;
+  --dark: #f2ebdd;
+  --secondary: #c58b98;
+  --tertiary: #dcc292;
+  --highlight: #c58b9829;
+  --textHighlight: #a8874a66;
+
+  --color-base-05: #232521;
+  --color-base-10: #292b27;
+  --color-base-25: #33362f;
+  --color-base-30: #383b35;
+  --color-base-35: #474a42;
+  --color-base-40: #595c52;
+  --color-base-50: #777a6e;
+  --color-base-60: var(--gray);
+  --color-base-70: var(--darkgray);
+  --color-base-100: var(--dark);
+  --background-secondary: #292b27;
+  --background-secondary-alt: #33362f;
+  --tab-container-background: var(--light);
+  --bases-cards-background: var(--background-secondary);
+  --bases-cards-cover-background: var(--background-secondary);
+  --text-on-accent: var(--light);
+  --divider-color: #777056;
+  --accent-h: 347;
+  --accent-s: 29%;
+  --accent-l: 66%;
+}
+
+:root[saved-theme="dark"] {
+  .page > #quartz-body > .sidebar,
+  blockquote,
+  .callout[data-callout] {
+    background-color: var(--background-secondary);
+  }
+
+  .callout[data-callout] {
+    border-color: var(--divider-color);
+  }
+}
+
+:root:not([saved-theme="dark"]) {
+  .page > #quartz-body > .sidebar {
+    background-color: var(--color-surface);
+  }
+
+  .page-title a,
+  .explorer a.active,
+  .toc-content a.in-view {
+    color: var(--color-accent);
+  }
+
+  a:hover,
+  .search-button:hover,
+  .toc-header:hover,
+  .explorer-toggle:hover,
+  .folder-button:hover {
+    color: var(--color-accent-hover);
+  }
+
+  a:focus-visible,
+  button:focus-visible,
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible,
+  [tabindex]:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+  }
+
+  blockquote,
+  .callout[data-callout] {
+    background-color: var(--color-surface);
+    border-color: var(--color-gold);
+  }
+
+  .callout[data-callout] {
+    --color: var(--color-accent);
+  }
+
+  hr,
+  th {
+    border-color: var(--color-gold);
+  }
+
+  hr {
+    background-color: var(--color-gold);
+  }
+
+  th,
+  tbody tr:nth-child(even) {
+    background-color: var(--color-surface);
+  }
+
+  code,
+  pre {
+    background-color: var(--color-surface);
+    color: var(--color-text);
+  }
+
+  pre,
+  .search > .search-button,
+  .search > .search-container > .search-space > input,
+  .search > .search-container > .search-space > .search-layout {
+    border-color: var(--color-gold);
+  }
+
+  .search > .search-container > .search-space > input,
+  .search > .search-container > .search-space > .search-layout {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+  }
+
+  .search > .search-container > .search-space > input::placeholder {
+    color: var(--gray);
+    opacity: 1;
+  }
+
+  .search .result-card:hover,
+  .search .result-card:focus-visible,
+  .explorer .tree-item-self:hover {
+    background-color: var(--color-surface);
+  }
+}
+
+// Su desktop, l'indice occupa la prima posizione nella colonna destra.
+// Lo spazio sopra lo avvicina all'altezza dell'Explorer a sinistra.
+@media all and ($desktop) {
+  .page > #quartz-body > .sidebar.right > .toc {
+    margin-top: 6rem;
+    width: 100%;
+  }
+
+  .page > #quartz-body > .sidebar.right .toc-header {
+    justify-content: center;
+    width: 100%;
+  }
+}

@@ -1,36 +1,36 @@
 ---
-title: Benvenuti a Vorsundeth
-description: Una guida per i personaggi alla provincia di frontiera dell'Impero Infinito.
+title: "L’Eco dei Fuochi Antichi"
 ---
 
-![Panorama di Vorsundeth: montagne, foreste e una valle nebbiosa](assets/vorsundeth-banner.svg)
+![Montagne e nebbia di frontiera](assets/frontiera.svg)
 
-> *Dove finiscono le strade imperiali, cominciano la nebbia, il ferro e le storie ancora da raccontare.*
+> *Le strade percorse, i volti incontrati, le domande ancora aperte.*
 
-Vorsundeth è una provincia di frontiera dell'[[Istituzioni/Impero Infinito|Impero Infinito]]: una valle chiusa dalle montagne, attraversata da poche vie praticabili. Lungo le strade viaggiano minerali, carovane e soldati; oltre i presidi, foreste e paludi chiedono preparazione e guide fidate.
+Benvenuti nell’archivio della campagna. Qui trovate luoghi, persone, organizzazioni e ricordi delle sessioni, con le distinzioni tra ciò che è stato **osservato**, ciò che è stato **riferito** e ciò che resta **da confermare**.
 
-Questa è la **guida dei personaggi** al mondo di gioco. Le pagine raccolgono conoscenze generali sulla provincia, senza dare per scontato che ogni personaggio conosca ogni luogo di persona.
+> [!info] Dove siamo rimasti · compagnia di Elias
+> [[Personaggi/Compagnia di Elias/Elias|Elias]], [[Personaggi/Compagnia di Elias/Merimbor|Merimbor]], [[Personaggi/Compagnia di Elias/Percy|Percy]] e [[Personaggi/Compagnia di Elias/Ninazù|Ninazù]] sono in viaggio con [[Personaggi/NPC/Vorsundeth/Corvus|Corvus]] verso [[Luoghi/Vorsundeth/Veldmark|Veldmark]]. Gli ululati hanno interrotto l’ultima sosta. **L’arrivo e l’ingresso in città restano da giocare.**
 
-> [!tip] Da dove cominciare
-> **Nuovi arrivati?** Leggete [[Provincia del Vorsundeth|La provincia in breve]] e [[Vorsundeth/Viaggiare nella provincia|Muoversi a Vorsundeth]].
-> **Avete una destinazione?** Aprite l'[[Luoghi|atlante dei luoghi]].
-> **Volete orientarvi tra le autorità?** Consultate [[Le istituzioni|poteri e istituzioni]].
+## Prima della prossima partita
 
-## Tre direzioni, una provincia
+- [[Campagna/Stato attuale|Riprendi il filo]] — posizione, incarico e promesse ancora da verificare.
+- [[Sessioni/Compagnia di Elias/Sessione 10|Leggi la sessione 10]] — il viaggio dopo la miniera.
+- [[Campagna/Piste aperte|Ritrova una domanda]] — il cubo, Boren, le altre strutture e gli ululati.
 
-| Verso                               |                                                                              |
-| ----------------------------------- | ---------------------------------------------------------------------------- |
-| ⛰️ [[Luoghi/Veldmark]]              | Il capoluogo nella montagna, le fonderie e il prezioso mithral.              |
-| 🛡️ [[Luoghi/Il Bastione di Vetro]] | La città fortezza dove si incrociano strade, carovane e controlli imperiali. |
-| 🌫️ [[Luoghi/Brumacava]]            | Passerelle e barche alle soglie della [[Luoghi/Palude Ghiacciata]]           |
+## Apri l’atlante
 
-## Esplora l'atlante
+| Cerchi…                                      | Parti da qui          |
+| -------------------------------------------- | --------------------- |
+| Il filo della storia e gli archi documentati | [[Campagna/index]]    |
+| Una città, una locanda o una rovina          | [[Luoghi/index]]      |
+| Un compagno o un volto incontrato            | [[Personaggi/index]]  |
+| Una gilda, un casato o una divinità          | [[Istituzioni/index]] |
+| Un evento già giocato                        | [[Sessioni/index]]    |
+| Un reperto o un messaggio                    | [[Conoscenze/index]]  |
+| Una grafia o la fonte originale              | [[Fonti/index]]       |
 
-- **[[Provincia del Vorsundeth|La provincia]]** — territorio, stagioni, viaggi ed economia.
-- **[[Luoghi|Luoghi]]** — città, insediamenti minerari e terre del nord.
-- **[[Le istituzioni|Poteri e istituzioni]]** — governo ducale, presidio imperiale e Gilda delle Vene.
+## Conoscere il mondo
 
----
+La campagna attraversa l’[[Istituzioni/Impero Infinito|Impero Infinito]] e le terre che lo circondano. La compagnia di Elias si trova nella provincia di [[Vorsundeth/index|Vorsundeth]]; le altre macroaree raccolgono l’ambientazione comune e i riferimenti della compagnia di Viktor.
 
-*L'atlante crescerà con la campagna. Cerca un nome nella barra di ricerca o segui i collegamenti tra le note.*
-
+Le conoscenze delle due compagnie hanno provenienze distinte. Prima di usare una notizia in gioco, controlla [[Campagna/Come usare la wiki|come leggere le schede]] e la fonte indicata nella pagina.
