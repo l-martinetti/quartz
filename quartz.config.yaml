@@ -13,12 +13,12 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
-    cdnCaching: true
+    fontOrigin: local
+    cdnCaching: false
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Source Sans 3
+      body: Source Sans 3
+      code: monospace
     colors:
       lightMode:
         light: "#F2EBDD"
@@ -29,7 +29,7 @@ configuration:
         secondary: "#7A263A"
         tertiary: "#5B1B2B"
         highlight: rgba(122, 38, 58, 0.12)
-        textHighlight: "#A8874A66"
+        textHighlight: transparent
       darkMode:
         light: "#1D1E1B"
         lightgray: "#41433D"
@@ -39,7 +39,7 @@ configuration:
         secondary: "#C58B98"
         tertiary: "#DCC292"
         highlight: rgba(197, 139, 152, 0.16)
-        textHighlight: "#A8874A66"
+        textHighlight: transparent
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -110,6 +110,14 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      useThemeFonts: false
+      # Source Sans 3 è incluso in quartz/static/fonts e caricato da custom.scss.
+      fontOrigin: local
+      body: '"Source Sans 3", system-ui, sans-serif'
+      header: '"Source Sans 3", system-ui, sans-serif'
+      interface: '"Source Sans 3", system-ui, sans-serif'
+      code: 'ui-monospace, "Cascadia Code", Consolas, monospace'
   - source: "@quartz-themes/core"
     enabled: true
     options:
