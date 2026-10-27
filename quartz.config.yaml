@@ -186,8 +186,8 @@ plugins:
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
-      position: right
-      priority: 50
+      position: afterBody
+      priority: 40
   - source: "@quartz-community/article-title"
     enabled: true
     layout:
@@ -246,7 +246,7 @@ plugins:
   - source: "@quartz-community/recent-notes"
     enabled: false
   - source: "@quartz-community/spacer"
-    enabled: true
+    enabled: false
     options: {}
     order: 25
     layout:

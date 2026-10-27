@@ -1,0 +1,364 @@
+@use "./variables.scss" as *;
+
+:root[saved-theme] #quartz-body {
+  .campaign-nav {
+    min-height: 0;
+    overflow-y: auto;
+    scrollbar-width: thin;
+    overscroll-behavior: contain;
+    font-size: 1rem;
+    line-height: 1.4;
+  }
+
+  .campaign-nav ul,
+  .page-outline ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .campaign-nav li {
+    margin: 0;
+  }
+
+  .campaign-nav a,
+  .campaign-nav summary {
+    display: block;
+    color: var(--darkgray);
+    padding: 0.45rem 0.6rem;
+    text-decoration: none;
+    overflow-wrap: anywhere;
+    border-radius: 3px;
+  }
+
+  .campaign-nav summary,
+  .page-outline summary {
+    cursor: pointer;
+    list-style: none;
+    font-weight: 600;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+    &::before {
+      content: "";
+      display: inline-block;
+      width: 0.35rem;
+      height: 0.35rem;
+      margin-right: 0.6rem;
+      border-right: 1.5px solid currentColor;
+      border-bottom: 1.5px solid currentColor;
+      color: var(--gray);
+      transform: rotate(-45deg);
+      vertical-align: 0.1em;
+    }
+  }
+
+  .campaign-nav details[open] > summary::before,
+  .page-outline details[open] > summary::before {
+    transform: rotate(45deg);
+  }
+
+  .campaign-menu > summary {
+    padding-inline: 0;
+    margin-bottom: 0.5rem;
+    color: var(--gray);
+  }
+
+  .campaign-shortcuts {
+    padding-bottom: 0.65rem;
+    margin-bottom: 0.65rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  .campaign-section > summary {
+    font-size: 1rem;
+  }
+
+  .campaign-nav details[data-current-branch="true"] > summary {
+    color: var(--secondary);
+  }
+
+  .campaign-nav details[data-nav-key] > ul {
+    border-left: 1px solid var(--lightgray);
+    margin: 0.15rem 0 0.35rem 0.75rem;
+    padding-left: 0.4rem;
+  }
+
+  .campaign-nav details[data-nav-key] ul a,
+  .campaign-nav details[data-nav-key] ul summary {
+    font-size: 0.9375rem;
+  }
+
+  .campaign-nav a:hover,
+  .campaign-nav summary:hover {
+    color: var(--secondary);
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+  }
+
+  .campaign-nav a[aria-current="page"] {
+    color: var(--secondary);
+    font-weight: 600;
+    border-left: 3px solid currentColor;
+    padding-left: calc(0.6rem - 3px);
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+  }
+
+  .sidebar.left > .flex-component {
+    flex-shrink: 0;
+    width: 100%;
+    gap: 0.4rem !important;
+    > div {
+      min-width: 0;
+    }
+  }
+
+  .search {
+    min-width: 0;
+    width: 100%;
+  }
+
+  .search > .search-button {
+    width: 100%;
+    min-height: 2.6rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 4px;
+  }
+
+  .page-outline {
+    width: 100%;
+    font-size: 0.9375rem;
+    line-height: 1.45;
+    max-height: calc(100dvh - 8rem);
+    overflow-y: auto;
+  }
+
+  .page-outline summary {
+    color: var(--darkgray);
+    padding-block: 0.5rem;
+  }
+
+  .page-outline ol {
+    margin-top: 0.4rem;
+  }
+
+  .page-outline li {
+    margin: 0.4rem 0;
+    padding-left: calc(var(--outline-depth) * 0.55rem);
+  }
+
+  .page-outline a {
+    color: var(--gray);
+    text-decoration: none;
+    &:hover {
+      color: var(--secondary);
+      text-decoration: underline;
+    }
+    &[aria-current="location"] {
+      color: var(--secondary);
+      font-weight: 600;
+    }
+  }
+
+  .related-navigation {
+    max-width: 52rem;
+    margin: 2.5rem auto 1.5rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--lightgray);
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .related-navigation h2 {
+    font-size: 1.25rem;
+    margin: 0 0 1rem;
+  }
+
+  .related-navigation h3 {
+    font-size: 1rem;
+    margin: 0 0 0.5rem;
+    color: var(--gray);
+  }
+
+  .related-navigation-groups {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+    gap: 1.25rem;
+  }
+
+  .related-navigation ul {
+    padding-left: 1.1rem;
+    margin: 0;
+  }
+
+  .related-navigation li {
+    margin-block: 0.4rem;
+  }
+  .related-navigation a {
+    color: var(--secondary);
+  }
+  .section-return {
+    display: inline-block;
+    margin-top: 1.25rem;
+  }
+  .breadcrumb-container {
+    font-size: 0.9375rem;
+    overflow-wrap: anywhere;
+  }
+}
+
+// The default frame places these regions inside .center; expose them to the grid
+// so the compact outline can sit between the page title and the article.
+:root[saved-theme] .page[data-frame="default"] > #quartz-body {
+  > footer {
+    box-sizing: border-box;
+    min-width: 0;
+    width: 100%;
+  }
+  > .center {
+    display: contents;
+  }
+  > .center > hr {
+    display: none;
+  }
+  .page-footer {
+    grid-area: grid-after-body;
+    width: 100%;
+    max-width: 52rem;
+    margin-inline: auto;
+  }
+}
+
+@media all and ($desktop) {
+  :root[saved-theme] .page[data-frame="default"] > #quartz-body {
+    grid-template-columns: 280px minmax(0, 1fr) 220px;
+    column-gap: 1.5rem;
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas:
+      "grid-sidebar-left grid-header grid-sidebar-right"
+      "grid-sidebar-left grid-center grid-sidebar-right"
+      "grid-sidebar-left grid-after-body grid-sidebar-right"
+      "grid-sidebar-left grid-footer grid-sidebar-right";
+
+    > .sidebar {
+      padding-inline: 1.25rem;
+    }
+    > .sidebar.right {
+      padding-top: 6rem;
+    }
+    &:has(> .sidebar.right:empty) {
+      grid-template-columns: 280px minmax(0, 1fr) 0;
+    }
+    > .sidebar.right:empty {
+      display: none;
+    }
+    .center > article {
+      max-width: 52rem;
+      margin-inline: auto;
+    }
+    .page-header {
+      width: 100%;
+      max-width: 52rem;
+      margin-inline: auto;
+    }
+  }
+}
+
+@media all and ($tablet) {
+  :root[saved-theme] .page[data-frame="default"] > #quartz-body {
+    grid-template-columns: 260px minmax(0, 1fr);
+    column-gap: 1rem;
+    grid-template-rows: auto auto auto auto auto;
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-sidebar-right"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-after-body"
+      "grid-sidebar-left grid-footer";
+
+    > .sidebar.left {
+      padding-inline: 1rem;
+    }
+  }
+}
+
+@media all and not ($desktop) {
+  :root[saved-theme] .page[data-frame="default"] > #quartz-body {
+    box-sizing: border-box;
+    width: 100%;
+    padding-inline: 1rem;
+  }
+
+  :root[saved-theme] .page > #quartz-body > .sidebar.right {
+    display: block;
+    padding: 0;
+    margin-block: 0.5rem 1rem;
+    &:empty {
+      display: none;
+    }
+  }
+
+  :root[saved-theme] #quartz-body .page-outline-panel {
+    border-block: 1px solid var(--lightgray);
+    padding-block: 0.2rem;
+    ol {
+      max-height: 40vh;
+      overflow-y: auto;
+    }
+  }
+}
+
+@media all and ($mobile) {
+  :root[saved-theme] .page[data-frame="default"] > #quartz-body {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto auto auto auto auto auto;
+    grid-template-areas:
+      "grid-sidebar-left"
+      "grid-header"
+      "grid-sidebar-right"
+      "grid-center"
+      "grid-after-body"
+      "grid-footer";
+
+    > .sidebar.left {
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      padding: 1rem 0;
+      background: var(--light);
+      > .page-title {
+        display: block;
+        width: 100%;
+        margin: 0;
+        font-size: 1.5rem;
+      }
+    }
+
+    .campaign-nav {
+      width: 100%;
+      overflow: visible;
+    }
+    .campaign-menu > summary {
+      padding: 0.65rem;
+      margin: 0;
+      border: 1px solid var(--lightgray);
+      border-radius: 4px;
+      color: var(--darkgray);
+    }
+    .campaign-menu-content {
+      max-height: 65dvh;
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      padding: 0.65rem;
+      background: var(--background-secondary);
+      border: 1px solid var(--lightgray);
+      border-top: 0;
+    }
+    .campaign-nav a,
+    .campaign-nav summary {
+      min-height: 2.75rem;
+      box-sizing: border-box;
+    }
+  }
+}

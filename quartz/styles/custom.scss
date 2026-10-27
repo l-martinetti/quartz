@@ -1,4 +1,5 @@
 @use "./variables.scss" as *;
+@use "./site-navigation.scss";
 
 // Font locali: nessuna richiesta a servizi esterni durante la consultazione.
 @font-face {
