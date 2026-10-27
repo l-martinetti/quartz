@@ -3,14 +3,15 @@ title: "Liam"
 tags: ["personaggi/npc"]
 sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
 source_tab: "t.ppkatng3omei"
+source_heading: "h.wgstehi7ov04"
 ---
 
-Esploratore inizialmente presentato come superstite della precedente spedizione. Dopo il risveglio corre nella miniera; al suo interno il gruppo incontra apparizioni che lo rappresentano. Una di esse sostiene che il suo corpo sia rimasto senza vita nell’infermeria. È una testimonianza dell’apparizione, non una diagnosi autonoma.
-
-Fonti: E S1, S3–S4.
+Esploratore presentato come superstite di una precedente spedizione alle [[Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]]. Al risveglio si precipita nel complesso, dove la seconda compagnia (EMNP) incontra apparizioni con il suo aspetto. Una di esse sostiene che il suo corpo sia rimasto senza vita nell’infermeria: la sua sorte e la natura delle apparizioni rimangono incerte.
 
 → [[Personaggi/NPC/Vorsundeth/index|Persone — Vorsundeth]] · [[Personaggi/NPC/index|Tutti gli NPC]]
 
+Fonti: E S1, S3–S4.
+
 ---
 
-Fonte: [L’Eco dei Fuochi Antichi — Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.ppkatng3omei).
+Fonte: [Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.ppkatng3omei).

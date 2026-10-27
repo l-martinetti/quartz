@@ -2,7 +2,7 @@
 title: "Persone — Estran"
 ---
 
-Raggruppamento di consultazione dell’atlante. Leggi le singole schede per distinguere descrizioni comuni e incontri della compagnia di Viktor.
+Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. Non stabilisce residenza o appartenenza politica.
 
 - [[Personaggi/NPC/Estran/Hessa Helmar|Hessa Helmar]]
 - [[Personaggi/NPC/Estran/Sorn|Sorn]]
@@ -16,5 +16,8 @@ Raggruppamento di consultazione dell’atlante. Leggi le singole schede per dist
 - [[Personaggi/NPC/Estran/Tessian|Tessian]]
 - [[Personaggi/NPC/Estran/Kirik|Kirik]]
 - [[Personaggi/NPC/Estran/Kelor e Retis|Kelor e Retis]]
+- [[Personaggi/NPC/Estran/Padre Norrin|Padre Norrin]]
+- [[Personaggi/NPC/Estran/Kayren Berqinal|Kayren Berqinal]]
+- [[Personaggi/NPC/Estran/Signore delle Mosche|Signore delle Mosche]]
 
-→ [[Personaggi/NPC/index|Tutti gli NPC]] · [[Luoghi/index|Luoghi]]
+→ [[Personaggi/NPC/index|Indice superiore]]

@@ -18,3 +18,6 @@ Le pagine seguono i documenti della cartella condivisa [DEND](https://drive.goog
 - [[Fonti/Immagini di Campagna|Immagini incorporate in Campagna]]
 
 Le descrizioni conservano il momento delle rispettive fonti. Le date di pubblicazione non sono date del calendario di gioco.
+
+- [[Fonti/Palette dei personaggi|Palette PG e NPC]]
+- [[Fonti/Integrazione atlante 2026-10-27|Integrazione dell’atlante — 27 ottobre 2026]]

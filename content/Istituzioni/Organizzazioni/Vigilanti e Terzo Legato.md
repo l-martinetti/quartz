@@ -3,14 +3,15 @@ title: "Vigilanti e Terzo Legato"
 tags: ["istituzioni"]
 sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
 source_tab: "t.3mxkn7n0p9yw"
+source_heading: "h.okwx1pvjimm7"
 ---
 
-Riferimenti rinvenuti nei documenti del complesso minerario. Il simbolo dei Vigilanti presenta tre stelle; i messaggi parlano di livelli inferiori, ordini e mancati ritorni. Il Legato è indicato negli appunti come ufficiale imperiale. La gerarchia esatta e le identità restano incomplete.
+Organizzazione legata al complesso delle [[Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]], riconoscibile dal simbolo a tre stelle. I messaggi recuperati dalla seconda compagnia (EMNP) evocano livelli inferiori, ordini, mancati ritorni e un’evacuazione negata. Il Terzo Legato è un ufficiale imperiale, ma la gerarchia e le identità coinvolte restano incomplete.
+
+→ [[Istituzioni/Organizzazioni/index|Organizzazioni]]
 
 Fonti: E S4; Campagna, Sessione 4.
 
-→ [[Istituzioni/Organizzazioni/index|Organizzazioni]] · [[Istituzioni/index|Tutte le istituzioni]]
-
 ---
 
-Fonte: [L’Eco dei Fuochi Antichi — Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.3mxkn7n0p9yw).
+Fonte: [Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.3mxkn7n0p9yw).

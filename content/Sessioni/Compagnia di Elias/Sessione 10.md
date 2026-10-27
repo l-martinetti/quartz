@@ -41,7 +41,7 @@ Corvus trova riparo presso un rialzo, sistema cavalli e tende e accende il fuoco
 
 Ninazù torna dalla caccia con una marmotta bianca, la prepara con grasso ed erbe sullo scudo capovolto e serve i compagni su piatti di corteccia. Per un momento la tensione lascia spazio a una cena condivisa.
 
-Merimbor invita gli altri a seguirlo nella [[Luoghi/Eupharos e il Crocevia/Eupharos|capitale]] dopo Veldmark, per fare rapporto. Percy spera di poter avvicinare l’imperatore o il generale e trovare una nuova occasione con gli spadaccini imperiali: anni prima aveva provato a entrare fra loro senza essere accettato.
+Merimbor invita gli altri a seguirlo nella [[Luoghi/Eupharos/index|capitale]] dopo Veldmark, per fare rapporto. Percy spera di poter avvicinare l’imperatore o il generale e trovare una nuova occasione con gli spadaccini imperiali: anni prima aveva provato a entrare fra loro senza essere accettato.
 
 Percy racconta che i genitori, entrambi spadaccini delle [[Istituzioni/Organizzazioni/Lame Selvagge|Lame Selvagge]], lo hanno istruito; le due spade magiche erano appartenute una alla madre e una al padre. Non ne fa i nomi. Ninazù riconosce il valore del dono e dice che anche lo scettro proviene dalle proprie genti; vorrebbe cercare una guida per affinare le sue capacità.
 

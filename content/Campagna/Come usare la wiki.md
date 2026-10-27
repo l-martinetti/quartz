@@ -5,38 +5,30 @@ sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0p
 source_tab: "t.0"
 ---
 
-Un riferimento da consultare durante il gioco: luoghi organizzati per macroarea, personaggi riconoscibili e collegamenti alle informazioni del master.
+Un riferimento da consultare durante il gioco: luoghi, protagonisti e persone incontrate, con descrizioni e pochi eventi decisivi.
+
+## Le due compagnie
+
+**GLV**, prima compagnia: [[Personaggi/Compagnia GLV/Gatpick|Gatpick]], [[Personaggi/Compagnia GLV/Leysha|Leysha]] e [[Personaggi/Compagnia GLV/Viktor|Viktor]]. **EMNP**, seconda compagnia: [[Personaggi/Compagnia EMNP/Elias|Elias]], [[Personaggi/Compagnia EMNP/Merimbor|Merimbor]], [[Personaggi/Compagnia EMNP/Ninazù|Ninazù]] e [[Personaggi/Compagnia EMNP/Percy|Percy]]. Le sigle seguono l’ordine alfabetico dei nomi. EMNP è la formazione attuale: alla fine della sessione 10 viaggia con [[Personaggi/NPC/Vorsundeth/Corvus|Corvus]] verso [[Luoghi/Vorsundeth/Veldmark|Veldmark]], dove non è ancora entrata. Le vicende GLV appartengono alla fase precedente.
 
 ## Come orientarsi
 
-Apri Luoghi per scegliere una macroarea e poi una singola località. Nella scheda NPC trovi le persone raggruppate per zona. Fazioni e culti raccoglie organizzazioni, casati e riferimenti religiosi. Fonti e immagini conserva i rimandi al materiale originale.
+Apri [[Luoghi/index|Luoghi]] per scegliere una provincia o una città, poi i suoi punti d’interesse. [[Personaggi/index|Personaggi]] distingue le due compagnie dagli NPC. [[Istituzioni/index|Istituzioni]] raccoglie fazioni, casati e culti; [[Sessioni/index|Sessioni]] conserva i resoconti disponibili. [[Fonti/index|Fonti]] contiene riferimenti, grafie e galleria.
 
-## Che cosa significa una scheda
+## Come leggere le informazioni
 
-Ambientazione: descrizione fornita dal master nel canale comune. Osservato: fatto descritto in una scena di gruppo. Riferito: affermazione di un personaggio o di un documento, da valutare come testimonianza. Da confermare: grafia, identità o collegamento non risolto dalle fonti.
+**Ambientazione** è il contesto descritto dal master. **Osservato** è ciò che una scena mostra; **riferito** è una testimonianza di un personaggio o di un documento. Voci, leggende, sospetti e promesse mantengono questa natura. Le descrizioni generali non implicano che tutti i personaggi ne siano a conoscenza: incontri e scoperte restano attribuiti a chi li ha vissuti.
 
-E = riassunti della compagnia di [[Personaggi/Compagnia di Elias/Elias|Elias]]. V = riassunti della compagnia di Viktor. Le notizie di una compagnia non diventano automaticamente conoscenze dell’altra. Le informazioni tratte da V sono limitate a luoghi, ruoli pubblici e riferimenti generali; gli sviluppi delle sue indagini non sono riportati qui.
+E ed E S1–S10 indicano i riferimenti della seconda compagnia (EMNP); V e V S1–S27 quelli della prima (GLV). I resoconti mancanti non vengono ricostruiti dalle sole citazioni.
 
-## Aggiornamento delle informazioni
+## Confini e aggiornamenti
 
-La situazione attuale della compagnia di Elias è quella della sessione 10: viaggio con [[Personaggi/NPC/Vorsundeth/Corvus|Corvus]] verso [[Luoghi/Vorsundeth/Veldmark|Veldmark]]; l’ingresso in città resta da giocare. Le schede degli altri luoghi descrivono il momento delle rispettive fonti: non stabiliscono che quarantene, incarichi o rapporti politici siano ancora identici oggi.
+L’atlante aggiornato comprende anche scene e ricerche individuali della prima compagnia (GLV). Per Elias restano esclusi segreti personali, scene non condivise, retroscena familiari e comunicazioni private. Per gli altri PG EMNP si riportano eventi condivisi o noti ai compagni. Una conoscenza della prima compagnia non viene attribuita alla seconda.
 
-Per aggiungere una notizia, indica chi l’ha riferita o dove è stata osservata. Conserva dubbi e versioni contrastanti. I menu di stato segnalano le sezioni da aggiornare.
+Le condizioni di città, incarichi e rapporti politici rispecchiano il periodo narrato. Integra gli sviluppi nelle schede senza trasformare promesse in eventi compiuti; conserva le informazioni delle altre fonti e segnala eventuali divergenze. Le date reali di Discord non sono date del calendario dell’ambientazione.
 
-## Confini dell’archivio
-
-Sono escluse le informazioni riservate dei personaggi, le scene individuali non condivise, i retroscena familiari, le comunicazioni private e le deduzioni non espresse al gruppo. Per i contenuti dubbi si mantiene soltanto la descrizione pubblica.
-
-Le date di Discord sono date di pubblicazione reali, non date del calendario dell’ambientazione.
-
-Stato dell’archivio: Bozza condivisibile
-
-## Percorsi nella wiki
-
-[[Luoghi/index|Luoghi]] · [[Personaggi/index|Personaggi]] · [[Istituzioni/index|Fazioni, casati e culti]] · [[Sessioni/index|Diario]] · [[Fonti/index|Fonti]]
-
-Le cronache qui raccolte mantengono le informazioni condivise; una scena riservata o una comunicazione privata non diventa conoscenza comune per il solo fatto di essere annotata in un resoconto.
+→ [[Fonti/Integrazione atlante 2026-10-27|Registro dell’integrazione]]
 
 ---
 
-Fonte: [L’Eco dei Fuochi Antichi — Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.0).
+Fonte: [Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.0).

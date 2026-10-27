@@ -14,7 +14,7 @@ Le domande di questa pagina riassumono dubbi espressi o lasciati aperti dalle fo
 | Altre strutture | Il gruppo ricorda che un automa ne ha parlato. | Ubicazione, natura e pericoli. |
 | Gli ululati | Numerosi richiami vicini hanno interrotto la sosta. | Identità delle creature e ragione della loro presenza. |
 | Liam e Ghilda | Sono comparsi nomi e apparizioni nella miniera. | Identità e legame preciso tra le figure. |
-| Il laboratorio | Le annotazioni descrivono [[Luoghi/Vorsundeth/Motore ULTIMA|Motore ULTIMA]], ancoraggi e [[Personaggi/NPC/Vorsundeth/Atma|Atma]]. | Una ricostruzione completa, distinta dalle affermazioni dell’autore. |
+| Il laboratorio | Le annotazioni descrivono [[Luoghi/Vorsundeth/Miniere dell’Abisso/Motore ULTIMA|Motore ULTIMA]], ancoraggi e [[Personaggi/NPC/Vorsundeth/Atma|Atma]]. | Una ricostruzione completa, distinta dalle affermazioni dell’autore. |
 
 Per i reperti: [[Conoscenze/index|scoperte e documenti]]. Per i nomi incerti: [[Fonti/Grafie da confermare|grafie da confermare]].
 

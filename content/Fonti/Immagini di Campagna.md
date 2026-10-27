@@ -6,14 +6,14 @@ Questi tre riferimenti visivi compaiono nella scheda della sessione 3 del docume
 
 ## Riferimento 1
 
-![Riferimento visivo 1 della sessione 3](../assets/DEND/campagna-sessione-3-il-fantasma-di-liam-sessione-3-il-fantasma-di-liam-1.png)
+![[assets/DEND/campagna-sessione-3-il-fantasma-di-liam-sessione-3-il-fantasma-di-liam-1.png|Riferimento visivo 1 della sessione 3]]
 
 ## Riferimento 2
 
-![Riferimento visivo 2 della sessione 3](../assets/DEND/campagna-sessione-3-il-fantasma-di-liam-sessione-3-il-fantasma-di-liam-2.png)
+![[assets/DEND/campagna-sessione-3-il-fantasma-di-liam-sessione-3-il-fantasma-di-liam-2.png|Riferimento visivo 2 della sessione 3]]
 
 ## Riferimento 3
 
-![Riferimento visivo 3 della sessione 3](../assets/DEND/campagna-sessione-3-il-fantasma-di-liam-sessione-3-il-fantasma-di-liam-3.png)
+![[assets/DEND/campagna-sessione-3-il-fantasma-di-liam-sessione-3-il-fantasma-di-liam-3.png|Riferimento visivo 3 della sessione 3]]
 
 → [[Fonti/Galleria|Altri riferimenti visivi]]

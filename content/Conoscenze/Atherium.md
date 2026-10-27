@@ -5,9 +5,9 @@ sources: ["https://docs.google.com/document/d/1qBCdvsNVZTxvEwtIsxk8gWuU_yFiqPoD0
 
 Nome del minerale emerso durante il confronto del gruppo nella [[Sessioni/Compagnia di Elias/Sessione 04|sessione 4]]. Gli appunti lo descrivono come strumento o catalizzatore; non ne danno una teoria completa.
 
-Secondo l’Annotazione II, nel [[Luoghi/Vorsundeth/Paradiso artificiale del laboratorio|paradiso artificiale]] l’Atherium conserva le impronte dei visitatori, mentre un vincolo trattiene le anime. È la spiegazione dell’autore per quel laboratorio: non dimostra che il minerale abbia sempre la stessa funzione altrove.
+Secondo l’Annotazione II, nel [[Luoghi/Vorsundeth/Miniere dell’Abisso/Paradiso artificiale del laboratorio|paradiso artificiale]] l’Atherium conserva le impronte dei visitatori, mentre un vincolo trattiene le anime. È la spiegazione dell’autore per quel laboratorio: non dimostra che il minerale abbia sempre la stessa funzione altrove.
 
-→ [[Luoghi/Vorsundeth/Miniere dell’Abisso|Miniere dell’Abisso]] · [[Luoghi/Vorsundeth/Motore ULTIMA|Motore ULTIMA]]
+→ [[Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] · [[Luoghi/Vorsundeth/Miniere dell’Abisso/Motore ULTIMA|Motore ULTIMA]]
 
 ---
 

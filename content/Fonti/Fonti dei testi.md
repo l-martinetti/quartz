@@ -5,9 +5,9 @@ sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0p
 source_tab: "t.awzgc7k054kt"
 ---
 
-E S1–S10: riassunti di sessione conservati nella cartella [[Personaggi/Compagnia di Elias/Elias|Elias]]. Per la sessione 10 si usa anche il racconto condiviso, più completo degli appunti sintetici.
+E S1–S10: riassunti di sessione conservati nella cartella [[Personaggi/Compagnia EMNP/Elias|Elias]]. Per la sessione 10 si usa anche il racconto condiviso, più completo degli appunti sintetici.
 
-V S1–S27: riassunti della cartella Viktor; S5 e S5-v2 sono varianti da confrontare, non due eventi distinti. S14 è vuoto e alcuni altri file sono molto brevi. Non si colmano i vuoti con invenzioni.
+V S1–S27: riassunti della cartella [[Personaggi/Compagnia GLV/Viktor|Viktor]]; S5 e S5-v2 sono varianti da confrontare, non due eventi distinti. S14 è vuoto e alcuni altri file sono molto brevi. Non si colmano i vuoti con invenzioni.
 
 [Sessione 10 — racconto condiviso.](https://docs.google.com/document/d/1uuyLUg1J2151MfpfdYdjuxCQAzGoR67cOWdbqlm3fXM/edit?usp=drivesdk)
 

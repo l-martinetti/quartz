@@ -2,7 +2,7 @@
 title: "Sessioni — compagnia di Elias"
 ---
 
-La compagnia è formata da [[Personaggi/Compagnia di Elias/Elias|Elias]], [[Personaggi/Compagnia di Elias/Merimbor|Merimbor]], [[Personaggi/Compagnia di Elias/Percy|Percy]] e [[Personaggi/Compagnia di Elias/Ninazù|Ninazù]].
+La compagnia è formata da [[Personaggi/Compagnia EMNP/Elias|Elias]], [[Personaggi/Compagnia EMNP/Merimbor|Merimbor]], [[Personaggi/Compagnia EMNP/Percy|Percy]] e [[Personaggi/Compagnia EMNP/Ninazù|Ninazù]].
 
 | Sessione | Titolo o riferimento | Materiale disponibile |
 | --- | --- | --- |

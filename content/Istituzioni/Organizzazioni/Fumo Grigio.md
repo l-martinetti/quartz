@@ -3,14 +3,17 @@ title: "Fumo Grigio"
 tags: ["istituzioni"]
 sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
 source_tab: "t.3mxkn7n0p9yw"
+source_heading: "h.8r0gbdoembs5"
 ---
 
-Banda mercenaria che accompagna la carovana della spedizione settentrionale. Subisce perdite durante l’attacco; nella sessione 10 [[Personaggi/NPC/Vorsundeth/Corvus|Corvus]] parla con tre superstiti. Non sono disponibili i loro nomi.
+Banda mercenaria al seguito della carovana diretta alle [[Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] con la seconda compagnia (EMNP). Subisce perdite durante l’attacco alla spedizione; dopo l’uscita dal complesso, [[Personaggi/NPC/Vorsundeth/Corvus|Corvus]] parla con tre superstiti. La loro presenza resta parte degli equilibri dell’accampamento.
+
+I nomi dei tre superstiti non sono disponibili.
+
+→ [[Istituzioni/Organizzazioni/index|Organizzazioni]]
 
 Fonti: E S1–S3, S10.
 
-→ [[Istituzioni/Organizzazioni/index|Organizzazioni]] · [[Istituzioni/index|Tutte le istituzioni]]
-
 ---
 
-Fonte: [L’Eco dei Fuochi Antichi — Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.3mxkn7n0p9yw).
+Fonte: [Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.3mxkn7n0p9yw).

@@ -1,14 +1,30 @@
 ---
-title: "Luoghi e macroaree"
+title: "Atlante dei luoghi"
 ---
 
-Le macroaree servono a orientarsi nell’atlante. Dove le fonti non definiscono confini geografici, questi raggruppamenti non stabiliscono divisioni politiche.
+Città e province hanno una scheda principale con i propri luoghi d’interesse. Gli indici di viaggio servono a orientarsi e non stabiliscono da soli confini politici.
+
+[[Luoghi/Continente dell’Impero Infinito|Il continente]] · [[Istituzioni/Impero Infinito|Impero Infinito]]
+
+## Province e città imperiali
 
 - [[Luoghi/Vorsundeth/index|Vorsundeth]]
-- [[Luoghi/Forte Victoria e Adeban/index|Forte Victoria e Adeban]]
+- [[Luoghi/Forte Victoria/index|Provincia di Forte Victoria]]
+- [[Luoghi/Eupharos/index|Eupharos]]
 - [[Luoghi/Estion/index|Estion]]
 - [[Luoghi/Estran/index|Estran]]
-- [[Luoghi/Eupharos e il Crocevia/index|Eupharos e il Crocevia]]
-- [[Luoghi/Confini e altre regioni/index|Confini e altre regioni]]
+- [[Luoghi/Deserto meridionale/index|Deserto meridionale]]
+- [[Luoghi/Paesaggi dell’Impero/index|Paesaggi dell’Impero — deserti e foreste]]
 
-La compagnia di Elias si trova in [[Vorsundeth/index|Vorsundeth]]. Le schede degli altri territori conservano ambientazione comune e riferimenti del percorso di Viktor; non ne rendono automatiche le conoscenze per l’altra compagnia.
+## Frontiera e percorsi
+
+- [[Luoghi/Adeban/index|Adeban — città di frontiera]]
+- [[Luoghi/Crocevia/index|Crocevia — Thal’hal, Verdelago e Zanne Gemelle]]
+
+## Altri territori e storia antica
+
+- [[Luoghi/Confini e altre regioni/index|Terre lontane e luoghi antichi]]
+- [[Luoghi/Terra degli Spiriti/index|Terra degli Spiriti — continente orientale]]
+- [[Luoghi/Isole e terre del nord/index|Isole e terre del nord]]
+
+→ [[index|Pagina iniziale]]

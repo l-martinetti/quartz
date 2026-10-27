@@ -3,7 +3,7 @@ title: "Messaggi dei Vigilanti"
 sources: ["https://docs.google.com/document/d/1qBCdvsNVZTxvEwtIsxk8gWuU_yFiqPoD0dmWr4EbvHM"]
 ---
 
-I messaggi sono stati recuperati nella sala delle comunicazioni delle [[Luoghi/Vorsundeth/Miniere dell’Abisso|Miniere dell’Abisso]] e condivisi dal gruppo nella [[Sessioni/Compagnia di Elias/Sessione 04|sessione 4]].
+I messaggi sono stati recuperati nella sala delle comunicazioni delle [[Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] e condivisi dal gruppo nella [[Sessioni/Compagnia di Elias/Sessione 04|sessione 4]].
 
 ## Messaggio incompleto su pergamena
 
@@ -19,6 +19,8 @@ I messaggi sono stati recuperati nella sala delle comunicazioni delle [[Luoghi/V
 I testi citano i [[Istituzioni/Organizzazioni/Vigilanti e Terzo Legato|Vigilanti]], un Terzo Legato, livelli inferiori attivi e un’evacuazione negata. Essendo incompleti, non identificano da soli tutti i responsabili e non ricostruiscono l’intera sequenza degli eventi.
 
 Il sigillo dei Vigilanti trovato nei registri presenta **tre stelle**.
+
+→ [[Conoscenze/index|Scoperte e documenti]]
 
 ---
 

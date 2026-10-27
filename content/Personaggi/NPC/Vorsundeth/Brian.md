@@ -3,14 +3,17 @@ title: "Brian"
 tags: ["personaggi/npc"]
 sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
 source_tab: "t.ppkatng3omei"
+source_heading: "h.rostwhasqkgp"
 ---
 
-Scriba imperiale addetto all’inventario della carovana. È stato ucciso da una freccia durante l’imboscata. I documenti trasportati dalla spedizione compaiono nelle successive discussioni del gruppo; il loro contenuto riservato non è riportato qui.
+Scriba imperiale incaricato dell’inventario della carovana diretta alle [[Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]]. Muore colpito da una freccia durante l’imboscata subita dalla spedizione con la seconda compagnia (EMNP). I documenti che trasportava diventano uno degli elementi discussi dopo l’attacco.
 
-Fonti: E S1–S3.
+Il contenuto riservato dei documenti della spedizione non è riportato nelle fonti condivise.
 
 → [[Personaggi/NPC/Vorsundeth/index|Persone — Vorsundeth]] · [[Personaggi/NPC/index|Tutti gli NPC]]
 
+Fonti: E S1–S3.
+
 ---
 
-Fonte: [L’Eco dei Fuochi Antichi — Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.ppkatng3omei).
+Fonte: [Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.ppkatng3omei).

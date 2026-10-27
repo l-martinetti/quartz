@@ -2,7 +2,7 @@
 title: "Persone — Vorsundeth"
 ---
 
-Figure della spedizione e del complesso minerario note alla compagnia di Elias.
+Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. Non stabilisce residenza o appartenenza politica.
 
 - [[Personaggi/NPC/Vorsundeth/Boren Rusk|Boren Rusk]]
 - [[Personaggi/NPC/Vorsundeth/Corvus|Corvus]]
@@ -10,9 +10,9 @@ Figure della spedizione e del complesso minerario note alla compagnia di Elias.
 - [[Personaggi/NPC/Vorsundeth/Liam|Liam]]
 - [[Personaggi/NPC/Vorsundeth/Ghilda|Ghilda]]
 - [[Personaggi/NPC/Vorsundeth/Xir’tic|Xir’tic]]
-- [[Personaggi/NPC/Vorsundeth/Ramia - Rania|Ramia / Rania]]
+- [[Personaggi/NPC/Vorsundeth/Ramia|Ramia]]
 - [[Personaggi/NPC/Vorsundeth/Abris|Abris]]
 - [[Personaggi/NPC/Vorsundeth/Gran Duca Barein|Gran Duca Barein]]
 - [[Personaggi/NPC/Vorsundeth/Atma|Atma]]
 
-→ [[Personaggi/NPC/index|Tutti gli NPC]] · [[Luoghi/index|Luoghi]]
+→ [[Personaggi/NPC/index|Indice superiore]]

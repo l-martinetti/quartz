@@ -2,10 +2,13 @@
 title: "Culti e tradizioni"
 ---
 
-- [[Istituzioni/Culti/Thyris|Thyris]]
-- [[Istituzioni/Culti/Ather|Ather]]
-- [[Istituzioni/Culti/Iona|Iona]]
-- [[Istituzioni/Culti/Everyil|Everyil]]
-- [[Istituzioni/Culti/Bethor|Bethor]]
+Ruoli, alleanze, tradizioni e rapporti documentati con le compagnie. I sospetti restano distinti dalle responsabilità accertate.
 
-→ [[Istituzioni/index|Fazioni, casati e culti]]
+- [[Istituzioni/Culti/Ather|Ather]]
+- [[Istituzioni/Culti/Bethor|Bethor]]
+- [[Istituzioni/Culti/Everyil|Everyil]]
+- [[Istituzioni/Culti/Iona|Iona]]
+- [[Istituzioni/Culti/Thyris|Thyris]]
+- [[Istituzioni/Culti/Vokmos|Vokmos]]
+
+→ [[Istituzioni/index|Indice superiore]]

@@ -1,14 +1,18 @@
 ---
 title: "NPC e figure nominate"
+aliases: ["Personaggi/NPC/Forte Victoria e Adeban/index", "Personaggi/NPC/Eupharos e il Crocevia/index"]
 ---
 
-Persone e figure incontrate o nominate nelle fonti comuni. Le schede privilegiano aspetto, ruolo, luoghi di riferimento e informazioni utili per riconoscerle. I personaggi giocanti hanno una [[Personaggi/Compagnia di Elias/index|sezione distinta]].
+Aspetto, ruolo, incontri e questioni aperte; ogni evento conserva l’attribuzione alla compagnia o al singolo che lo ha vissuto.
 
 - [[Personaggi/NPC/Vorsundeth/index|Vorsundeth]]
-- [[Personaggi/NPC/Forte Victoria e Adeban/index|Forte Victoria e Adeban]]
+- [[Personaggi/NPC/Forte Victoria/index|Forte Victoria]]
+- [[Personaggi/NPC/Adeban/index|Adeban]]
 - [[Personaggi/NPC/Estion e studiosi/index|Estion e studiosi]]
 - [[Personaggi/NPC/Estran/index|Estran]]
-- [[Personaggi/NPC/Eupharos e il Crocevia/index|Eupharos e il Crocevia]]
+- [[Personaggi/NPC/Eupharos/index|Eupharos]]
+- [[Personaggi/NPC/Crocevia/index|Crocevia]]
+- [[Personaggi/NPC/Altre terre/index|Altre terre]]
 - [[Personaggi/NPC/Da collocare/index|Da collocare]]
 
-I raggruppamenti seguono l’atlante: per alcune figure la collocazione resta incerta, come specificato nella singola scheda.
+→ [[Personaggi/index|Indice superiore]]

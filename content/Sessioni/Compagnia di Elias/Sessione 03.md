@@ -36,7 +36,7 @@ Boren ordina di cercare Liam e rimane indietro, senza spiegare chiaramente che c
 
 Percy, Elias e Ninazù attraversano gli ambienti della miniera e raggiungono un grande ponte. Liam è dall’altra parte, ripete una cantilena e tiene un oggetto luminoso.
 
-Percy usa più volte una pergamena con formule diverse, finché l’oggetto smette di brillare. Liam sostiene di essere morto e che il suo corpo si trovi nell’[[Luoghi/Vorsundeth/Miniere dell’Abisso#Infermeria|infermeria]]. Poi scompare come polvere nel vento. È una dichiarazione dell’apparizione: il gruppo non ha ancora una spiegazione completa.
+Percy usa più volte una pergamena con formule diverse, finché l’oggetto smette di brillare. Liam sostiene di essere morto e che il suo corpo si trovi nell’[[Luoghi/Vorsundeth/Miniere dell’Abisso/Infermeria|infermeria]]. Poi scompare come polvere nel vento. È una dichiarazione dell’apparizione: il gruppo non ha ancora una spiegazione completa.
 
 Al ritorno, i compagni raccontano l’accaduto a Merimbor. Lui riferisce di aver tentato di capire che cosa facesse Boren e di averlo visto usare un oggetto strano, senza ricavarne una conclusione.
 
@@ -44,7 +44,7 @@ Al ritorno, i compagni raccontano l’accaduto a Merimbor. Lui riferisce di aver
 
 La discussione sul servizio all’Impero resta aperta: Merimbor lo considera utile ai propri scopi; Percy osserva che l’Impero potrebbe ragionare allo stesso modo nei suoi confronti. Boren interrompe il confronto e rimanda l’esplorazione al mattino. Xir’tic non è ancora stato ritrovato.
 
-→ [[Sessioni/Compagnia di Elias/Sessione 04|Sessione 4]] · [[Luoghi/Vorsundeth/Miniere dell’Abisso|La miniera]] · [[Sessioni/Compagnia di Elias/index|Indice]]
+→ [[Sessioni/Compagnia di Elias/Sessione 04|Sessione 4]] · [[Luoghi/Vorsundeth/Miniere dell’Abisso/index|La miniera]] · [[Sessioni/Compagnia di Elias/index|Indice]]
 
 ---
 

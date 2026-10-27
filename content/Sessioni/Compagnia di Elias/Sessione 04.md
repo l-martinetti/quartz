@@ -42,7 +42,7 @@ Nei livelli inferiori compaiono una sagoma simile a Liam e figure spettrali di u
 
 Una scossa fa cadere massi e distrugge l’ascensore. Un ruggito riempie l’ambiente; da un varco emerge un’immensa creatura. Il resoconto disponibile termina qui, senza identificarla.
 
-→ [[Luoghi/Vorsundeth/Miniere dell’Abisso|Luoghi della miniera]] · [[Sessioni/Compagnia di Elias/index|Cronologia e lacune]]
+→ [[Luoghi/Vorsundeth/Miniere dell’Abisso/index|Luoghi della miniera]] · [[Sessioni/Compagnia di Elias/index|Cronologia e lacune]]
 
 ---
 

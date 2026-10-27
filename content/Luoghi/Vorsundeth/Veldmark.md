@@ -2,17 +2,15 @@
 title: "Veldmark"
 tags: ["luoghi"]
 sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
-source_tab: "t.1mfsmomoyiod"
+source_tab: "t.8ahxziqw6m29"
 ---
 
-Città costruita dentro una montagna spezzata. È la destinazione del gruppo alla fine della sessione 10. [[Personaggi/NPC/Vorsundeth/Corvus|Corvus]] riferisce che qui potranno parlare con più calma ed essere ospitati presso la sede della Gilda.
+Città costruita dentro una montagna spezzata, verso cui si dirige la seconda compagnia (EMNP) dopo l’uscita dalle [[Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]]. [[Personaggi/NPC/Vorsundeth/Corvus|Corvus]] promette ospitalità presso la sede della Gilda e la possibilità di parlare con più calma; qui è previsto anche il pagamento della spedizione. L’ingresso in città e l’accoglienza devono ancora avvenire.
 
-Punti utili: sede della Gilda; luogo previsto per il pagamento della spedizione. L’accoglienza e il pagamento sono promesse, non eventi già avvenuti.
+Veldmark resta distinta dal [[Luoghi/Vorsundeth/Bastione di Vetro|Bastione di Vetro]]. Accoglienza e pagamento sono promesse, non eventi già avvenuti.
 
-Stato: destinazione, ingresso ancora da giocare. Non è stabilito che Veldmark coincida con [[Luoghi/Vorsundeth/Bastione di Vetro|il Bastione di Vetro]]. Fonti: E S10, riassunto condiviso della sessione 10.
-
-→ [[Luoghi/Vorsundeth/index|Vorsundeth]] · [[Luoghi/index|Tutti i luoghi]]
+→ [[Luoghi/index|Tutti i luoghi]]
 
 ---
 
-Fonte: [L’Eco dei Fuochi Antichi — Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.1mfsmomoyiod).
+Fonte: [Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.8ahxziqw6m29).

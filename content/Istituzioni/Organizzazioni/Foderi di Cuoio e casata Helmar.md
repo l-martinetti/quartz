@@ -3,18 +3,19 @@ title: "Foderi di Cuoio e casata Helmar"
 tags: ["istituzioni"]
 sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
 source_tab: "t.3mxkn7n0p9yw"
+source_heading: "h.nfrwn2wlz1yc"
 ---
 
-![Foderi di Cuoio e casata Helmar](<../../assets/DEND/atlante-fazioni-e-culti-foderi-di-cuoio-e-casata-helmar-2.png>)
+![[assets/DEND/atlante-fazioni-e-culti-foderi-di-cuoio-e-casata-helmar-2.png|Foderi di Cuoio e casata Helmar]]
 
-[Ritratto pubblicato sotto la didascalia «Casata Helmar»; persona non identificata.](https://discord.com/channels/1469621626717864096/1469628303877865587/1494981692060860447)
+Corpo di sicurezza di [[Luoghi/Estran/index|Estran]], riconoscibile dalle casacche verdi e blu e dallo stemma con due foderi e una spada. [[Personaggi/NPC/Estran/Hessa Helmar|Hessa Helmar]] affida alla prima compagnia (GLV) distintivi da collaboratori e indagini sul Terzo Occhio. Il controllo portuale delle [[Istituzioni/Organizzazioni/Fauci di Mare|Fauci di Mare]] e il coinvolgimento di [[Personaggi/NPC/Estran/Rael|Rael]] rivelano tensioni interne. Dopo l’assalto ai Dadi Placcati i Foderi isolano l’area, ma la compagnia mantiene dubbi sulla chiusura dell’indagine e trattiene i distintivi richiesti da Hessa.
 
-Corpo di sicurezza presente a [[Luoghi/Estran/index|Estran]]. [[Personaggi/NPC/Estran/Hessa Helmar|Hessa Helmar]] è il riferimento del gruppo di Viktor; il canale del master conserva un ritratto associato alla casata Helmar. Corpo e casata non sono considerati automaticamente la stessa organizzazione.
+Il corpo e la casata Helmar non sono considerati automaticamente la stessa organizzazione; il ritratto pubblicato dal master è associato alla casata.
+
+→ [[Istituzioni/Organizzazioni/index|Organizzazioni]]
 
 [Fonti: V S8–S21; Ambientazione, casata Helmar.](https://discord.com/channels/1469621626717864096/1469628303877865587/1494981692060860447)
 
-→ [[Istituzioni/Organizzazioni/index|Organizzazioni]] · [[Istituzioni/index|Tutte le istituzioni]]
-
 ---
 
-Fonte: [L’Eco dei Fuochi Antichi — Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.3mxkn7n0p9yw).
+Fonte: [Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.3mxkn7n0p9yw).
