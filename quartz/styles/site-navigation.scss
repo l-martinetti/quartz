@@ -54,6 +54,28 @@
     }
   }
 
+  .campaign-nav summary {
+    display: flex;
+    align-items: baseline;
+    &::before {
+      flex-shrink: 0;
+    }
+  }
+
+  .campaign-nav summary > .campaign-folder-link {
+    flex: 1;
+    min-width: 0;
+    padding: 0.45rem 0;
+    border: 0;
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+  }
+
+  .campaign-nav summary:has(> .campaign-folder-link) {
+    padding-block: 0;
+  }
+
   .campaign-nav details[open] > summary::before,
   .page-outline details[open] > summary::before {
     transform: rotate(45deg);
@@ -207,6 +229,43 @@
     font-size: 0.9375rem;
     overflow-wrap: anywhere;
   }
+
+  // Folder and tag indexes use the same reading area as individual notes.
+  .page-body .page-listing {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--lightgray);
+    > p {
+      font-size: 1rem;
+      color: var(--gray);
+    }
+    .section-ul {
+      margin: 1rem 0 0;
+      padding: 0;
+    }
+    .section-li {
+      margin: 0;
+      border-bottom: 1px solid var(--lightgray);
+    }
+    .section {
+      display: block;
+      padding-block: 0.7rem;
+    }
+    .section .meta,
+    .section .tags {
+      display: none;
+    }
+    .section h3 {
+      margin: 0;
+      font-size: 1.125rem;
+      line-height: 1.5;
+    }
+    .section a {
+      display: block;
+      background: transparent;
+      overflow-wrap: anywhere;
+    }
+  }
 }
 
 // The default frame places these regions inside .center; expose them to the grid
@@ -219,6 +278,15 @@
   }
   > .center {
     display: contents;
+  }
+  > .center > .page-body {
+    grid-area: grid-center;
+    box-sizing: border-box;
+    width: 100%;
+    min-width: 0;
+    max-width: 52rem;
+    margin-inline: auto;
+    overflow-wrap: anywhere;
   }
   > .center > hr {
     display: none;
@@ -248,15 +316,8 @@
     > .sidebar.right {
       padding-top: 6rem;
     }
-    &:has(> .sidebar.right:empty) {
-      grid-template-columns: 280px minmax(0, 1fr) 0;
-    }
     > .sidebar.right:empty {
       display: none;
-    }
-    .center > article {
-      max-width: 52rem;
-      margin-inline: auto;
     }
     .page-header {
       width: 100%;

@@ -1,7 +1,7 @@
 ---
 title: "Terre lontane e luoghi antichi"
 tags: ["luoghi"]
-sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
+sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ", "https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit"]
 source_tab: "t.saj8yxflut8x"
 ---
 
@@ -14,5 +14,11 @@ Territori esterni all’Impero e riferimenti storici. Vespera originale resta di
 - [[Luoghi/Confini e altre regioni/Elburn|Elburn]]
 - [[Luoghi/Terra degli Spiriti/index|Terra degli Spiriti]]
 - [[Luoghi/Isole e terre del nord/index|Isole e terre del nord]]
+
+## Approfondimenti
+
+- [[Luoghi/Confini e altre regioni/Regno d’Oltremare|Regno d’Oltremare]]
+
+Fonte delle informazioni aggiunte: [Compendio di Valendar per i giocatori](https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit).
 
 → [[Luoghi/index|Indice superiore]]

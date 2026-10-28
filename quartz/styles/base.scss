@@ -281,8 +281,9 @@ a {
       }
     }
 
-    & .center > article {
+    & .center > .page-body {
       grid-area: grid-center;
+      min-width: 0;
     }
 
     & footer {

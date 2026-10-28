@@ -6,7 +6,7 @@ source_tab: "t.ppkatng3omei"
 source_heading: "h.eebs1t76jswj"
 ---
 
-Studioso di storia antica, legato a [[Personaggi/NPC/Estion e studiosi/Berek Catena d’Argento|Berek]] e alle ricerche su [[Personaggi/NPC/Estion e studiosi/Vael-korun|Vael-korun]]. Opera anche a [[Luoghi/Crocevia/Thal’hal|Thal’hal]], dove il nuovo governatore ostacola il suo lavoro. Per la prima compagnia (GLV) esamina una pietra runica, confrontandone i segni con quelli delle rovine nelle foreste degli elfi attraverso occhiali con più lenti. L’origine delle costruzioni rimane incerta e prepara una spedizione da avviare dopo oltre un mese di lavori. Considera inoltre il bracciale ottenuto da [[Personaggi/Compagnia GLV/Leysha|Leysha]] un possibile tesoro di [[Istituzioni/Culti/Everyil|Everyil]].
+Studioso di storia antica, legato a [[Personaggi/NPC/Estion e studiosi/Berek Catena d’Argento|Berek]] e alle ricerche su [[Personaggi/NPC/Estion e studiosi/Vael-korun|Vael-korun]]. Opera anche a [[Luoghi/Crocevia/Thal’hal|Thal’hal]], dove il nuovo governatore ostacola il suo lavoro. Per la prima compagnia (GLV) esamina una pietra runica, confrontandone i segni con quelli delle rovine nelle foreste degli elfi attraverso occhiali con più lenti. L’origine delle costruzioni rimane incerta e prepara una spedizione da avviare dopo oltre un mese di lavori. Considera inoltre il bracciale ottenuto da [[Personaggi/Compagnia GLV/Leysha|Leysha]] un possibile tesoro di [[Everil|Everil]].
 
 Le ricerche di storia antica degli elfi restano fra i suoi ambiti di studio documentati.
 

@@ -288,7 +288,7 @@ body {
     line-height: 1.2;
   }
 
-  .center > article {
+  .page-body {
     --font-text-size: 1.125rem;
     font-size: var(--font-text-size);
     line-height: 1.65;
@@ -473,7 +473,7 @@ body {
 }
 
 @media all and ($mobile) {
-  :root[saved-theme] .page .center > article {
+  :root[saved-theme] .page .page-body {
     --font-text-size: 1.0625rem;
   }
 }

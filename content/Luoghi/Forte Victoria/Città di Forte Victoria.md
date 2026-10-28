@@ -1,7 +1,7 @@
 ---
 title: "Forte Victoria"
 tags: ["luoghi"]
-sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
+sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ", "https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit"]
 source_tab: "t.l4dkpux5c7s2"
 aliases: ["Luoghi/Forte Victoria e Adeban/Forte Victoria"]
 ---
@@ -15,6 +15,12 @@ Il master lo presenta come ultimo avamposto imperiale prima dei territori dei Na
 ## Luoghi da esplorare
 
 - [[Luoghi/Forte Victoria/Piazza centrale di Forte Victoria|Piazza centrale di Forte Victoria]]
+
+## Posizione e collegamenti
+
+Bastione settentrionale e accesso al [[Luoghi/Paesaggi dell’Impero/Tetto del Mondo|Tetto del Mondo]] e al regno dei nani. Controlla il passaggio di carovane, truppe e ambascerie.
+
+Fonte delle informazioni aggiunte: [Compendio di Valendar per i giocatori](https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit).
 
 → [[Luoghi/index|Tutti i luoghi]] · [[Personaggi/NPC/Forte Victoria/index|Persone di riferimento]]
 

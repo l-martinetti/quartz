@@ -1,5 +1,6 @@
 ---
 title: "Organizzazioni e corpi"
+sources: ["https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit"]
 ---
 
 Ruoli, alleanze, tradizioni e rapporti documentati con le compagnie. I sospetti restano distinti dalle responsabilità accertate.
@@ -18,5 +19,17 @@ Ruoli, alleanze, tradizioni e rapporti documentati con le compagnie. I sospetti 
 - [[Istituzioni/Organizzazioni/Spadaccini imperiali|Spadaccini imperiali]]
 - [[Istituzioni/Organizzazioni/Vigilanti e Terzo Legato|Vigilanti e Terzo Legato]]
 - [[Istituzioni/Organizzazioni/Volpe Rossa|Volpe Rossa]]
+
+## Approfondimenti
+
+- [[Istituzioni/Organizzazioni/Esercito Imperiale|Esercito Imperiale]]
+- [[Istituzioni/Organizzazioni/Maghi Imperiali|Maghi Imperiali]]
+- [[Istituzioni/Organizzazioni/Gilda delle Vene di Vorsundeth|Gilda delle Vene di Vorsundeth]]
+- [[Istituzioni/Organizzazioni/Grande Compagnia dei Mercanti|Grande Compagnia dei Mercanti]]
+- [[Istituzioni/Organizzazioni/Cartografi del Vento|Cartografi del Vento]]
+- [[Istituzioni/Organizzazioni/Ordine della Legge|Ordine della Legge]]
+- [[Istituzioni/Organizzazioni/Cavalieri della Polvere|Cavalieri della Polvere]]
+
+Fonte delle informazioni aggiunte: [Compendio di Valendar per i giocatori](https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit).
 
 → [[Istituzioni/index|Indice superiore]]

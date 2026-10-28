@@ -36,7 +36,9 @@ export const FullWidthFrame: PageFrame = {
               ))}
             </div>
           </div>
-          <Content {...componentData} />
+          <main id="page-content" class="page-body">
+            <Content {...componentData} />
+          </main>
           <hr />
           <div class="page-footer">
             {afterBody.map((BodyComponent) => (

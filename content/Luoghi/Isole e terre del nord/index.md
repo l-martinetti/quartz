@@ -1,5 +1,6 @@
 ---
 title: "Isole e terre del nord"
+sources: ["https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit"]
 ---
 
 Raggruppamento di consultazione: non stabilisce da solo confini politici o appartenenze continentali.
@@ -11,5 +12,12 @@ Raggruppamento di consultazione: non stabilisce da solo confini politici o appar
 - [[Luoghi/Isole e terre del nord/Castelli dei giganti delle tempeste|Castelli dei giganti delle tempeste]]
 - [[Luoghi/Isole e terre del nord/Paludi a nord dei Liberi Confini|Paludi a nord dei Liberi Confini]]
 - [[Luoghi/Isole e terre del nord/Terra dei Goliath|Terra dei Goliath]]
+
+## Approfondimenti
+
+- [[Luoghi/Isole e terre del nord/Arcipelago dei Lampi|Arcipelago dei Lampi]]
+- [[Luoghi/Isole e terre del nord/Isola di Smeraldo|Isola di Smeraldo]]
+
+Fonte delle informazioni aggiunte: [Compendio di Valendar per i giocatori](https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit).
 
 → [[Luoghi/index|Indice superiore]]

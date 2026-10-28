@@ -1,7 +1,7 @@
 ---
 title: "Adeban"
 tags: ["luoghi"]
-sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
+sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ", "https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit"]
 source_tab: "t.rx6jsnc3v1po"
 aliases: ["Luoghi/Forte Victoria e Adeban/Adeban"]
 ---
@@ -18,6 +18,12 @@ Le testimonianze dei fuggitivi parlano di ombre e fenomeni anomali: restano racc
 - [[Luoghi/Adeban/Zona oltre la cinta interna|Zona oltre la cinta interna]]
 - [[Luoghi/Adeban/Santuario di Adeban|Santuario di Adeban]]
 - [[Luoghi/Adeban/Residenza del governatore|Residenza del governatore]]
+
+## Posizione e collegamenti
+
+[[Luoghi/Estran/Porto|Porto]] di contatto con i [[Luoghi/Confini e altre regioni/Liberi Confini|Liberi Confini]]. Conserva una forte identità locale e una tradizione di autonomia.
+
+Fonte delle informazioni aggiunte: [Compendio di Valendar per i giocatori](https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit).
 
 → [[Luoghi/index|Tutti i luoghi]] · [[Personaggi/NPC/Adeban/index|Persone di riferimento]]
 

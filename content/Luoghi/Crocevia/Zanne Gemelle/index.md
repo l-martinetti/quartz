@@ -2,7 +2,7 @@
 title: "Zanne Gemelle"
 aliases: ["Zanne Gemelle", "Punte Gemelle", "Catena delle Zanne Gemelle", "Luoghi/Eupharos e il Crocevia/Catena delle Zanne Gemelle"]
 tags: ["luoghi"]
-sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
+sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ", "https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit"]
 source_tab: "t.lboxrsxd6yv5"
 ---
 
@@ -15,6 +15,12 @@ Negli appunti compare anche la denominazione Punte Gemelle.
 - [[Luoghi/Crocevia/Zanne Gemelle/Caverna del vento|Caverna del vento]]
 - [[Luoghi/Crocevia/Zanne Gemelle/Radura dei cinque lupi|Radura dei cinque lupi]]
 - [[Luoghi/Crocevia/Zanne Gemelle/Arco di pietra della vetta|Arco di pietra della vetta]]
+
+## Geografia e passi
+
+La Catena delle Punte Gemelle, chiamata anche Zanne Gemelle, separa Ashar dalle antiche foreste elfiche. Costeggia le vie verso oriente, comprese quelle che passano da [[Luoghi/Crocevia/Thal’hal|Thal'hal]]. Boschi, gole e valichi cambiano le condizioni del viaggio secondo le stagioni.
+
+Fonte delle informazioni aggiunte: [Compendio di Valendar per i giocatori](https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit).
 
 → [[Luoghi/index|Tutti i luoghi]]
 

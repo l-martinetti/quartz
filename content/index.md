@@ -1,5 +1,6 @@
 ---
 title: "L’Eco dei Fuochi Antichi"
+sources: ["https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit"]
 ---
 
 ![[assets/frontiera.svg|Montagne e nebbia di frontiera]]
@@ -34,3 +35,9 @@ Benvenuti nell’archivio della campagna. Qui trovate luoghi, persone, organizza
 La campagna attraversa l’[[Istituzioni/Impero Infinito|Impero Infinito]] e le terre che lo circondano. La compagnia di Elias si trova nella provincia di [[Luoghi/Vorsundeth/index|Vorsundeth]]; le altre macroaree raccolgono l’ambientazione comune e i riferimenti della compagnia di [[Personaggi/Compagnia GLV/Viktor|Viktor]].
 
 I protagonisti hanno schede distinte: [[Personaggi/Compagnia EMNP/index|EMNP — seconda compagnia]] e [[Personaggi/Compagnia GLV/index|GLV — prima compagnia]]. Le conoscenze delle due compagnie hanno provenienze distinte. Prima di usare una notizia in gioco, controlla [[Campagna/Come usare la wiki|come leggere le schede]] e la fonte indicata nella pagina.
+
+## Ambientazione per i giocatori
+
+- [[Ambientazione/index|Valendar — sfondo dell’ambientazione per i giocatori]]
+
+Fonte delle informazioni aggiunte: [Compendio di Valendar per i giocatori](https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit).

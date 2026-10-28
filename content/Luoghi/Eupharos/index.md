@@ -1,7 +1,7 @@
 ---
 title: "Eupharos"
 tags: ["luoghi"]
-sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
+sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ", "https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit"]
 source_tab: "t.h0sbqvhb6cco"
 aliases: ["Luoghi/Eupharos e il Crocevia/Eupharos"]
 ---
@@ -26,6 +26,18 @@ Controlli e limitazioni alle armi sono quelli del periodo narrato e possono camb
 
 - [[Luoghi/Eupharos/Officina di Galvis|Officina di Galvis]]
 - [[Luoghi/Eupharos/Tempio di Iona|Tempio di Iona]]
+
+## Posizione e collegamenti
+
+Capitale imperiale, sede della corte e principale centro politico, religioso e culturale. Sorge lungo il Grande Fiume.
+
+## La capitale nella Provincia Centrale
+
+Il [[Luoghi/Paesaggi dell’Impero/Grande Fiume Imperiale|Grande Fiume Imperiale]] e le vie della Provincia Centrale collegano la corte agli altri centri. La Torre del Faro è il simbolo della capitale; il compendio conserva anche il nome **Faro di Eryndor**. Eupharos è il principale centro politico, religioso e culturale dell’Impero.
+
+→ [[Luoghi/Provincia Centrale/index|Provincia Centrale]] · [[Ambientazione/Viaggi e servizi|Tempi di viaggio]]
+
+Fonte delle informazioni aggiunte: [Compendio di Valendar per i giocatori](https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit).
 
 → [[Luoghi/index|Tutti i luoghi]] · [[Personaggi/NPC/Eupharos/index|Persone di riferimento]]
 

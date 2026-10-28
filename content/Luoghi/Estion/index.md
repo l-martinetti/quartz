@@ -1,7 +1,7 @@
 ---
 title: "Estion"
 tags: ["luoghi"]
-sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
+sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ", "https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit"]
 source_tab: "t.fvvqimb91v80"
 ---
 
@@ -13,6 +13,14 @@ Statue di antichi eroi e finestre alte conservano le tracce della passata grande
 
 - [[Luoghi/Estion/Il grande salice bianco|Il grande salice bianco]]
 - [[Luoghi/Estion/Casa di Berek|Casa di Berek]]
+
+## Identità e collegamenti
+
+Estion è l'antica capitale, cresciuta attorno al Salice di [[Istituzioni/Culti/Ather|Ather]]. La città conserva il prestigio dei vecchi casati e della propria storia, anche se il centro del potere imperiale è oggi [[Luoghi/Eupharos/index|Eupharos]]. Il Salice è un riferimento sacro per i fedeli di Ather, che lo legano alla protezione della vita e ai doveri verso gli altri.
+
+La nobiltà, gli archivi e la memoria della città continuano a darle un'identità distinta da quella mercantile di [[Luoghi/Estran/index|Estran]]. La via settentrionale passa da Estion e prosegue verso il Passo del Drago.
+
+Fonte delle informazioni aggiunte: [Compendio di Valendar per i giocatori](https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit).
 
 → [[Luoghi/index|Tutti i luoghi]] · [[Personaggi/NPC/Estion e studiosi/index|Persone di riferimento]]
 

@@ -25,10 +25,10 @@ export const CampaignNavigation: QuartzComponentConstructor = () => {
       return a.displayName.localeCompare(b.displayName, "it", { numeric: true })
     })
 
-    const link = (slug: string, title: string) => (
+    const link = (slug: string, title: string, folder = false) => (
       <a
         href={navigationHref(current, slug)}
-        class="internal"
+        class={folder ? "internal campaign-folder-link" : "internal"}
         data-no-popover="true"
         aria-current={navigationSlug(slug) === currentPath ? "page" : undefined}
       >
@@ -43,11 +43,14 @@ export const CampaignNavigation: QuartzComponentConstructor = () => {
       return (
         <li key={node.slug}>
           <details data-nav-key={path} data-current-branch={inBranch} open={inBranch}>
-            <summary>{node.slugSegment === "npc" ? "Altri personaggi" : node.displayName}</summary>
-            <ul>
-              <li>{link(node.slug, "Panoramica")}</li>
-              {node.children.map(renderNode)}
-            </ul>
+            <summary aria-label={`Espandi o richiudi ${node.displayName}`}>
+              {link(
+                node.slug,
+                node.slugSegment === "npc" ? "Altri personaggi" : node.displayName,
+                true,
+              )}
+            </summary>
+            <ul>{node.children.map(renderNode)}</ul>
           </details>
         </li>
       )
@@ -87,7 +90,10 @@ export const CampaignNavigation: QuartzComponentConstructor = () => {
                     const path = navigationSlug(node.slug)
                     return currentPath === path || currentPath.startsWith(`${path}/`)
                   })
-                  const singleRoot = section.nodes.length === 1 ? section.nodes[0] : undefined
+                  const singleRoot =
+                    section.id !== "altre" && section.nodes.length === 1
+                      ? section.nodes[0]
+                      : undefined
                   return (
                     <li key={section.id}>
                       <details
@@ -96,13 +102,14 @@ export const CampaignNavigation: QuartzComponentConstructor = () => {
                         data-current-branch={active}
                         open={active}
                       >
-                        <summary>{section.title}</summary>
+                        <summary aria-label={`Espandi o richiudi ${section.title}`}>
+                          {singleRoot?.isFolder
+                            ? link(singleRoot.slug, section.title, true)
+                            : section.title}
+                        </summary>
                         <ul>
                           {singleRoot?.isFolder ? (
-                            <>
-                              <li>{link(singleRoot.slug, "Panoramica")}</li>
-                              {singleRoot.children.map(renderNode)}
-                            </>
+                            <>{singleRoot.children.map(renderNode)}</>
                           ) : (
                             section.nodes.map(renderNode)
                           )}

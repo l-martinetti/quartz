@@ -3,7 +3,13 @@ import assert from "node:assert"
 import { resolveFrame, frameRegistry } from "./index"
 import { DefaultFrame } from "./DefaultFrame"
 import { FullWidthFrame } from "./FullWidthFrame"
-import type { PageFrame } from "./types"
+import { MinimalFrame } from "./MinimalFrame"
+import type { PageFrame, PageFrameProps } from "./types"
+import { h, Fragment } from "preact"
+import { render } from "preact-render-to-string"
+import { fromHtml } from "hast-util-from-html"
+import { visit } from "unist-util-visit"
+import type { Element } from "hast"
 
 const customFrame: PageFrame = {
   name: "custom-test-frame",
@@ -38,4 +44,56 @@ describe("resolveFrame", () => {
     const result = resolveFrame("totally-unknown")
     assert.strictEqual(result, DefaultFrame)
   })
+})
+
+describe("page body placement", () => {
+  const bodies = {
+    note: () => h("article", null, "Note body"),
+    folder: () =>
+      h(
+        "div",
+        { class: "popover-hint" },
+        h("article", null, "Index body"),
+        h("div", { class: "page-listing" }, "Child pages"),
+      ),
+    fragments: () => h(Fragment, null, h("article", null, "Body"), h("section", null, "Listing")),
+  }
+
+  for (const frame of [DefaultFrame, FullWidthFrame, MinimalFrame]) {
+    for (const [name, body] of Object.entries(bodies)) {
+      test(`${frame.name} keeps ${name} inside one main reading region`, () => {
+        const props: PageFrameProps = {
+          componentData: {} as PageFrameProps["componentData"],
+          head: () => null,
+          header: [],
+          beforeBody: [],
+          afterBody: [],
+          left: [],
+          right: [],
+          footer: [],
+          pageBody: body,
+        }
+        const tree = fromHtml(render(frame.render(props)), { fragment: true })
+        const mains: Element[] = []
+        visit(tree, "element", (node) => {
+          if (node.tagName === "main") mains.push(node)
+        })
+        assert.strictEqual(mains.length, 1)
+        assert.strictEqual(mains[0].properties.id, "page-content")
+        assert.deepStrictEqual(mains[0].properties.className, ["page-body"])
+        const articles: Element[] = []
+        visit(mains[0], "element", (node) => {
+          if (node.tagName === "article") articles.push(node)
+        })
+        assert.strictEqual(articles.length, 1)
+        if (name === "folder") {
+          const listings: Element[] = []
+          visit(mains[0], "element", (node) => {
+            if (node.properties.className?.includes("page-listing")) listings.push(node)
+          })
+          assert.strictEqual(listings.length, 1)
+        }
+      })
+    }
+  }
 })
