@@ -71,7 +71,9 @@ export function pageResources(
     }
   })
 
-  const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
+  // Each deployment must load its own index after vault paths change.
+  const indexVersion = ctx ? `?v=${encodeURIComponent(ctx.buildId)}` : ""
+  const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json") + indexVersion
   const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
 
   const resources: StaticResources = {

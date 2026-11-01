@@ -1,4 +1,5 @@
 import { i18n } from "../../i18n"
+import { findMovedPage } from "../../util/movedPage"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
 const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
@@ -36,10 +37,11 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
               if (pathname.endsWith("/index")) {
                 pathname = pathname.slice(0, -6);
               }
-              var lowered = pathname.toLowerCase();
-              if (lowered !== pathname && index[lowered] != null) {
+              var resolveMoved = ${findMovedPage.toString()};
+              var moved = resolveMoved(pathname, Object.keys(index));
+              if (moved && moved !== pathname) {
                 var prefix = hasBasePrefix ? basePath : "";
-                var target = prefix + (prefix.endsWith("/") ? "" : "/") + lowered;
+                var target = prefix + (prefix.endsWith("/") ? "" : "/") + moved;
                 window.location.replace(target);
               }
             });
