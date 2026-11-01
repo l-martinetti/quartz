@@ -1,6 +1,5 @@
 ---
-title: "Fonti e riferimenti"
-sources: ["https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit"]
+title: Fonti e riferimenti
 ---
 
 Le pagine seguono i documenti della cartella condivisa [DEND](https://drive.google.com/drive/folders/1yVjOSYXCOiMzfoTXuNKyknPGRLMq5jm4).
@@ -12,7 +11,6 @@ Le pagine seguono i documenti della cartella condivisa [DEND](https://drive.goog
 | [Sessione 10 — Sotto la neve, prima di Veldmark](https://docs.google.com/document/d/1uuyLUg1J2151MfpfdYdjuxCQAzGoR67cOWdbqlm3fXM) | Il viaggio verso Veldmark e il punto attuale della compagnia di Elias. |
 
 - [[Fonti/Copertura delle sessioni|Quali sessioni sono documentate]]
-- [[Fonti/Grafie da confermare|Grafie e identità da confermare]]
 - [[Fonti/Fonti dei testi|Riferimenti dei testi originali]]
 - [[Fonti/Ritratti e stemmi nelle schede|Ritratti e stemmi: fonti Discord]]
 - [[Fonti/Galleria|Creature e altri riferimenti visivi]]
@@ -29,4 +27,3 @@ Le descrizioni conservano il momento delle rispettive fonti. Le date di pubblica
 
 - [[Fonti/Compendio di Valendar|Criteri e copertura dell’integrazione del compendio]]
 
-Fonte delle informazioni aggiunte: [Compendio di Valendar per i giocatori](https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit).

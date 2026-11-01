@@ -1,12 +1,11 @@
 ---
 title: "Palette dei personaggi"
-sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
 source_tab: "t.90366txlprsd"
 ---
 
-Assegnazioni della legenda dell’atlante consultato il 27 ottobre 2026. Il colore identifica una persona, senza esprimere alleanza, appartenenza morale o certezza. Gli alias confermati condividono il colore della stessa identità; [[Personaggi/NPC/Estran/Kelor e Retis|Kelor e Retis]] hanno record distinti.
+Assegnazioni della legenda dell’atlante consultato il 27 ottobre 2026. Il colore identifica una persona, senza esprimere alleanza, appartenenza morale o certezza. Gli alias confermati condividono il colore della stessa identità; [[Kelor e Retis|Kelor e Retis]] hanno record distinti.
 
-GLV segue [[Personaggi/Compagnia GLV/Gatpick|Gatpick]], [[Personaggi/Compagnia GLV/Leysha|Leysha]] e [[Personaggi/Compagnia GLV/Viktor|Viktor]]; EMNP segue [[Personaggi/Compagnia EMNP/Elias|Elias]], [[Personaggi/Compagnia EMNP/Merimbor|Merimbor]], [[Personaggi/Compagnia EMNP/Ninazù|Ninazù]] e [[Personaggi/Compagnia EMNP/Percy|Percy]]. Nei documenti colorati ogni lettera delle sigle usa il colore del relativo PG. Il vault mantiene i collegamenti nativi e i colori del tema per la leggibilità.
+GLV segue [[Gatpick|Gatpick]], [[Leysha|Leysha]] e [[Viktor|Viktor]]; EMNP segue [[Elias|Elias]], [[Merimbor|Merimbor]], [[Ninazù|Ninazù]] e [[Percy|Percy]]. Nei documenti colorati ogni lettera delle sigle usa il colore del relativo PG. Il vault mantiene i collegamenti nativi e i colori del tema per la leggibilità.
 
 | Personaggio | Colore | ID della fonte |
 | --- | --- | --- |
@@ -87,4 +86,3 @@ La legenda rimanda al registro condiviso `npc_colors.json` su Drive. Nessun file
 
 ---
 
-Fonte: [Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.90366txlprsd).

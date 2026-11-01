@@ -469,11 +469,12 @@ export async function handleBuild(argv) {
       // strip baseDir prefix
       req.url = req.url?.slice(argv.baseDir.length)
 
-      const serve = async () => {
+      const serve = async (cleanUrls = true) => {
         const release = await buildMutex.acquire()
         await serveHandler(req, res, {
           public: argv.output,
           directoryListing: false,
+          cleanUrls,
           headers: [
             {
               source: "**/*.*",
@@ -519,8 +520,11 @@ export async function handleBuild(argv) {
         // does /trailing/index.html exist? if so, serve it
         const indexFp = path.posix.join(fp, "index.html")
         if (fs.existsSync(path.posix.join(argv.output, indexFp))) {
-          req.url = fp
-          return serve()
+          // serve-handler treats numbered folders such as "1.-campagna" as
+          // paths with extensions and skips their index.html lookup.
+          // Serve the resolved index directly without a clean-URL redirect.
+          req.url = indexFp
+          return serve(false)
         }
 
         // does /trailing.html exist? if so, redirect to /trailing
@@ -528,7 +532,7 @@ export async function handleBuild(argv) {
         if (path.extname(base) === "") {
           base += ".html"
         }
-        if (fs.existsSync(path.posix.join(argv.output, base))) {
+        if (fs.statSync(path.posix.join(argv.output, base), { throwIfNoEntry: false })?.isFile()) {
           return redirect(fp.slice(0, -1))
         }
       } else {
@@ -538,7 +542,7 @@ export async function handleBuild(argv) {
         if (path.extname(base) === "") {
           base += ".html"
         }
-        if (fs.existsSync(path.posix.join(argv.output, base))) {
+        if (fs.statSync(path.posix.join(argv.output, base), { throwIfNoEntry: false })?.isFile()) {
           req.url = fp
           return serve()
         }

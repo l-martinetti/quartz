@@ -26,45 +26,45 @@ Eupharos e Adeban hanno cartelle autonome. Il Crocevia resta un percorso di cons
 
 | Prima | Pagina attuale |
 | --- | --- |
-| `Luoghi/Confini e altre regioni/Deserto meridionale` | [[Luoghi/Deserto meridionale/index\|Deserto meridionale]] |
-| `Luoghi/Eupharos e il Crocevia/Catena delle Zanne Gemelle` | [[Luoghi/Crocevia/Zanne Gemelle/index\|Zanne Gemelle]] |
-| `Luoghi/Eupharos e il Crocevia/Eupharos` | [[Luoghi/Eupharos/index\|Eupharos]] |
-| `Luoghi/Eupharos e il Crocevia/Thal’hal` | [[Luoghi/Crocevia/Thal’hal\|Thal’hal]] |
-| `Luoghi/Eupharos e il Crocevia/Verdelago` | [[Luoghi/Crocevia/Verdelago\|Verdelago]] |
-| `Luoghi/Eupharos e il Crocevia/index` | [[Luoghi/Crocevia/index\|Crocevia e Zanne Gemelle]] |
-| `Luoghi/Forte Victoria e Adeban/Adeban` | [[Luoghi/Adeban/index\|Adeban]] |
-| `Luoghi/Forte Victoria e Adeban/Ethert` | [[Luoghi/Forte Victoria/Ethert\|Ethert]] |
-| `Luoghi/Forte Victoria e Adeban/Forte Victoria` | [[Luoghi/Forte Victoria/Città di Forte Victoria\|Forte Victoria]] |
-| `Luoghi/Forte Victoria e Adeban/index` | [[Luoghi/Forte Victoria/index\|Provincia di Forte Victoria]] |
-| `Luoghi/Vorsundeth/Miniere dell’Abisso` | [[Luoghi/Vorsundeth/Miniere dell’Abisso/index\|Miniere dell’Abisso]] |
-| `Luoghi/Vorsundeth/Motore ULTIMA` | [[Luoghi/Vorsundeth/Miniere dell’Abisso/Motore ULTIMA\|Motore ULTIMA]] |
-| `Luoghi/Vorsundeth/Paradiso artificiale del laboratorio` | [[Luoghi/Vorsundeth/Miniere dell’Abisso/Paradiso artificiale del laboratorio\|Paradiso artificiale del laboratorio]] |
-| `Personaggi/Compagnia di Elias/Elias` | [[Personaggi/Compagnia EMNP/Elias\|Elias]] |
-| `Personaggi/Compagnia di Elias/Merimbor` | [[Personaggi/Compagnia EMNP/Merimbor\|Merimbor]] |
-| `Personaggi/Compagnia di Elias/Ninazù` | [[Personaggi/Compagnia EMNP/Ninazù\|Ninazù]] |
-| `Personaggi/Compagnia di Elias/Percy` | [[Personaggi/Compagnia EMNP/Percy\|Percy]] |
-| `Personaggi/Compagnia di Elias/index` | [[Personaggi/Compagnia EMNP/index\|Seconda compagnia · EMNP]] |
-| `Personaggi/NPC/Eupharos e il Crocevia/Aken’esh` | [[Personaggi/NPC/Crocevia/Aken’esh\|Aken’esh]] |
-| `Personaggi/NPC/Eupharos e il Crocevia/Darmitan` | [[Personaggi/NPC/Eupharos/Darmitan\|Darmitan]] |
-| `Personaggi/NPC/Eupharos e il Crocevia/Eremita di Verdelago` | [[Personaggi/NPC/Crocevia/Eremita di Verdelago\|Eremita di Verdelago]] |
-| `Personaggi/NPC/Eupharos e il Crocevia/Galvis` | [[Personaggi/NPC/Eupharos/Galvis\|Galvis]] |
-| `Personaggi/NPC/Eupharos e il Crocevia/Generale Senris` | [[Personaggi/NPC/Eupharos/Generale Senris\|Generale Senris]] |
-| `Personaggi/NPC/Eupharos e il Crocevia/Odra` | [[Personaggi/NPC/Crocevia/Odra\|Odra]] |
-| `Personaggi/NPC/Eupharos e il Crocevia/Odrik` | [[Personaggi/NPC/Eupharos/Odrik\|Odrik]] |
-| `Personaggi/NPC/Eupharos e il Crocevia/index` | [[Personaggi/NPC/index\|NPC e figure nominate]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/Atkin` | [[Personaggi/NPC/Adeban/Atkin\|Atkin]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/Galien il Fulmine` | [[Personaggi/NPC/Adeban/Galien il Fulmine\|Galien il Fulmine]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/Ghilbert` | [[Personaggi/NPC/Adeban/Ghilbert\|Ghilbert]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/Gilnas Rozeiros` | [[Personaggi/NPC/Forte Victoria/Gilnas Rozeiros\|Gilnas Rozeiros]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/Governatore Vicar` | [[Personaggi/NPC/Adeban/Governatore Vicar\|Governatore Vicar]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/Grand Duca Hamonet` | [[Personaggi/NPC/Forte Victoria/Grand Duca Hamonet\|Grand Duca Hamonet]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/Nykkis` | [[Personaggi/NPC/Forte Victoria/Nykkis\|Nykkis]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/Richal` | [[Personaggi/NPC/Adeban/Richal\|Richal]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/Royé Lancia di Luce` | [[Personaggi/NPC/Adeban/Royé Lancia di Luce\|Royé Lancia di Luce]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/Ularis` | [[Personaggi/NPC/Adeban/Ularis\|Ularis]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/Yoori` | [[Personaggi/NPC/Adeban/Yoori\|Yoori]] |
-| `Personaggi/NPC/Forte Victoria e Adeban/index` | [[Personaggi/NPC/index\|NPC e figure nominate]] |
-| `Personaggi/NPC/Vorsundeth/Ramia - Rania` | [[Personaggi/NPC/Vorsundeth/Ramia\|Ramia]] |
-| `Vorsundeth/index` | [[Luoghi/Vorsundeth/index\|Vorsundeth]] |
+| `Luoghi/Confini e altre regioni/Deserto meridionale` | [[5. Luoghi/Deserto meridionale/index\|Deserto meridionale]] |
+| `Luoghi/Eupharos e il Crocevia/Catena delle Zanne Gemelle` | [[5. Luoghi/Crocevia/Zanne Gemelle/index\|Zanne Gemelle]] |
+| `Luoghi/Eupharos e il Crocevia/Eupharos` | [[5. Luoghi/Eupharos/index\|Eupharos]] |
+| `Luoghi/Eupharos e il Crocevia/Thal’hal` | [[Thal’hal\|Thal’hal]] |
+| `Luoghi/Eupharos e il Crocevia/Verdelago` | [[Verdelago\|Verdelago]] |
+| `Luoghi/Eupharos e il Crocevia/index` | [[5. Luoghi/Crocevia/index\|Crocevia e Zanne Gemelle]] |
+| `Luoghi/Forte Victoria e Adeban/Adeban` | [[5. Luoghi/Adeban/index\|Adeban]] |
+| `Luoghi/Forte Victoria e Adeban/Ethert` | [[Ethert\|Ethert]] |
+| `Luoghi/Forte Victoria e Adeban/Forte Victoria` | [[Città di Forte Victoria\|Forte Victoria]] |
+| `Luoghi/Forte Victoria e Adeban/index` | [[5. Luoghi/Forte Victoria/index\|Provincia di Forte Victoria]] |
+| `Luoghi/Vorsundeth/Miniere dell’Abisso` | [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index\|Miniere dell’Abisso]] |
+| `Luoghi/Vorsundeth/Motore ULTIMA` | [[Motore ULTIMA\|Motore ULTIMA]] |
+| `Luoghi/Vorsundeth/Paradiso artificiale del laboratorio` | [[Paradiso artificiale del laboratorio\|Paradiso artificiale del laboratorio]] |
+| `Personaggi/Compagnia di Elias/Elias` | [[Elias\|Elias]] |
+| `Personaggi/Compagnia di Elias/Merimbor` | [[Merimbor\|Merimbor]] |
+| `Personaggi/Compagnia di Elias/Ninazù` | [[Ninazù\|Ninazù]] |
+| `Personaggi/Compagnia di Elias/Percy` | [[Percy\|Percy]] |
+| `Personaggi/Compagnia di Elias/index` | [[3. Personaggi/I Quattro dell'Arcobaleno/index\|Seconda compagnia · EMNP]] |
+| `Personaggi/NPC/Eupharos e il Crocevia/Aken’esh` | [[Aken’esh\|Aken’esh]] |
+| `Personaggi/NPC/Eupharos e il Crocevia/Darmitan` | [[Darmitan\|Darmitan]] |
+| `Personaggi/NPC/Eupharos e il Crocevia/Eremita di Verdelago` | [[Eremita di Verdelago\|Eremita di Verdelago]] |
+| `Personaggi/NPC/Eupharos e il Crocevia/Galvis` | [[Galvis\|Galvis]] |
+| `Personaggi/NPC/Eupharos e il Crocevia/Generale Senris` | [[Generale Senris\|Generale Senris]] |
+| `Personaggi/NPC/Eupharos e il Crocevia/Odra` | [[Odra\|Odra]] |
+| `Personaggi/NPC/Eupharos e il Crocevia/Odrik` | [[Odrik\|Odrik]] |
+| `Personaggi/NPC/Eupharos e il Crocevia/index` | [[3. Personaggi/NPC/index\|NPC e figure nominate]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/Atkin` | [[Atkin\|Atkin]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/Galien il Fulmine` | [[Galien il Fulmine\|Galien il Fulmine]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/Ghilbert` | [[Ghilbert\|Ghilbert]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/Gilnas Rozeiros` | [[Gilnas Rozeiros\|Gilnas Rozeiros]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/Governatore Vicar` | [[Governatore Vicar\|Governatore Vicar]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/Grand Duca Hamonet` | [[Grand Duca Hamonet\|Grand Duca Hamonet]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/Nykkis` | [[Nykkis\|Nykkis]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/Richal` | [[Richal\|Richal]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/Royé Lancia di Luce` | [[Royé Lancia di Luce\|Royé Lancia di Luce]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/Ularis` | [[Ularis\|Ularis]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/Yoori` | [[Yoori\|Yoori]] |
+| `Personaggi/NPC/Forte Victoria e Adeban/index` | [[3. Personaggi/NPC/index\|NPC e figure nominate]] |
+| `Personaggi/NPC/Vorsundeth/Ramia - Rania` | [[Ramia\|Ramia]] |
+| `Vorsundeth/index` | [[5. Luoghi/Vorsundeth/index\|Vorsundeth]] |
 
 → [[Fonti/index|Fonti]]

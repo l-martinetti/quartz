@@ -1,11 +1,11 @@
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
-import { trieFromAllFiles, BuildTimeTrieData } from "../util/ctx"
+import { BuildTimeTrieData } from "../util/ctx"
 import { FileTrieNode } from "../util/fileTrie"
 import {
   navigationFiles,
   navigationHref,
-  navigationSections,
   navigationSlug,
+  navigationTree,
 } from "../util/siteNavigation"
 // @ts-ignore: Quartz bundles browser scripts imported with the .inline suffix.
 import script from "./scripts/siteNavigation.inline"
@@ -15,15 +15,7 @@ export const CampaignNavigation: QuartzComponentConstructor = () => {
     const current = fileData.slug!
     const currentPath = navigationSlug(current)
     const files = navigationFiles(allFiles)
-    const available = new Map(files.map((file) => [navigationSlug(file.slug!), file]))
-    const tree = trieFromAllFiles(files)
-    tree.sort((a, b) => {
-      if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
-      if (/^sessione-\d+/.test(a.slugSegment) && /^sessione-\d+/.test(b.slugSegment)) {
-        return b.slugSegment.localeCompare(a.slugSegment, "it", { numeric: true })
-      }
-      return a.displayName.localeCompare(b.displayName, "it", { numeric: true })
-    })
+    const tree = navigationTree(files)
 
     const link = (slug: string, title: string, folder = false) => (
       <a
@@ -36,36 +28,25 @@ export const CampaignNavigation: QuartzComponentConstructor = () => {
       </a>
     )
 
-    const renderNode = (node: FileTrieNode<BuildTimeTrieData>) => {
+    const renderNode = (node: FileTrieNode<BuildTimeTrieData>, root = false) => {
       const path = navigationSlug(node.slug)
       const inBranch = currentPath === path || currentPath.startsWith(`${path}/`)
       if (!node.isFolder) return <li key={node.slug}>{link(node.slug, node.displayName)}</li>
       return (
         <li key={node.slug}>
-          <details data-nav-key={path} data-current-branch={inBranch} open={inBranch}>
+          <details
+            class={root ? "campaign-section" : undefined}
+            data-nav-key={path}
+            data-current-branch={inBranch}
+            open={inBranch}
+          >
             <summary aria-label={`Espandi o richiudi ${node.displayName}`}>
-              {link(
-                node.slug,
-                node.slugSegment === "npc" ? "Altri personaggi" : node.displayName,
-                true,
-              )}
+              {link(node.slug, node.displayName, true)}
             </summary>
-            <ul>{node.children.map(renderNode)}</ul>
+            <ul>{node.children.map((child) => renderNode(child))}</ul>
           </details>
         </li>
       )
-    }
-
-    const assigned = new Set(navigationSections.flatMap((section) => section.roots))
-    const extraNodes = tree.children.filter((node) => !assigned.has(node.slugSegment))
-    const sections = navigationSections.map((section) => ({
-      ...section,
-      nodes: section.roots.flatMap((root) =>
-        tree.children.filter((node) => node.slugSegment === root),
-      ),
-    }))
-    if (extraNodes.length) {
-      sections.push({ id: "altre", title: "Altre sezioni", roots: [], nodes: extraNodes })
     }
 
     return (
@@ -75,50 +56,8 @@ export const CampaignNavigation: QuartzComponentConstructor = () => {
           <div class="campaign-menu-content">
             <ul class="campaign-shortcuts" aria-label="Accessi rapidi">
               <li>{link("index", "Pagina iniziale")}</li>
-              {[
-                ["campagna/stato-attuale", "Dove siamo rimasti"],
-                ["campagna/piste-aperte", "Piste aperte"],
-              ].map(([slug, title]) =>
-                available.has(slug) ? <li key={slug}>{link(slug, title)}</li> : null,
-              )}
             </ul>
-            <ul class="campaign-sections">
-              {sections
-                .filter((section) => section.nodes.length)
-                .map((section) => {
-                  const active = section.nodes.some((node) => {
-                    const path = navigationSlug(node.slug)
-                    return currentPath === path || currentPath.startsWith(`${path}/`)
-                  })
-                  const singleRoot =
-                    section.id !== "altre" && section.nodes.length === 1
-                      ? section.nodes[0]
-                      : undefined
-                  return (
-                    <li key={section.id}>
-                      <details
-                        class="campaign-section"
-                        data-nav-key={`section:${section.id}`}
-                        data-current-branch={active}
-                        open={active}
-                      >
-                        <summary aria-label={`Espandi o richiudi ${section.title}`}>
-                          {singleRoot?.isFolder
-                            ? link(singleRoot.slug, section.title, true)
-                            : section.title}
-                        </summary>
-                        <ul>
-                          {singleRoot?.isFolder ? (
-                            <>{singleRoot.children.map(renderNode)}</>
-                          ) : (
-                            section.nodes.map(renderNode)
-                          )}
-                        </ul>
-                      </details>
-                    </li>
-                  )
-                })}
-            </ul>
+            <ul class="campaign-sections">{tree.children.map((node) => renderNode(node, true))}</ul>
           </div>
         </details>
       </nav>
@@ -173,12 +112,7 @@ export const RelatedNavigation: QuartzComponentConstructor = () => {
       )
       .sort((a, b) => a.frontmatter!.title.localeCompare(b.frontmatter!.title, "it"))
       .slice(0, 3)
-    const section = navigationSections.find((group) =>
-      group.roots.some((root) => currentPath === root || currentPath.startsWith(`${root}/`)),
-    )
-    const root = section?.roots.find(
-      (path) => currentPath === path || currentPath.startsWith(`${path}/`),
-    )
+    const root = currentPath.includes("/") ? currentPath.split("/")[0] : undefined
     const parent = root ? byPath.get(root) : undefined
     if (!outgoing.length && !incoming.length && !parent) return null
     const list = (items: typeof outgoing) => (

@@ -1,7 +1,6 @@
 ---
 title: "Creature e riferimenti visivi"
 tags: ["fonte"]
-sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
 source_tab: "t.awzgc7k054kt"
 ---
 
@@ -9,7 +8,7 @@ Le immagini seguenti sono state pubblicate nel canale comune. Quando manca un’
 
 ## Remorhaz
 
-Nome indicato dal master. Gigantesca creatura che attacca la spedizione alle [[Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] e costringe la seconda compagnia (EMNP) a cercare una via di fuga. Non sono aggiunte caratteristiche di gioco.
+Nome indicato dal master. Gigantesca creatura che attacca la spedizione alle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] e costringe la seconda compagnia (EMNP) a cercare una via di fuga. Non sono aggiunte caratteristiche di gioco.
 
 ![[assets/DEND/atlante-fonti-e-immagini-remorhaz-1.png|Remorhaz]]
 
@@ -25,7 +24,7 @@ Il messaggio del master porta soltanto la didascalia «?????».
 
 ## Creatura non identificata — forma arborea
 
-Riferimento visivo privo di didascalia. Non viene identificato con [[Personaggi/NPC/Vorsundeth/Atma|Atma]] o con altre entità.
+Riferimento visivo privo di didascalia. Non viene identificato con [[Atma|Atma]] o con altre entità.
 
 ![[assets/DEND/atlante-fonti-e-immagini-creatura-non-identificata-forma-arborea-3.png|Creatura non identificata — forma arborea]]
 
@@ -81,7 +80,7 @@ Riferimento visivo senza didascalia.
 
 ## Ritratto non identificato — figura in verde
 
-Identità non specificata; non viene attribuito ad [[Personaggi/NPC/Crocevia/Aken’esh|Aken’esh]] per la vicinanza dei messaggi.
+Identità non specificata; non viene attribuito ad [[Aken’esh|Aken’esh]] per la vicinanza dei messaggi.
 
 ![[assets/DEND/atlante-fonti-e-immagini-ritratto-non-identificato-figura-in-verde-10.jpg|Ritratto non identificato — figura in verde]]
 
@@ -97,7 +96,7 @@ Riferimento visivo senza indicazioni certe su luogo, specie o proprietà.
 
 ## Compagno di Darmitan
 
-L’atlante aggiornato identifica la figura con cappello come il compagno armato di due katane che apre un portale ai [[Luoghi/Eupharos/Giardini del Faro|Giardini del Faro]] e porta via [[Personaggi/NPC/Eupharos/Darmitan|Darmitan]] dopo il confronto con la prima compagnia (GLV). Il riferimento originale non lo identificava; il suo nome rimane ignoto.
+L’atlante aggiornato identifica la figura con cappello come il compagno armato di due katane che apre un portale ai [[Giardini del Faro|Giardini del Faro]] e porta via [[Darmitan|Darmitan]] dopo il confronto con la prima compagnia (GLV). Il riferimento originale non lo identificava; il suo nome rimane ignoto.
 
 ![[assets/DEND/atlante-fonti-e-immagini-ritratto-non-identificato-figura-con-cappello-12.png|Ritratto non identificato — figura con cappello]]
 
@@ -121,7 +120,7 @@ Riferimento visivo privo di didascalia.
 
 ## Figura anfibia
 
-Riferimento visivo privo di didascalia. I successivi nomi Bullywug e [[Personaggi/NPC/Vorsundeth/Xir’tic|Xir’tic]] non sono collegati esplicitamente all’allegato.
+Riferimento visivo privo di didascalia. I successivi nomi Bullywug e [[Xir’tic|Xir’tic]] non sono collegati esplicitamente all’allegato.
 
 ![[assets/DEND/atlante-fonti-e-immagini-figura-anfibia-15.png|Figura anfibia]]
 
@@ -139,7 +138,7 @@ Stato della sezione:  Bozza condivisibile
 
 ## Visione di Gatpick (GLV)
 
-Creatura che [[Personaggi/Compagnia GLV/Gatpick|Gatpick]], della prima compagnia (GLV), è convinto di aver visto. La sua identità e la natura dell’apparizione rimangono sconosciute.
+Creatura che [[Gatpick|Gatpick]], della prima compagnia (GLV), è convinto di aver visto. La sua identità e la natura dell’apparizione rimangono sconosciute.
 
 ![[assets/DEND/atlante-visione-di-gatpick.webp|Visione di Gatpick]]
 
@@ -147,4 +146,3 @@ Creatura che [[Personaggi/Compagnia GLV/Gatpick|Gatpick]], della prima compagnia
 
 ---
 
-Fonte: [Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.awzgc7k054kt).

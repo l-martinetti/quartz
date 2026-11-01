@@ -1,11 +1,10 @@
 ---
 title: "Ritratti e stemmi nelle schede"
 tags: ["fonte"]
-sources: ["https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ"]
 source_tab: "t.awzgc7k054kt"
 ---
 
-I ritratti identificati sono inseriti nelle schede NPC; gli stemmi si trovano sotto [[Luoghi/Estran/index|Estran]] e Canto di Cenere. Il ritratto della casata Helmar resta nella sezione delle fazioni, senza attribuirlo a una persona specifica. Questi rimandi conservano il contesto originale.
+I ritratti identificati sono inseriti nelle schede NPC; gli stemmi si trovano sotto [[5. Luoghi/Estran/index|Estran]] e Canto di Cenere. Il ritratto della casata Helmar resta nella sezione delle fazioni, senza attribuirlo a una persona specifica. Questi rimandi conservano il contesto originale.
 
 [Grand Duca Hamonet — fonte Discord](https://discord.com/channels/1469621626717864096/1469628303877865587/1469978440332480512)
 
@@ -53,4 +52,3 @@ I ritratti identificati sono inseriti nelle schede NPC; gli stemmi si trovano so
 
 ---
 
-Fonte: [L’Eco dei Fuochi Antichi — Atlante dei luoghi e degli NPC](https://docs.google.com/document/d/1KyytljQpnO8IO9QjbIjYElyyaTHcf1I0pHSYtuXRDDQ?tab=t.awzgc7k054kt).
