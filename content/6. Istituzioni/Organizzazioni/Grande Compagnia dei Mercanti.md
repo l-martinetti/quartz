@@ -7,7 +7,4 @@ La Grande Compagnia ha sede principale a [[5. Luoghi/Estran/index|Estran]] ed è
 
 La sua autorità economica si affianca a quella delle famiglie del Concilio e dei tribunali imperiali. Mercanti che trattano merci e rotte differenti possono rivolgersi alla stessa Compagnia per garanzie, riconoscimento e mediazione.
 
-→ [[6. Istituzioni/Organizzazioni/index|Organizzazioni e corpi]]
-
----
-
+- [[6. Istituzioni/Organizzazioni/index|Organizzazioni e corpi]]

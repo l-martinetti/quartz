@@ -7,7 +7,5 @@ Phedar è dio della musica, delle feste e del tempo dedicato a incontri, raccont
 
 Il simbolo è un violino con corde di luce. Lasciare a tavola un posto per lo sconosciuto è un gesto sacro; una canzone nuova, una maschera usata o la prima porzione di un banchetto sono offerte. Negare il riposo a chi lo ha meritato e usare l'arte per umiliare chi non può rispondere contrasta con la sua dottrina.
 
-→ [[6. Istituzioni/Culti/index|Culti e tradizioni]] · [[Fede e usanze|Fede nella vita quotidiana]]
-
----
-
+- [[6. Istituzioni/Culti/index|Culti e tradizioni]]
+- [[Fede e usanze|Fede nella vita quotidiana]]

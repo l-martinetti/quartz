@@ -16,7 +16,4 @@ Il Canto di Cenere è un casato di tradizione militare, la cui influenza nasce d
 Il braccio armato ufficiale del casato è l’ordine dei [[Cavalieri della Polvere|Cavalieri della Polvere]].
 
 
-→ [[6. Istituzioni/Casati/index|Casati]]
-
----
-
+- [[6. Istituzioni/Casati/index|Casati]]

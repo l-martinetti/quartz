@@ -19,7 +19,4 @@ I testi citano i [[Vigilanti e Terzo Legato|Vigilanti]], un Terzo Legato, livell
 
 Il sigillo dei Vigilanti trovato nei registri presenta **tre stelle**.
 
-→ [[4. Conoscenze/index|Scoperte e documenti]]
-
----
-
+- [[4. Conoscenze/index|Scoperte e documenti]]

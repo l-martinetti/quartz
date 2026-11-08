@@ -7,7 +7,4 @@ Profondità abitate da popolazioni e creature proprie, collegate ai territori so
 
 Le minacce provenienti dalle profondità portarono l’Impero a intervenire in aiuto dei Nani, ponendo le basi dell’alleanza successiva. La natura e la portata di quei pericoli sono poco conosciute fuori dalle città naniche e dai loro contatti più stretti.
 
-→ [[5. Luoghi/index|Tutti i luoghi]]
-
----
-
+- [[5. Luoghi/index|Tutti i luoghi]]

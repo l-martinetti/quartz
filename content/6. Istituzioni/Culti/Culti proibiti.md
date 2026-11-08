@@ -14,7 +14,4 @@ Le autorità imperiali proibiscono i culti di Nuros, Yjivarn, Daruvar e Yam. Que
 
 Le associazioni sono quelle conosciute dai giocatori attraverso il compendio; non vengono aggiunti rituali, seguaci o responsabilità non documentati.
 
-→ [[6. Istituzioni/Culti/index|Culti e tradizioni]]
-
----
-
+- [[6. Istituzioni/Culti/index|Culti e tradizioni]]

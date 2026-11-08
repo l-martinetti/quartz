@@ -11,7 +11,4 @@ Una delle famiglie più influenti dell’[[Impero Infinito|Impero Infinito]], co
 I Mantoscuro mantengono una residenza nel distretto amministrativo di [[5. Luoghi/Estran/index|Estran]], senza appartenere alle sei famiglie del Concilio.
 
 
-→ [[6. Istituzioni/Casati/index|Casati]]
-
----
-
+- [[6. Istituzioni/Casati/index|Casati]]

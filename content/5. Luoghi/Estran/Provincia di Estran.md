@@ -14,7 +14,4 @@ Dalla Provincia Centrale si raggiungono queste terre attraverso il [[Deserto fra
 - [[Deserto fra Eupharos ed Estran|Deserto di Ashar]]
 - [[Thal’hal|Thal’hal]] e [[5. Luoghi/Crocevia/Zanne Gemelle/index|Punte Gemelle]]
 
-→ [[5. Luoghi/index|Tutti i luoghi]]
-
----
-
+- [[5. Luoghi/index|Tutti i luoghi]]

@@ -13,7 +13,4 @@ Continente a oriente, separato da un oceano dalla terra dell’[[Impero Infinito
 - [[Regno organizzato in caste|Regno organizzato in caste]]
 - [[Rotta oceanica orientale|Rotta oceanica orientale]]
 
-→ [[5. Luoghi/index|Tutti i luoghi]]
-
----
-
+- [[5. Luoghi/index|Tutti i luoghi]]

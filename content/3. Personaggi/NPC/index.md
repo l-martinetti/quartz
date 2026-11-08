@@ -12,7 +12,7 @@ Per ogni personaggio troverete una breve descrizione accompagnata da una immagin
 
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/index|Vorsundeth]]
 
-## Gli amici di GoatPeak
+## Gli Amici di GoatPeak
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Forte Victoria/index|Forte Victoria]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/index|Adeban]]

@@ -11,7 +11,5 @@ Secondo l’Annotazione II, nel [[Paradiso artificiale del laboratorio|paradiso 
 Il compendio descrive lampade d’Atherium usate, insieme alle fornaci, per illuminare gli spazi interni di [[Veldmark|Veldmark]]. Questo impiego pubblico si aggiunge alle funzioni particolari attribuite al minerale nelle annotazioni del laboratorio.
 
 
-→ [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] · [[Motore ULTIMA|Motore ULTIMA]]
-
----
-
+- [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]]
+- [[Motore ULTIMA|Motore ULTIMA]]

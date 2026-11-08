@@ -9,7 +9,6 @@ Torba, erbe rare, pesca d'acqua fredda e navigazione dei canali ne sostengono l'
 
 L'autorità imperiale è presente, ma deve fare affidamento sull'esperienza delle comunità locali. Una mappa non basta a garantire il passaggio: canali, croste di ghiaccio e livelli dell'acqua cambiano secondo la stagione.
 
-→ [[Palude Ghiacciata|Palude Ghiacciata]] · [[Viaggi e servizi|Via delle Brume e tempi di viaggio]] · [[5. Luoghi/Vorsundeth/index|Vorsundeth]]
-
----
-
+- [[Palude Ghiacciata|Palude Ghiacciata]]
+- [[Viaggi e servizi|Via delle Brume e tempi di viaggio]]
+- [[5. Luoghi/Vorsundeth/index|Vorsundeth]]

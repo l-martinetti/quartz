@@ -13,7 +13,5 @@ Ruolo e rapporti con le compagnie ancora da chiarire.
 
 Il nome proviene dal file del ritratto pubblicato dal master. Non è identificato con altri personaggi.
 
-→ [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/index|Persone — Estran]] · [[3. Personaggi/NPC/index|Tutti gli NPC]]
-
----
-
+- [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/index|Persone — Estran]]
+- [[3. Personaggi/NPC/index|Tutti gli NPC]]

@@ -9,4 +9,4 @@ Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. No
 - [[Thimius|Thimius]]
 - [[Vael-korun|Vael-korun]]
 
-→ [[3. Personaggi/NPC/index|Indice superiore]]
+- [[3. Personaggi/NPC/index|Indice superiore]]

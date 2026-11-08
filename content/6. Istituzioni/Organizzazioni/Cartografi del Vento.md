@@ -7,7 +7,4 @@ La [[Gilda degli Esploratori|Gilda degli Esploratori]] di [[5. Luoghi/Estran/ind
 
 La sua attività comprende le vie verso l'[[Arcipelago dei Lampi|Arcipelago dei Lampi]] e l'[[Isola di Smeraldo|Isola di Smeraldo]]. La conoscenza di una rotta ha valore commerciale e viene trattata come un bene professionale. A Estran la sede si riconosce per le mappe alle finestre.
 
-→ [[6. Istituzioni/Organizzazioni/index|Organizzazioni e corpi]]
-
----
-
+- [[6. Istituzioni/Organizzazioni/index|Organizzazioni e corpi]]

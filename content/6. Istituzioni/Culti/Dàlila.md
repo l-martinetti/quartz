@@ -7,7 +7,5 @@ Dàlila accompagna navigatori, viandanti e cercatori di conoscenza nei momenti d
 
 Il simbolo è una falce lunare con una piccola stella al suo interno. Lasciare una lampada accesa per chi viaggia dopo il tramonto è un gesto sacro. Mappe annotate, domande scritte e acqua raccolta in una notte serena sono offerte. Fingere certezza dove esiste una possibilità o guidare deliberatamente qualcuno nel pericolo viola la fiducia sulla quale si fonda il culto.
 
-→ [[6. Istituzioni/Culti/index|Culti e tradizioni]] · [[Fede e usanze|Fede nella vita quotidiana]]
-
----
-
+- [[6. Istituzioni/Culti/index|Culti e tradizioni]]
+- [[Fede e usanze|Fede nella vita quotidiana]]

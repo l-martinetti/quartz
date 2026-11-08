@@ -6,7 +6,4 @@ source_heading: "h.siijcq4yasko"
 
 Fazione presente nel panorama delle grandi città dei [[Liberi Confini|Liberi Confini]] e legata a [[Sherry|Sherry]]. Finalità, struttura e influenza rimangono da chiarire.
 
-→ [[6. Istituzioni/Organizzazioni/index|Organizzazioni]]
-
----
-
+- [[6. Istituzioni/Organizzazioni/index|Organizzazioni]]

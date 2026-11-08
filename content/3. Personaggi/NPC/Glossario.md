@@ -136,4 +136,4 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/Yoori|Yoori]]
 
-→ [[3. Personaggi/NPC/index|Tutti gli NPC]]
+- [[3. Personaggi/NPC/index|Tutti gli NPC]]

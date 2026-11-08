@@ -6,7 +6,7 @@ source_tab: "t.h0sbqvhb6cco"
 
 Capitale dell’[[Impero Infinito|Impero Infinito]], nella sua area centrale, e centro del potere militare e nobiliare, con accessi sorvegliati e limitazioni alle armi. Il fiume che la attraversa sostiene il porto e collega altri centri importanti, [[Città di Forte Victoria|Forte Victoria]] a nord e territori verso est, senza entrare nel Vorsund. Fra le città dell’area centrale si trova anche un grande centro di produzione del grano, essenziale per l’approvvigionamento imperiale. Il Faro d’oro bianco, i giardini, la Gilda, il tempio di [[Iona|Iona]] e l’officina di [[Galvis|Galvis]] sono riferimenti cittadini.
 
-Durante il soggiorno della prima compagnia (GLV), la Notte sotto le Stelle impone pattuglie aggiuntive per il timore delle [[Maschere|Maschere]]. Il ritorno del [[Generale Senris|Generale Senris]] richiama grandi folle, mentre al porto giungono notizie sull’avanzata del [[Monarca della Valle|Monarca della Valle]].
+Durante il soggiorno degli Amici di GoatPeak, la Notte sotto le Stelle impone pattuglie aggiuntive per il timore delle [[Maschere|Maschere]]. Il ritorno del [[Generale Senris|Generale Senris]] richiama grandi folle, mentre al porto giungono notizie sull’avanzata del [[Monarca della Valle|Monarca della Valle]].
 
 Controlli e limitazioni alle armi sono quelli del periodo narrato e possono cambiare.
 
@@ -33,10 +33,12 @@ Capitale imperiale, sede della corte e principale centro politico, religioso e c
 
 Il [[Grande Fiume Imperiale|Grande Fiume Imperiale]] e le vie della Provincia Centrale collegano la corte agli altri centri. La Torre del Faro è il simbolo della capitale; il compendio conserva anche il nome **Faro di Eryndor**. Eupharos è il principale centro politico, religioso e culturale dell’Impero.
 
-→ [[5. Luoghi/Provincia Centrale/index|Provincia Centrale]] · [[Viaggi e servizi|Tempi di viaggio]]
+- [[5. Luoghi/Provincia Centrale/index|Provincia Centrale]]
+- [[Viaggi e servizi|Tempi di viaggio]]
 
 
-→ [[5. Luoghi/index|Tutti i luoghi]] · [[3. Personaggi/NPC/Gli amici di GoatPeak/Eupharos/index|Persone di riferimento]]
+- [[5. Luoghi/index|Tutti i luoghi]]
+- [[3. Personaggi/NPC/Gli amici di GoatPeak/Eupharos/index|Persone di riferimento]]
 
 [Fonti: Ambientazione, Galvis; V S23–S27.](https://discord.com/channels/1469621626717864096/1469628303877865587/1492442637255315496)
 
@@ -45,6 +47,3 @@ Il [[Grande Fiume Imperiale|Grande Fiume Imperiale]] e le vie della Provincia Ce
 [Fonte: Ambientazione, invito ai Giardini del Faro; V S23–S24.](https://discord.com/channels/1469621626717864096/1469628303877865587/1528055813808324689)
 
 [Fonte: Ambientazione, Aken’esh.](https://discord.com/channels/1469621626717864096/1469628303877865587/1528017769960837281)
-
----
-

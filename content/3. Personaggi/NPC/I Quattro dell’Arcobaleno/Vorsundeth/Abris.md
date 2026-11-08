@@ -15,7 +15,7 @@ Abris è un mezzelfo dai capelli rosso fuoco, raccolti con cura, con qualche ric
 
 ## Primo incontro
 
-Nella [[Sessione 09|sessione 9]], i personaggi incontrano Abris all’uscita delle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]]. È un membro dei [[Cavalieri della Polvere|Cavalieri della Polvere]], inviato dalla famiglia Canto di Cenere per sostenere la spedizione, e chiede un rapporto sull’esplorazione. La sua presenza e il suo mandato suscitano diffidenza; dopo uno scambio teso, si allontana.
+Nella [[Sessione 09|sessione 9]], i personaggi incontrano Abris all’uscita delle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]]. È un membro dei [[Cavalieri della Polvere|Cavalieri della Polvere]] e dichiara di agire su mandato del [[Conte Varian Canto di Cenere|conte Varian Canto di Cenere]] per sostenere la spedizione. Chiede un rapporto sull’esplorazione. La sua presenza e il suo mandato suscitano diffidenza; dopo uno scambio teso, si allontana.
 
 ## Ultimo incontro e posizione
 

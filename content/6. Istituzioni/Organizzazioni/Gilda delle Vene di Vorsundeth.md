@@ -7,9 +7,6 @@ tags: ["ambientazione"]
 
 La sua sede è la [[Casa delle Misure|Casa delle Misure]] a [[Veldmark|Veldmark]], dove sono conservati rilievi, registri e campioni. Le squadre di rilevamento comprendono esploratori, cartografi, minatori esperti e guardie a contratto. [[Campo-Rame e Pozzo Argenteo|Campo-Rame e Pozzo Argenteo]] dipendono dai certificati e dalle forniture della Gilda.
 
-→ [[Casa delle Misure|Casa delle Misure — sede a Veldmark]]
+- [[Casa delle Misure|Casa delle Misure — sede a Veldmark]]
 
-→ [[6. Istituzioni/Organizzazioni/index|Organizzazioni e corpi]]
-
----
-
+- [[6. Istituzioni/Organizzazioni/index|Organizzazioni e corpi]]

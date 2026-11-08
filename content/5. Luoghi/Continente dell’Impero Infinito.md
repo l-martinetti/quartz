@@ -7,7 +7,4 @@ Il continente comprende l’[[Impero Infinito|Impero Infinito]], i [[Liberi Conf
 
 Le fonti non assegnano qui un nome proprio al continente.
 
-→ [[5. Luoghi/index|Territori e località]]
-
----
-
+- [[5. Luoghi/index|Territori e località]]

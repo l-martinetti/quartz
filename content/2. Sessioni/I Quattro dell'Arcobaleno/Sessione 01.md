@@ -25,7 +25,7 @@ La spedizione è composta dal nostro gruppo di gioco, un contingente di soldati 
 
 la Spedizione parte verso le miniere. Durante il viaggio, lo scriba [[Brian|Brian]], curioso di conoscere i quattro avventurieri e i loro viaggi, si intrattiene a parlare con loro. La conversazione viene interrotta bruscamente da una freccia che colpisce Brian alla testa: è l’inizio di un agguato. La sessione si chiude in questo momento.
 
-→ [[Sessione 02|Sessione 2]] 
-→ [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
+- [[Sessione 02|Sessione 2]]
+- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
 
 

@@ -7,7 +7,4 @@ Antico regno retto da un re stregone, precedente all’[[Impero Infinito|Impero 
 
 Dopo la caduta del regno, le prime famiglie si riunirono a [[5. Luoghi/Estion/index|Estion]] e diedero forma al potere da cui sarebbe nato l’Impero. I rapporti dell’antica Elburn con i clan nanici erano ostili.
 
-→ [[5. Luoghi/index|Tutti i luoghi]]
-
----
-
+- [[5. Luoghi/index|Tutti i luoghi]]

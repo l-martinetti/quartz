@@ -7,7 +7,4 @@ L'Ordine della Legge nasce dalla tradizione giuridica dei [[Liberi Confini|Liber
 
 L'Ordine ha sede nel distretto amministrativo. La sua competenza è particolarmente ricercata in una città nella quale commerci, credito e proprietà producono dispute frequenti.
 
-→ [[6. Istituzioni/Organizzazioni/index|Organizzazioni e corpi]]
-
----
-
+- [[6. Istituzioni/Organizzazioni/index|Organizzazioni e corpi]]

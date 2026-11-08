@@ -1,5 +1,5 @@
 ---
-title: Prima compagnia · GLV
+title: Gli Amici di GoatPeak
 source_tab: t.4m950t4mum8x
 ---
 >[!warning] _working in progress
@@ -10,6 +10,4 @@ Gatpick, Leysha e Viktor: la formazione della prima fase dell’avventura. Le in
 - [[Leysha|Leysha]]
 - [[Viktor|Viktor]]
 
-→ [[3. Personaggi/index|Indice superiore]]
-
----
+- [[3. Personaggi/index|Indice superiore]]

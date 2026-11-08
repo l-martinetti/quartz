@@ -22,8 +22,8 @@ Più avanti il gruppo trova il vecchio campo della spedizione di [[Liam|Liam]] e
 
 L’esplorazione prosegue fino a una sala di sosta, dove il gruppo ritrova [[Xir’tic|Xir’tic]]. La sessione si conclude con il suo ritrovamento.
 
-→ [[Sessione 07|Sessione 7]]
-→ [[Sessione 05|Sessione 5]]  
-→ [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
+- [[Sessione 07|Sessione 7]]
+- [[Sessione 05|Sessione 5]]
+- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
 
 

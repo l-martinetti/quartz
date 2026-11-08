@@ -16,4 +16,4 @@ Questi tre riferimenti visivi compaiono nella scheda della sessione 3 del docume
 
 ![[assets/DEND/campagna-sessione-3-il-fantasma-di-liam-sessione-3-il-fantasma-di-liam-3.png|Riferimento visivo 3 della sessione 3]]
 
-→ [[Fonti/Galleria|Altri riferimenti visivi]]
+- [[Fonti/Galleria|Altri riferimenti visivi]]

@@ -9,7 +9,7 @@ Un riferimento da consultare durante il gioco: luoghi, protagonisti e persone in
 
 - **[[2. Sessioni/I Quattro dell'Arcobaleno/index|I Quattro dell'Arcobaleno]]**: [[Elias|Elias]], [[Merimbor|Merimbor]], [[Ninazù|Ninazù]] e [[Percy|Percy]]. La nostra attuale cronaca di gioco.
 
-- **[[2. Sessioni/Vecchie Cronache/Gli amici di GoatPeak/index|Gli amici di GoatPeak]]**: [[Gatpick|Gatpick]], [[Leysha|Leysha]] e [[Viktor|Viktor]].  Cronaca precedente ambientata pochi mesi prima del nostro presente.
+- **[[2. Sessioni/Vecchie Cronache/Gli amici di GoatPeak/index|Gli Amici di GoatPeak]]**: [[Gatpick|Gatpick]], [[Leysha|Leysha]] e [[Viktor|Viktor]].  Cronaca precedente ambientata pochi mesi prima del nostro presente.
 
 ## Come orientarsi
 

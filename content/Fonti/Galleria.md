@@ -8,7 +8,7 @@ Le immagini seguenti sono state pubblicate nel canale comune. Quando manca un’
 
 ## Remorhaz
 
-Nome indicato dal master. Gigantesca creatura che attacca la spedizione alle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] e costringe la seconda compagnia (EMNP) a cercare una via di fuga. Non sono aggiunte caratteristiche di gioco.
+Nome indicato dal master. Gigantesca creatura che attacca la spedizione alle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] e costringe i Quattro dell'Arcobaleno a cercare una via di fuga. Non sono aggiunte caratteristiche di gioco.
 
 ![[assets/DEND/atlante-fonti-e-immagini-remorhaz-1.png|Remorhaz]]
 
@@ -96,7 +96,7 @@ Riferimento visivo senza indicazioni certe su luogo, specie o proprietà.
 
 ## Compagno di Darmitan
 
-L’atlante aggiornato identifica la figura con cappello come il compagno armato di due katane che apre un portale ai [[Giardini del Faro|Giardini del Faro]] e porta via [[Darmitan|Darmitan]] dopo il confronto con la prima compagnia (GLV). Il riferimento originale non lo identificava; il suo nome rimane ignoto.
+L’atlante aggiornato identifica la figura con cappello come il compagno armato di due katane che apre un portale ai [[Giardini del Faro|Giardini del Faro]] e porta via [[Darmitan|Darmitan]] dopo il confronto con gli Amici di GoatPeak. Il riferimento originale non lo identificava; il suo nome rimane ignoto.
 
 ![[assets/DEND/atlante-fonti-e-immagini-ritratto-non-identificato-figura-con-cappello-12.png|Ritratto non identificato — figura con cappello]]
 
@@ -136,13 +136,10 @@ Il messaggio del master porta soltanto la didascalia «????».
 
 Stato della sezione:  Bozza condivisibile
 
-## Visione di Gatpick (GLV)
+## Visione di Gatpick (Amici di GoatPeak)
 
-Creatura che [[Gatpick|Gatpick]], della prima compagnia (GLV), è convinto di aver visto. La sua identità e la natura dell’apparizione rimangono sconosciute.
+Creatura che [[Gatpick|Gatpick]], degli Amici di GoatPeak, è convinto di aver visto. La sua identità e la natura dell’apparizione rimangono sconosciute.
 
 ![[assets/DEND/atlante-visione-di-gatpick.webp|Visione di Gatpick]]
 
-→ [[Fonti/index|Indice delle fonti]]
-
----
-
+- [[Fonti/index|Indice delle fonti]]

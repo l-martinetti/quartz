@@ -8,7 +8,7 @@ title: L’Eco dei Fuochi Antichi
 
 Benvenuti nell’archivio della campagna e della sua ambientazione. Qui trovate luoghi, NPC, organizzazioni e ricordi delle sessioni, con le distinzioni tra ciò che è stato **osservato**, ciò che resta **da confermare** e ciò che è conosciuto dello sfondo di gioco.
 
-> [!info] Dove siamo rimasti · I Quattro dell'arcobaleno
+> [!info] Dove siamo rimasti · I Quattro dell'Arcobaleno
 > A [[Veldmark|Veldmark]], quattro incontri con figure incappucciate interrompono i piani di [[Elias|Elias]], [[Merimbor|Merimbor]], [[Percy|Percy]] e [[Ninazù|Ninazù]]. **Si ritrovano in una sala d’ombra, illuminata da tre lanterne.**
 
 ## Prima della prossima sessione

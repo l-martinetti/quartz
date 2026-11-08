@@ -19,7 +19,5 @@ La primavera arriva tardi. Torrenti ingrossati, ghiaccio spezzato e fango rendon
 
 L'estate è breve, fresca e spesso piovosa. Le notti rimangono fredde e la nebbia si raccoglie sopra l'acqua e fra gli alberi. In autunno tornano presto piogge gelide e brinate; le carovane cercano di completare i viaggi prima della chiusura dei passi.
 
-→ [[5. Luoghi/Vorsundeth/index|Vorsundeth]] · [[Viaggi e servizi|Preparare il viaggio]]
-
----
-
+- [[5. Luoghi/Vorsundeth/index|Vorsundeth]]
+- [[Viaggi e servizi|Preparare il viaggio]]

@@ -14,7 +14,7 @@ Dopo la sconfitta di Atma e il crollo del laboratorio, il gruppo deve risalire d
 
 ## L’incontro con Abris
 
-All’esterno li attende [[Abris|Abris]] dei [[Cavalieri della Polvere|Cavalieri della Polvere]], inviato dalla famiglia Canto di Cenere per sostenere la spedizione. La sua presenza e il suo mandato suscitano diffidenza. Dopo un primo, teso scambio di informazioni, Abris si allontana; prima di riposare, i compagni fanno il punto della situazione con Corvus.
+All’esterno li attende [[Abris|Abris]] dei [[Cavalieri della Polvere|Cavalieri della Polvere]], che dichiara di agire su mandato del [[Conte Varian Canto di Cenere|conte Varian Canto di Cenere]] per sostenere la spedizione. La sua presenza e il suo mandato suscitano diffidenza. Dopo un primo, teso scambio di informazioni, Abris si allontana; prima di riposare, i compagni fanno il punto della situazione con Corvus.
 
 ## Il banchetto
 
@@ -22,7 +22,7 @@ Quella sera [[Boren Rusk|Boren]] organizza un banchetto per i soldati imperiali 
 
 La sessione si chiude dopo una conversazione del gruppo con Ramia. In seguito [[Percy|Percy]] si allontana verso il bosco.
 
-→ [[Sessione 10|Sessione 10]] 
-→ [[Sessione 08|Sessione 8]] 
-→ [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
+- [[Sessione 10|Sessione 10]]
+- [[Sessione 08|Sessione 8]]
+- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
 

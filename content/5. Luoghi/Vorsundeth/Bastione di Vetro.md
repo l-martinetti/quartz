@@ -4,7 +4,7 @@ tags: ["luoghi"]
 source_tab: "t.nfw3z06thui3"
 ---
 
-Insediamento protetto da un’enorme cupola di vetro verde chiaro, illuminato da una luce bianca che sembra allontanare le bestie selvatiche. Marmo bianco, pietra chiara ed edifici alti ne caratterizzano il centro. Ospita una sede della [[Gilda degli Esploratori|Gilda degli Esploratori]] ed è il punto di partenza della spedizione della seconda compagnia (EMNP). Il territorio è sotto l’autorità del [[Gran Duca Barein|Gran Duca Barein]].
+Insediamento protetto da un’enorme cupola di vetro verde chiaro, illuminato da una luce bianca che sembra allontanare le bestie selvatiche. Marmo bianco, pietra chiara ed edifici alti ne caratterizzano il centro. Ospita una sede della [[Gilda degli Esploratori|Gilda degli Esploratori]] ed è il punto di partenza della spedizione dei Quattro dell'Arcobaleno. Il territorio è sotto l’autorità del [[Gran Duca Barein|Gran Duca Barein]].
 
 ## La fortezza e i servizi
 

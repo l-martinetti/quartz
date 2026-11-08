@@ -7,6 +7,6 @@ La vita nell’[[Impero Infinito|Impero Infinito]] cambia molto da una regione a
 
 Fiumi, strade, passi montani e rotte commerciali collegano città e comunità. Guarnigioni, dogane e uffici rendono visibile l’autorità imperiale, affiancata in modi diversi dalle autorità locali. Nell’Impero vivono anche comunità di origini diverse, alcune delle quali conservano proprie tradizioni culturali.
 
-→ [[Vita nell’Impero|Vita nell’Impero]] 
-→ [[Viaggi e servizi|Viaggi e servizi]] 
-→ [[Fede e usanze|Fede e usanze]]
+- [[Vita nell’Impero|Vita nell’Impero]]
+- [[Viaggi e servizi|Viaggi e servizi]]
+- [[Fede e usanze|Fede e usanze]]

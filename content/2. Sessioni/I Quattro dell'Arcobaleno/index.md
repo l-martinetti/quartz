@@ -3,7 +3,7 @@ title: Sessioni — I Quattro dell'Arcobaleno
 ---
 La compagnia dei Quattro dell'Arcobaleno è formata da [[Elias|Elias]], [[Merimbor|Merimbor]], [[Percy|Percy]] e [[Ninazù|Ninazù]].
 
-| Sessione | Titolo o riferimento |                            |
+| Sessione | Nota                 | Titolo                     |
 | -------- | -------------------- | -------------------------- |
 | 1        | [[Sessione 01]]      | L'inizio della Spedizione  |
 | 2        | [[Sessione 02]]      | L'agguato della Strega     |

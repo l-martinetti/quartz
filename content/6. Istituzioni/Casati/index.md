@@ -15,6 +15,6 @@ Ruoli, alleanze, tradizioni e rapporti documentati con le compagnie. I sospetti 
 - [[Casato Catena d’Argento|Casato Catena d’Argento]]
 
 
-→ [[6. Istituzioni/index|Indice superiore]]
+- [[6. Istituzioni/index|Indice superiore]]
 
 [[Clan del Sole Nascente e Mantoscuro|Relazioni fra Sole Nascente e Mantoscuro]]

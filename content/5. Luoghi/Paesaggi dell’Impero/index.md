@@ -15,4 +15,4 @@ Raggruppamento di consultazione: non stabilisce da solo confini politici o appar
 - [[Colline di Calidria|Colline di Calidria]]
 
 
-→ [[5. Luoghi/index|Indice superiore]]
+- [[5. Luoghi/index|Indice superiore]]

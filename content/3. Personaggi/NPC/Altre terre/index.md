@@ -8,4 +8,4 @@ Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. No
 - [[Monarca della Valle|Monarca della Valle]]
 - [[Oracolo Astrarian|Oracolo Astrarian]]
 
-→ [[3. Personaggi/NPC/index|Indice superiore]]
+- [[3. Personaggi/NPC/index|Indice superiore]]

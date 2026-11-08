@@ -39,4 +39,5 @@ Divinità, pratiche e tradizioni documentate nel compendio e nell’atlante. Lo 
 
 Per [[Thyris|Thyris]] e [[Bethor|Bethor]] il compendio non assegna uno status legale: restano conservate le informazioni dell’atlante.
 
-→ [[Fede e usanze|Fede e usanze]] · [[6. Istituzioni/index|Istituzioni]]
+- [[Fede e usanze|Fede e usanze]]
+- [[6. Istituzioni/index|Istituzioni]]

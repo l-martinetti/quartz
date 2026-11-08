@@ -12,7 +12,4 @@ Provincia dell’[[Impero Infinito|Impero Infinito]] che comprende Forte Victori
 - [[Ethert|Ethert]]
 - [[5. Luoghi/Adeban/index|Adeban — città di frontiera]]
 
-→ [[5. Luoghi/index|Tutti i luoghi]]
-
----
-
+- [[5. Luoghi/index|Tutti i luoghi]]

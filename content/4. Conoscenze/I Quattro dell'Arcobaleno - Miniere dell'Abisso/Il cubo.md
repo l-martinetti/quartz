@@ -6,7 +6,6 @@ Oggetto ancora irrisolto che Percy continua a studiare durante la [[Sessione 10|
 
 Gli appunti disponibili non ne stabiliscono funzione, origine o modalità d’uso. L’immagine del piccolo cubo magico creata da [[Elias|Elias]] durante una conversazione è una dimostrazione della sua magia: non viene identificata con questo reperto.
 
-→ [[Piste aperte|Piste aperte]] · [[Percy|Percy]] · [[Merimbor|Merimbor]]
-
----
-
+- [[Piste aperte|Piste aperte]]
+- [[Percy|Percy]]
+- [[Merimbor|Merimbor]]

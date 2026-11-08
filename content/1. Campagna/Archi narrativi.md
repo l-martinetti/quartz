@@ -15,7 +15,7 @@ L’esplorazione porta a strutture e apparati inattesi, ai riferimenti sulla [[V
 
 >_Cosa attenderà i nostri eroi in questa nuova avventura?_
 
-## Gli amici di GoatPeak · Le vie degli Eroi
+## Gli Amici di GoatPeak · Le vie degli Eroi
 
 ### La Ferita nel Cielo
 

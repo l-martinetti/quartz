@@ -5,9 +5,9 @@ source_tab: "t.3mxkn7n0p9yw"
 source_heading: "h.4bs529bxmth6"
 ---
 
-Ordine di guaritori erranti che si fermano dove c’è bisogno di soccorso e ripartono in seguito. [[Richal|Richal]] assiste i feriti di [[5. Luoghi/Adeban/index|Adeban]] ed entra in contatto con la prima compagnia (GLV) durante la crisi della città. Un guaritore dell’ordine viene incontrato anche dalla seconda compagnia (EMNP).
+Ordine di guaritori erranti che si fermano dove c’è bisogno di soccorso e ripartono in seguito. [[Richal|Richal]] assiste i feriti di [[5. Luoghi/Adeban/index|Adeban]] ed entra in contatto con gli Amici di GoatPeak durante la crisi della città. Un guaritore dell’ordine viene incontrato anche dali Quattro dell'Arcobaleno.
 
-Il guaritore senza nome incontrato dalla seconda compagnia (EMNP) non è identificato automaticamente con Richal.
+Il guaritore senza nome incontrato dali Quattro dell'Arcobaleno non è identificato automaticamente con Richal.
 
 ## I Guaritori della Volpe
 
@@ -16,9 +16,6 @@ I Guaritori della Volpe sono un ordine errante che percorre le strade dell'Imper
 Il bracciale con gemme di quarzo rosso ne rende riconoscibili i membri. Nella tradizione dell'ordine, le gemme registrano gli anni di pratica completati. La sede cittadina accoglie chi ha bisogno di cure e mantiene un punto di riferimento per persone abituate a partire e tornare.
 
 
-→ [[6. Istituzioni/Organizzazioni/index|Organizzazioni]]
+- [[6. Istituzioni/Organizzazioni/index|Organizzazioni]]
 
 [Fonti: Ambientazione, Richal; E S1.](https://discord.com/channels/1469621626717864096/1469628303877865587/1472532436746371236)
-
----
-

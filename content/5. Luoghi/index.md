@@ -4,7 +4,8 @@ title: Atlante dei luoghi
 
 Città e province hanno una scheda principale con i propri luoghi d’interesse. Gli indici di viaggio servono a orientarsi e non stabiliscono da soli confini politici.
 
-[[Continente dell’Impero Infinito|Il continente]] · [[Impero Infinito|Impero Infinito]]
+- [[Continente dell’Impero Infinito|Il continente]]
+- [[Impero Infinito|Impero Infinito]]
 
 ## Province e città imperiali
 

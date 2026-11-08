@@ -1,5 +1,5 @@
 ---
-title: Stato attuale — I Quattro dell'arcobaleno
+title: Stato attuale — I Quattro dell'Arcobaleno
 ---
 
 *Ultimo punto documentato: fine della [[Sessione 11|sessione 11]].*
@@ -18,4 +18,5 @@ Al calare della sera a [[Veldmark|Veldmark]], figure incappucciate con maschere 
 
 Percy voleva tornare dalle [[Lame Selvagge|Lame Selvagge]] a [[5. Luoghi/Eupharos/index|Eupharos]] e prendersi una pausa dagli incarichi in compagnia. Merimbor aveva spedito una lettera urgente e contava di partire per la capitale in tarda serata. Elias intendeva fermarsi nei paraggi, mentre Ninazù voleva procurarsi un cavallo e doveva ancora scegliere la destinazione.
 
-→ [[Piste aperte|Piste e domande aperte]] · [[Sessione 11|Cronaca della sessione 11]]
+- [[Piste aperte|Piste e domande aperte]]
+- [[Sessione 11|Cronaca della sessione 11]]

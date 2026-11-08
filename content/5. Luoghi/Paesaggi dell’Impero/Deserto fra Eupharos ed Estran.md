@@ -11,7 +11,4 @@ Regione arida fra la capitale e la città portuale orientale, distinta dal più 
 Il Deserto di Ashar alterna sabbia, altipiani rocciosi e canyon. Le rovine di civiltà anteriori all'Impero ne fanno una meta per gli studiosi. [[Arkenis|Arkenis]] è il principale punto di rifornimento sul margine occidentale; uno scalo carovaniero divide approssimativamente a metà la traversata.
 
 
-→ [[5. Luoghi/Paesaggi dell’Impero/index|Paesaggi dell’Impero]]
-
----
-
+- [[5. Luoghi/Paesaggi dell’Impero/index|Paesaggi dell’Impero]]

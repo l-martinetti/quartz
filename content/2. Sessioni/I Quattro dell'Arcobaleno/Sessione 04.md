@@ -40,6 +40,6 @@ Nei livelli inferiori compaiono una sagoma simile a Liam e figure spettrali di u
 
 Una scossa fa cadere massi e distrugge l’ascensore. Un ruggito riempie l’ambiente; da un varco emerge un’immensa creatura. Il resoconto disponibile termina qui, senza identificarla.
 
-→ [[Sessione 05|Sessione 5]]
-→ [[Sessione 03|Sessione 3]]
-→ [[2. Sessioni/index|indice]]
+- [[Sessione 05|Sessione 5]]
+- [[Sessione 03|Sessione 3]]
+- [[2. Sessioni/index|indice]]

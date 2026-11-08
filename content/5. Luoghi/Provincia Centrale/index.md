@@ -20,7 +20,5 @@ Il paesaggio cambia molto all'interno della provincia. A sud dominano le pianure
 
 Per [[Città di Forte Victoria|Forte Victoria]] è disponibile anche la [[5. Luoghi/Forte Victoria/index|scheda della provincia]].
 
-→ [[Viaggi e servizi|Tempi di viaggio dalla capitale]] · [[5. Luoghi/index|Tutti i luoghi]]
-
----
-
+- [[Viaggi e servizi|Tempi di viaggio dalla capitale]]
+- [[5. Luoghi/index|Tutti i luoghi]]

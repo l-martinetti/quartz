@@ -10,4 +10,4 @@ Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. No
 - [[Pretore Fenrad Lancia di Luce|Pretore Fenrad Lancia di Luce]]
 - [[Il Grigio|Il Grigio]]
 
-→ [[3. Personaggi/NPC/index|Indice superiore]]
+- [[3. Personaggi/NPC/index|Indice superiore]]

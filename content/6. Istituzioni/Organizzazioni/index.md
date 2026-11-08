@@ -31,4 +31,4 @@ Ruoli, alleanze, tradizioni e rapporti documentati con le compagnie. I sospetti 
 - [[Cavalieri della Polvere|Cavalieri della Polvere]]
 
 
-→ [[6. Istituzioni/index|Indice superiore]]
+- [[6. Istituzioni/index|Indice superiore]]

@@ -11,4 +11,4 @@ Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. No
 - [[Ribes|Ribes]]
 - [[Maive|Maive]]
 
-→ [[3. Personaggi/NPC/index|Indice superiore]]
+- [[3. Personaggi/NPC/index|Indice superiore]]

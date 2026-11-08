@@ -9,7 +9,7 @@ Grande potenza articolata in province e nata dall’unione di antiche famiglie d
 
 La presenza imperiale comprende guarnigioni, dogane, uffici, strade presidiate e opere per raccolti e traffici. I rapporti con le autorità locali cambiano fra province: Barein governa il [[5. Luoghi/Vorsundeth/index|Vorsundeth]]; [[5. Luoghi/Estran/index|Estran]] ha un Concilio di sei famiglie mercantili e non ospita un governatore imperiale residente.
 
-→ [[Vita nell’Impero|Economia, vita pubblica e frontiere]]
+- [[Vita nell’Impero|Economia, vita pubblica e frontiere]]
 
 ## Approfondimenti
 

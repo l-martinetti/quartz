@@ -7,7 +7,5 @@ Nel Profondo Nord non esistono città imperiali stabili. L'Ultima Tappa è un av
 
 Da [[Brumacava|Brumacava]] non esiste una strada stabile: le spedizioni proseguono su chiatte, slitte o sentieri secondo il terreno, con tempi variabili.
 
-→ [[Brumacava|Brumacava]] · [[Viaggi e servizi|Requisiti delle spedizioni settentrionali]]
-
----
-
+- [[Brumacava|Brumacava]]
+- [[Viaggi e servizi|Requisiti delle spedizioni settentrionali]]
