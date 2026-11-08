@@ -54,6 +54,8 @@ Al quartiere diplomatico si saliva in ascensore. Davanti agli ingranaggi di bron
 
 ### Intorno alla residenza
 
+![[veldmark_corvi.jpg|400]]
+
 Elias risalì la spaccatura lungo la cascata. Al di sopra dei ponti si apriva il quartiere diplomatico, con le cupole blu e le facciate di marmo bianco, intarsiate d’oro. La residenza di Barein era l’edificio più imponente. Davanti all’ingresso aspettavano diversi gruppi, alcuni con scorte private e soldati imperiali. Dietro le grandi vetrate, Elias vedeva le pattuglie e il personale di servizio muoversi lungo i corridoi.
 
 Prima di tentare di entrare, si tenne all’esterno per capire come fosse disposto il palazzo e dove potessero trovarsi eventuali difese magiche. Dal giardino poteva osservare le finestre e i balconi dei piani superiori. La sala più interna, invece, era racchiusa entro un secondo giro di mura. Nessun balcone e nessuna finestra gli offrivano un accesso diretto. Durante la ricognizione riconobbe Boren in testa ai gruppi in attesa, davanti a un funzionario con un registro in mano e la giacca di pelliccia ricamata d’oro. Al fianco di Boren c’era Abris.
@@ -143,4 +145,4 @@ Si accesero tre lanterne. Alla loro luce, Elias, Merimbor, Percy e Ninazù si ri
 → [[Stato attuale|Stato attuale]] 
 → [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice delle sessioni]]
 
----
+

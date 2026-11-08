@@ -20,6 +20,8 @@ Lo scontro è duro e la spedizione subisce gravi perdite: molti soldati imperial
 
 Quando la situazione sembra essersi tranquillizzata, emerge un Remorhaz. La sessione si chiude con la comparsa della creatura.
 
-→ [[Sessione 01|Sessione 1]] · [[Sessione 03|Sessione 3]] · [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
+→ [[Sessione 03|Sessione 3]] 
+→ [[Sessione 01|Sessione 1]] 
+→ [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
 
----
+

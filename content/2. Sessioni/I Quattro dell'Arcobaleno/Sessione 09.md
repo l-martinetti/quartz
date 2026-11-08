@@ -22,6 +22,7 @@ Quella sera [[Boren Rusk|Boren]] organizza un banchetto per i soldati imperiali 
 
 La sessione si chiude dopo una conversazione del gruppo con Ramia. In seguito [[Percy|Percy]] si allontana verso il bosco.
 
-→ [[Sessione 08|Sessione 8]] · [[Sessione 10|Sessione 10]] · [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
+→ [[Sessione 10|Sessione 10]] 
+→ [[Sessione 08|Sessione 8]] 
+→ [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
 
----

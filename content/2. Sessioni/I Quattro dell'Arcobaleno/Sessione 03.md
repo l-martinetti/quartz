@@ -42,6 +42,7 @@ Al ritorno, i compagni raccontano l’accaduto a Merimbor. Lui riferisce di aver
 
 La discussione sul servizio all’Impero resta aperta: Merimbor lo considera utile ai propri scopi; Percy osserva che l’Impero potrebbe ragionare allo stesso modo nei suoi confronti. Boren interrompe il confronto e rimanda l’esplorazione al mattino. Xir’tic non è ancora stato ritrovato.
 
-→ [[Sessione 04|Sessione 4]] · [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|La miniera]] · [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
+→ [[Sessione 04|Sessione 4]] 
+→ [[Sessione 02|Sessione 2]]
+→ [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
 
----

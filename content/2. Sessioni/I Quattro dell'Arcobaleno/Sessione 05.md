@@ -18,6 +18,8 @@ La creatura emersa dalle gallerie affronta il gruppo nei livelli inferiori delle
 
 Percy e Ninazù inseguono la creatura lungo i cunicoli e la ritrovano in una vasca piena di un liquido brillante. Sembra essersi rigenerata, e i due sono costretti a scappare. La sessione si chiude con Percy e Ninazù che devono risalire i cunicoli attraversati.
 
-→ [[Sessione 04|Sessione 4]] · [[Sessione 06|Sessione 6]] · [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
+→ [[Sessione 06|Sessione 6]] 
+→ [[Sessione 04|Sessione 4]] 
+→ [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
 
----
+

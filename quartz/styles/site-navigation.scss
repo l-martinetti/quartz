@@ -268,6 +268,14 @@
   }
 }
 
+// Keep the automatic listing as a fallback for folders without vault links.
+body[data-slug$="/index"]:not([data-slug^="tags/"])
+  .page-body
+  article:has(a.internal)
+  + .page-listing {
+  display: none;
+}
+
 // The default frame places these regions inside .center; expose them to the grid
 // so the compact outline can sit between the page title and the article.
 :root[saved-theme] .page[data-frame="default"] > #quartz-body {

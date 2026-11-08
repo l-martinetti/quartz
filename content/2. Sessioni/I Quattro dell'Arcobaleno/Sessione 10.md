@@ -100,6 +100,8 @@ Il cubo resta irrisolto. Percy continua a studiarlo; Merimbor vuole comprenderne
 
 Il giuramento di Percy potrà influire sulle scelte del gruppo. La perdita notturna di Ninazù, invece, è una scena vissuta da lui mentre gli altri dormivano: non risulta che l’abbia raccontata ai compagni.
 
-→ [[Sessione 09|Sessione 9]] · [[Sessione 11|Sessione 11]] · [[Stato attuale|Stato attuale]] · [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice delle sessioni]]
+→ [[Sessione 11|Sessione 11]]
+→ [[Sessione 09|Sessione 9]]  
+→ [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
 
----
+

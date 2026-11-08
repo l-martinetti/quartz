@@ -24,6 +24,8 @@ Nello studio il gruppo trova tre annotazioni dell’Architetto, una sfera conten
 
 I testi integrali sono raccolti nelle [[Annotazioni e registrazione dell’Architetto|annotazioni e registrazione dell’Architetto]].
 
-→ [[Sessione 06|Sessione 6]] · [[Sessione 08|Sessione 8]] · [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
+→ [[Sessione 08|Sessione 8]]
+→ [[Sessione 06|Sessione 6]]  
+→ [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
 
----
+
