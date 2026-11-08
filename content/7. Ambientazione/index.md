@@ -15,6 +15,7 @@ Queste pagine raccolgono lo sfondo generale del compendio. Le schede dell’atla
 - [[Vita nell’Impero|Vita nell’Impero — autorità, economie e frontiere]]
 - [[Fede e usanze|Fede e usanze — culti, simboli e pratiche]]
 - [[Viaggi e servizi|Viaggi e servizi — distanze e riferimenti pubblici]]
+- [[Calendario imperiale|Calendario imperiale — anni, stagioni e feste]]
 - [[5. Luoghi/Provincia Centrale/index|Provincia Centrale]]
 - [[Provincia di Estran|Provincia di Estran]]
 - [[5. Luoghi/Vorsundeth/index|Vorsundeth]]

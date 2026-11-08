@@ -12,6 +12,8 @@ Dopo l’uscita dalle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere
 
 I compagni lo hanno visto assumere forme animali ed evocare serpenti. Nei resoconti richiama il proprio dio, senza che le fonti comuni ne fissino un nome. Nella sessione 3 annuncia una bufera; nella sessione 4 afferma che la montagna è viva. Le parole dell’automa sulle altre strutture lo portano a interrogarsi sui pericoli che potrebbero custodire.
 
+Nella [[Sessione 11|sessione 11]], Ninazù trasforma [[Elias|Elias]] in corvo e lo raggiunge nella stessa forma alla residenza ducale. Ritira il compenso e si informa su una spedizione in preparazione per il mese seguente. Prima della scena delle tre lanterne intende lasciare [[Veldmark|Veldmark]] e deve ancora scegliere una destinazione.
+
 → [[3. Personaggi/I Quattro dell'Arcobaleno/index|Compagnia EMNP]]
 
 

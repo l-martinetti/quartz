@@ -19,5 +19,4 @@ Nella [[Sessione 09|sessione 9]], i personaggi incontrano Abris all’uscita del
 
 ## Ultimo incontro e posizione
 
-L’incontro all’uscita della miniera è la sua ultima apparizione diretta documentata. Nella [[Sessione 10|sessione 10]], Corvus riferisce che Abris è stato mandato fuori dal campo per un incarico di cui non conosce lo scopo. La sua posizione attuale non è confermata.
-
+Nella [[Sessione 10|sessione 10]], [[Corvus|Corvus]] riferisce che Abris è stato mandato fuori dal campo per un incarico di cui non conosce lo scopo. Nella [[Sessione 11|sessione 11]], Abris è accanto a [[Boren Rusk|Boren]] nella residenza del [[Gran Duca Barein|Gran Duca Barein]] a [[Veldmark|Veldmark]]. Accoglie il gruppo nella sala di Boren e poi chiede che i quattro siano trasferiti in una stanza separata.

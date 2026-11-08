@@ -22,6 +22,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 ## C
 
+- [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Conte Varian Canto di Cenere|Conte Varian Canto di Cenere]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Corvus|Corvus]]
 
 ## D
@@ -45,6 +46,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Gran Duca Barein|Gran Duca Barein]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Forte Victoria/Grand Duca Hamonet|Grand Duca Hamonet]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/Grub|Grub]]
+- [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Guida Ikas|Guida Ikas]]
 
 ## H
 

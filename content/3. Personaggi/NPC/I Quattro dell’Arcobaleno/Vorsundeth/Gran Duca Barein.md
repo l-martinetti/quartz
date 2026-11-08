@@ -22,6 +22,4 @@ Il governo ducale coordina le forze imperiali della regione e decide sull’impi
 
 ## Ultimo incontro e posizione
 
-Non sono documentati incontri diretti con il gruppo. Barein governa da [[Veldmark|Veldmark]], ma la sua posizione attuale non è confermata.
-
-
+Nella [[Sessione 11|sessione 11]], [[Boren Rusk|Boren]] viene ricevuto da Barein nella residenza ducale di [[Veldmark|Veldmark]]. Il gruppo aveva chiesto un’udienza separata, ma vi rinuncia dopo il colloquio di [[Elias|Elias]] e [[Percy|Percy]] con il [[Conte Varian Canto di Cenere|conte Varian]]. Elias tiene con sé la lettera che intendeva consegnare.

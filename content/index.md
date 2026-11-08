@@ -9,13 +9,13 @@ title: L’Eco dei Fuochi Antichi
 Benvenuti nell’archivio della campagna e della sua ambientazione. Qui trovate luoghi, NPC, organizzazioni e ricordi delle sessioni, con le distinzioni tra ciò che è stato **osservato**, ciò che resta **da confermare** e ciò che è conosciuto dello sfondo di gioco.
 
 > [!info] Dove siamo rimasti · I Quattro dell'arcobaleno
-> [[Elias|Elias]], [[Merimbor|Merimbor]], [[Percy|Percy]] e [[Ninazù|Ninazù]] sono in viaggio con [[Corvus|Corvus]] verso [[Veldmark|Veldmark]]. Gli ululati hanno interrotto l’ultima sosta. **Il gruppo raggiunge le porte di Veldmark.**
+> A [[Veldmark|Veldmark]], quattro incontri con figure incappucciate interrompono i piani di [[Elias|Elias]], [[Merimbor|Merimbor]], [[Percy|Percy]] e [[Ninazù|Ninazù]]. **Si ritrovano in una sala d’ombra, illuminata da tre lanterne.**
 
 ## Prima della prossima sessione
 
-- [[Stato attuale|Riprendi il filo]] — posizione, incarico e promesse ancora da verificare.
-- [[Sessione 10|Leggi la sessione 10]] — il viaggio dopo la miniera.
-- [[Piste aperte|Ritrova una domanda]] — il cubo, [[Boren Rusk|Boren]], le altre strutture dell'Architetto.
+- [[Stato attuale|Riprendi il filo]] — la sala delle tre lanterne e l’esito della spedizione.
+- [[Sessione 11|Leggi la sessione 11]] — l’arrivo a Veldmark e il colloquio con Varian.
+- [[Piste aperte|Ritrova una domanda]] — le maschere a becco, il verbale sulle miniere e il cubo.
 
 ## Apri l’atlante
 

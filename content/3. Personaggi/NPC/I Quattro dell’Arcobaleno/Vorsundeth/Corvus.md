@@ -21,5 +21,4 @@ Corvus accompagna il gruppo nell’esplorazione della miniera e offre aiuto dura
 
 ## Ultimo incontro e posizione
 
-Nella [[Sessione 10|sessione 10]], Corvus procura i cavalli e viaggia con i quattro compagni su un percorso alternativo verso [[Veldmark|Veldmark]], dove prospetta ospitalità presso la Gilda. Durante una sosta sente degli ululati e invita il gruppo a ripartire. All’ultima apparizione documentata è in viaggio con loro verso la città.
-
+Nella [[Sessione 10|sessione 10]], Corvus guida i compagni su un percorso alternativo verso [[Veldmark|Veldmark]]. Nella [[Sessione 11|sessione 11]], li riporta al convoglio di [[Boren Rusk|Boren]] prima del controllo ai cancelli. Secondo l’addetto della [[Casa delle Misure|Casa delle Misure]], Corvus si è poi trattenuto a parlare con la [[Guida Ikas|Guida Ikas]]. L’addetto ipotizza che discutessero del verbale sulle miniere.

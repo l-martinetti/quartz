@@ -15,6 +15,12 @@ La città segue i turni di lavoro. Le campane annunciano cambi di squadra, apert
 
 Veldmark dista circa due giorni di carovana dal [[Bastione di Vetro|Bastione di Vetro]] lungo la Strada del Minerale. I carichi di minerale, legname, carbone e viveri vengono registrati. La [[Casa delle Misure|Casa delle Misure]] è il riferimento della [[Gilda delle Vene di Vorsundeth|Gilda delle Vene]] per rilievi, campioni e pratiche minerarie.
 
+## I luoghi visitati nella sessione 11
+
+Nella [[Sessione 11|sessione 11]], il gruppo entra da un accesso intermedio, oltre i cancelli di marmo e mithral presidiati da guardie di metallo con alabarde e fuoco verde. Il centro delle comunicazioni gestisce la corrispondenza imperiale e dispone di un canale prioritario per alcune lettere.
+
+Un ascensore collega il livello intermedio al quartiere diplomatico, dove un posto di controllo precede il viale della residenza del [[Gran Duca Barein|Gran Duca Barein]]. È nella residenza che [[Elias|Elias]] e [[Percy|Percy]] incontrano il [[Conte Varian Canto di Cenere|conte Varian]].
+
 ## Approfondimenti
 
 - [[Casa delle Misure|Casa delle Misure]]

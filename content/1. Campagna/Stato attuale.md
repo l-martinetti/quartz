@@ -2,28 +2,20 @@
 title: Stato attuale — I Quattro dell'arcobaleno
 ---
 
-*Ultimo punto documentato: fine della [[Sessione 10|sessione 10]].*
+*Ultimo punto documentato: fine della [[Sessione 11|sessione 11]].*
 
-## Il gruppo e la destinazione
+## La sala delle tre lanterne
 
-[[Elias|Elias]], [[Merimbor|Merimbor]], [[Percy|Percy]] e [[Ninazù|Ninazù]] viaggiano a cavallo con [[Corvus|Corvus]]. Hanno lasciato l’accampamento della spedizione e seguito una rotta alternativa fra neve, boschi e terreno sconnesso.
+Al calare della sera a [[Veldmark|Veldmark]], figure incappucciate con maschere bianche a becco compaiono davanti a [[Elias|Elias]], [[Merimbor|Merimbor]], [[Percy|Percy]] e [[Ninazù|Ninazù]], che si trovano separati. L’oscurità li avvolge e i quattro si ritrovano nella stessa sala, illuminata da tre lanterne. Una figura si toglie la maschera e dice «È tempo di fare pulizia.» L’identità delle figure e la posizione della sala restano da chiarire.
 
-La sosta più recente è finita quando Corvus ha sentito l’urgenza di ripartire e nella foresta si sono levati numerosi ululati.
+## La spedizione e il verbale
 
-La destinazione è [[Veldmark|Veldmark]], descritta come una città nella montagna spezzata e capoluogo del [[5. Luoghi/Vorsundeth/index|Vorsundeth]].
+- Tutti e quattro hanno ritirato alla [[Casa delle Misure|Casa delle Misure]] l’equivalente di **600 monete d’oro a testa**.
+- [[Boren Rusk|Boren]] è stato ricevuto dal [[Gran Duca Barein|Gran Duca Barein]]. Il gruppo ha rinunciato alla propria udienza e Elias ha tenuto la lettera che voleva consegnare.
+- Il [[Conte Varian Canto di Cenere|conte Varian]] ha detto a Elias e Percy che il rapporto sulle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] era già stato approvato dalla [[Guida Ikas|Guida Ikas]]. Elias ha chiesto di consultare il verbale e ha rimandato l’incontro con Ikas che gli era stato offerto. Secondo l’addetto, [[Corvus|Corvus]] si era trattenuto a parlare con la Guida.
 
-## L’incarico e le promesse
+## I piani prima delle maschere
 
-- [[Boren Rusk|Boren]] ha promesso il pagamento della spedizione a destinazione.
-- Corvus ha detto che a Veldmark potranno parlare con calma ed essere ospitati nella sede della [[Gilda degli Esploratori|Gilda]].
-- Il gruppo concorda che le [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] non sono accessibili.
+Percy voleva tornare dalle [[Lame Selvagge|Lame Selvagge]] a [[5. Luoghi/Eupharos/index|Eupharos]] e prendersi una pausa dagli incarichi in compagnia. Merimbor aveva spedito una lettera urgente e contava di partire per la capitale in tarda serata. Elias intendeva fermarsi nei paraggi, mentre Ninazù voleva procurarsi un cavallo e doveva ancora scegliere la destinazione.
 
-## Quello che il gruppo sta valutando
-
-Merimbor vuole raggiungere la [[5. Luoghi/Eupharos/index|capitale]] per fare rapporto e ha invitato gli altri. 
-Percy spera in una nuova occasione presso gli spadaccini imperiali; un’udienza con l’imperatore o il generale non è stata accordata. 
-Ninazù considera nuovi incarichi in Gilda e la possibilità di cercare una guida per migliorare le proprie capacità.
-
-Il [[Il cubo|cubo]] è ancora irrisolto. 
-Restano le domande sugli accordi di Boren, sull’incarico di [[Abris|Abris]] e sulle altre strutture menzionate dall’automa.
-
+→ [[Piste aperte|Piste e domande aperte]] · [[Sessione 11|Cronaca della sessione 11]]

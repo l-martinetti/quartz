@@ -15,5 +15,6 @@ La compagnia dei Quattro dell'Arcobaleno è formata da [[Elias|Elias]], [[Merimb
 | 8        | [[Sessione 08]]      | Il Motore ULTIMA           |
 | 9        | [[Sessione 09]]      | Ritorno al campo           |
 | 10       | [[Sessione 10]]      | La strada verso Veldmark   |
+| 11       | [[Sessione 11]]      | Le porte di Veldmark       |
 
 Per ripartire: [[Stato attuale|stato attuale]].

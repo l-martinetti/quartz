@@ -23,4 +23,4 @@ Durante l’agguato della [[Sessione 02|sessione 2]], Ramia si allontana con Bor
 
 ## Ultimo incontro e posizione
 
-Nella [[Sessione 10|sessione 10]], Ramia e i soldati sono al campo, impegnati a smontare l’accampamento e caricare i carri. È la sua ultima apparizione documentata; il gruppo parte poi con Corvus lungo un percorso diverso.
+Nella [[Sessione 11|sessione 11]], Ramia entra a [[Veldmark|Veldmark]] con il convoglio. Alle scuderie, [[Boren Rusk|Boren]] le ordina di far scaricare i carri e predisporre il trasporto alla sede della Gilda.

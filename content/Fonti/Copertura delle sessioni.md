@@ -9,6 +9,7 @@ Questa pagina distingue il materiale effettivamente presente in DEND dai resocon
 | Atlante dei luoghi e degli NPC | 36 tab nella revisione consultata il 27 ottobre 2026: protagonisti GLV/EMNP, luoghi, NPC, fazioni, culti, immagini e riferimenti editoriali. Le informazioni narrative sono integrate nelle schede del vault. |
 | Campagna | Titoli e modelli non compilati per S1 e S2; resoconti per S3 e S4; schede NPC e Luoghi vuote. |
 | Sessione 10 | Cronaca completa e riassunto rapido. |
+| [[Sessione 11|Sessione 11]] | Cronaca completa e riassunto rapido. |
 
 Gli originali delle cartelle “[[Elias|Elias]]” e “[[Viktor|Viktor]]” citati nell’atlante non sono contenuti nei tre documenti di DEND. I riferimenti a quelle sessioni permettono di ritrovare una notizia, ma non ne sostituiscono i resoconti.
 

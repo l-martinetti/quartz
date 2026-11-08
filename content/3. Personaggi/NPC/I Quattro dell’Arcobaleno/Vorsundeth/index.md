@@ -8,6 +8,7 @@ Qui sono raccolti gli NPC incontrati nelle vicende svoltesi nella provincia del 
 
 - [[Boren Rusk|Boren Rusk]]
 - [[Corvus|Corvus]]
+- [[Guida Ikas|Guida Ikas]]
 #### Secondari
 
 - [[Liam|Liam]] 💀
@@ -24,6 +25,7 @@ Qui sono raccolti gli NPC incontrati nelle vicende svoltesi nella provincia del 
 ## Famiglie e Casati dell'Impero
 
 - [[Abris|Abris - Cavaliere dei Canto di Cenere]]
+- [[Conte Varian Canto di Cenere|Conte Varian Canto di Cenere]]
 
 ## Lame Selvagge
 
