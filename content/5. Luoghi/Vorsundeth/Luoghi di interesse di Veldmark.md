@@ -30,6 +30,7 @@ Questi luoghi di [[Veldmark|Veldmark]] sono conosciuti dagli abitanti e possono 
 - **Porta delle Bilance** — accesso delle carovane sul fianco della montagna. Qui vengono registrate le merci dirette ai mercati e ai depositi.
 - **Montacarichi dei Titani** — piattaforma capace di sollevare carri interi fra il piazzale, le fonderie e il mercato. I passeggeri usano una passerella separata e i trasporti di soccorso hanno la precedenza.
 - **[[Casa delle Misure|Casa delle Misure]]** — sede della Gilda delle Vene, riferimento per rilievi, campioni e pratiche minerarie.
+- **Centro delle comunicazioni** — ufficio che gestisce la corrispondenza imperiale e dispone di un canale prioritario per alcune lettere.
 - **Borsa delle Concessioni** — salone di banchi, mappe e scrivani dove si trattano diritti di estrazione e forniture.
 - **Mercato delle Scorie** — banchi sotto le arcate con attrezzi ricondizionati, lampade, corde, componenti alchemici e materiali recuperati.
 - **I Nove Rubinetti** — bagni pubblici alimentati dall'acqua calda delle fonderie. Il gestore Orsik Dossopietra vieta armi e risse nelle vasche.
@@ -50,6 +51,3 @@ Un posto di controllo regola l'accesso al quartiere diplomatico. Per visitare gl
 - **Residenza ducale** — sede del [[Gran Duca Barein|Gran Duca Barein]], destinata a udienze e ricevimenti ufficiali.
 - **Tempio della Veglia Alta** — tempio di [[Iona|Iona]] fra la cancelleria e la residenza ducale, frequentato anche da scorte e funzionari.
 - **Sala del Primo Lingotto** — galleria di rappresentanza dedicata alla lavorazione del mithral, con un modello della città e il lingotto che la tradizione indica come il primo raffinato a Veldmark.
-
-- [[Veldmark|Veldmark]]
-- [[5. Luoghi/Vorsundeth/index|Vorsundeth]]

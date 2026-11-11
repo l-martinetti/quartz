@@ -4,7 +4,7 @@ tags: ["luoghi"]
 source_tab: "t.i69ixpbyshpu"
 ---
 
-Antica città sotto due soli, fatta di giardini pensili, terrazze, canali, pietra chiara e torri a goccia. Cristalli e zaffiri diffondevano la luce fra gli archi e i giardini abitati dagli Astrarian. La sua posizione attuale e la possibilità di raggiungerla rimangono ignote. Il [[Paradiso artificiale del laboratorio|paradiso artificiale]] scoperto nel laboratorio dali Quattro dell'Arcobaleno ne riprende l’aspetto.
+Antica città sotto due soli, fatta di giardini pensili, terrazze, canali, pietra chiara e torri a goccia. Cristalli e zaffiri diffondevano la luce fra gli archi e i giardini abitati dagli Astrarian. La sua posizione attuale e la possibilità di raggiungerla rimangono ignote. Il [[Paradiso artificiale del laboratorio|paradiso artificiale]] scoperto nel laboratorio dai Quattro dell'Arcobaleno ne riprende l’aspetto.
 
 La descrizione proviene dal ricordo dell’autore delle annotazioni del laboratorio. Non fissa una posizione attuale né un rapporto geografico con l’Impero.
 

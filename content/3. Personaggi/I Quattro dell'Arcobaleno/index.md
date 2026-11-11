@@ -4,12 +4,18 @@ source_tab: t.lkg4yoz7a2me
 ---
 
 
-Elias, Merimbor, Ninazù e Percy: la formazione che ha superato l'esplorazione delle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell'abisso]], raggiunto [[Veldmark|Veldmark]] e successivamente ciascuno ha preso la propria strada, soltanto prima di ritrovarsi tutti quanti in uno strano ambiente avvolto dalle tenebre...
+Elias, Merimbor, Ninazù e Percy hanno esplorato le [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] e raggiunto [[Veldmark|Veldmark]]. Al termine della sessione 11, dopo aver incontrato separatamente figure con maschere bianche a becco di corvo, si ritrovano insieme nella [[Stato attuale#La sala delle tre lanterne|sala delle tre lanterne]].
 
->[!info] Ogni evento resta attribuito a chi lo ha vissuto, senza fare spoiler su informazioni o avvenimento svoltisi al di fuori delle sessioni o all'insaputa del gruppo.
+> [!info] Le schede riportano ciò che i compagni hanno osservato o condiviso durante le sessioni.
 
 - [[Elias|Elias]]
 - [[Merimbor|Merimbor]]
 - [[Ninazù|Ninazù]]
 - [[Percy|Percy]]
+
+## Seguire la campagna
+
+- [[Stato attuale|Stato attuale]]
+- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Diario delle sessioni]]
+- [[Piste aperte|Piste e domande aperte]]
 

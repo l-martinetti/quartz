@@ -16,7 +16,7 @@ Nella scena introduttiva della [[Sessione 01|sessione 1]], Elias si trova a casa
 
 Elias è stato ingaggiato per sgomberare le [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] e verificarne la sicurezza. Nella [[Sessione 03|sessione 3]], durante l'attacco del Remorhaz, [[Percy|Percy]] lo stabilizza e lo porta via. Nella miniera Elias partecipa al recupero dei messaggi trovati dal gruppo.
 
-Prima della partenza dal campo, Elias e Percy aiutano [[Ninazù|Ninazù]] nel suo rituale. Elias osserva con curiosità le ferite del compagno richiudersi. Durante il viaggio verso [[Veldmark|Veldmark]] mostra agli altri un piccolo cubo magico che fa ruotare sulla mano e racconta di aver sviluppato le proprie capacità per necessità. Il suo incantesimo è distinto dal [[Il cubo|cubo]] recuperato nella miniera e studiato da Percy.
+Nella [[Sessione 10#Il rituale e la polvere|sessione 10]], prima della partenza dal campo, Elias e Percy aiutano [[Ninazù|Ninazù]] nel suo rituale. Elias osserva con curiosità le ferite del compagno richiudersi. Durante il viaggio verso [[Veldmark|Veldmark]] mostra agli altri un piccolo cubo magico che fa ruotare sulla mano e racconta di aver sviluppato le proprie capacità per necessità. Il suo incantesimo è distinto dal [[Il cubo|cubo]] recuperato nella miniera e studiato da Percy.
 
 ## Gli accordi e Veldmark
 
@@ -28,4 +28,5 @@ Elias si reca poi alla [[Casa delle Misure|Casa delle Misure]], dove ritira il c
 
 
 - [[3. Personaggi/I Quattro dell'Arcobaleno/index|I Quattro dell'Arcobaleno]]
+- [[Stato attuale#La sala delle tre lanterne|Dove siamo rimasti]]
 

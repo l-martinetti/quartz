@@ -6,7 +6,7 @@ source_tab: "t.h0sbqvhb6cco"
 
 Capitale dell’[[Impero Infinito|Impero Infinito]], nella sua area centrale, e centro del potere militare e nobiliare, con accessi sorvegliati e limitazioni alle armi. Il fiume che la attraversa sostiene il porto e collega altri centri importanti, [[Città di Forte Victoria|Forte Victoria]] a nord e territori verso est, senza entrare nel Vorsund. Fra le città dell’area centrale si trova anche un grande centro di produzione del grano, essenziale per l’approvvigionamento imperiale. Il Faro d’oro bianco, i giardini, la Gilda, il tempio di [[Iona|Iona]] e l’officina di [[Galvis|Galvis]] sono riferimenti cittadini.
 
-Durante il soggiorno degli Amici di GoatPeak, la Notte sotto le Stelle impone pattuglie aggiuntive per il timore delle [[Maschere|Maschere]]. Il ritorno del [[Generale Senris|Generale Senris]] richiama grandi folle, mentre al porto giungono notizie sull’avanzata del [[Monarca della Valle|Monarca della Valle]].
+Durante il soggiorno degli Amici di GoatPeak, la Notte sotto le Stelle impone pattuglie aggiuntive per il timore delle [[Maschere degli Eroi|Maschere]]. Il ritorno del [[Generale Senris|Generale Senris]] richiama grandi folle, mentre al porto giungono notizie sull’avanzata del [[Monarca della Valle|Monarca della Valle]].
 
 Controlli e limitazioni alle armi sono quelli del periodo narrato e possono cambiare.
 

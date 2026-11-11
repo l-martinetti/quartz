@@ -16,11 +16,11 @@ Nella scena introduttiva della [[Sessione 01|sessione 1]], [[Boren Rusk|Boren Ru
 
 Nella [[Sessione 03|sessione 3]], Merimbor scompare alla vista dopo aver avvertito gli altri che resterà vicino. In seguito racconta di aver osservato Boren usare un oggetto strano, senza essere riuscito a capire che cosa facesse. Discutendo con il gruppo del servizio all'Impero, dice di considerarlo utile ai propri scopi.
 
-Nelle miniere esplora con i compagni le strutture e i laboratori nascosti in profondità. Davanti a una proiezione del cielo di Vespera riconosce tra le stelle una porzione apparentemente deformata della costellazione di Yjivarn la Grande Ala. Prima dello scontro con Atma, discutendo con [[Corvus|Corvus]], sostiene che l'Impero potrebbe avere ancora interesse nei segreti del laboratorio. Dopo l'uscita dalle miniere, lui ed [[Elias|Elias]] parlano con [[Ramia|Ramia]] al campo.
+Nelle miniere esplora con i compagni le strutture e i laboratori nascosti in profondità. Nella [[Sessione 07|sessione 7]], davanti a una proiezione del cielo di Vespera riconosce tra le stelle una porzione apparentemente deformata della costellazione di Yjivarn la Grande Ala. Nella [[Sessione 08|sessione 8]], prima dello scontro con Atma, discutendo con [[Corvus|Corvus]], sostiene che l'Impero potrebbe avere ancora interesse nei segreti del laboratorio. Dopo l'uscita dalle miniere, lui ed [[Elias|Elias]] parlano con [[Ramia|Ramia]] al campo.
 
 ## Il casato e il rapporto
 
-Durante il viaggio verso [[Veldmark|Veldmark]], Merimbor invita i compagni a seguirlo in capitale, dove intende fare rapporto. Vorrebbe comprendere la funzione del [[Il cubo|cubo]] studiato da [[Percy|Percy]] per poterla riferire. Parlando delle informazioni raccolte nelle miniere, condivide il timore che possano rendere il gruppo scomodo ed esporlo a prigionia o interrogatori.
+Nella [[Sessione 10#Il calore di un fuoco|sessione 10]], durante il viaggio verso [[Veldmark|Veldmark]], Merimbor invita i compagni a seguirlo in capitale, dove intende fare rapporto. Vorrebbe comprendere la funzione del [[Il cubo|cubo]] studiato da [[Percy|Percy]] per poterla riferire. Parlando delle informazioni raccolte nelle miniere, condivide il timore che possano rendere il gruppo scomodo ed esporlo a prigionia o interrogatori.
 
 Attorno al fuoco racconta di appartenere al casato Auglamyr e di aver lasciato la famiglia, che descrive come meno bella di quanto possa apparire dall'esterno. Quando Elias gli chiede che cosa lo abbia allontanato da casa, Merimbor sceglie di non rispondere.
 
@@ -31,3 +31,4 @@ Nella [[Sessione 11|sessione 11]], Merimbor ritira il compenso alla [[Casa delle
 Il gruppo chiede udienza, ma dopo un confronto con Boren viene fatto accomodare in una sala separata. Merimbor attende con [[Ninazù|Ninazù]] mentre Elias e Percy si allontanano; infine i quattro lasciano la residenza senza attendere l'udienza. Più tardi Merimbor spedisce una lettera urgente e intende partire per la capitale in tarda serata. Prima della partenza, figure mascherate avvolgono lui e gli altri nell'oscurità: i quattro si ritrovano insieme in una sala illuminata da tre lanterne.
 
 - [[3. Personaggi/I Quattro dell'Arcobaleno/index|I Quattro dell'Arcobaleno]]
+- [[Stato attuale#La sala delle tre lanterne|Dove siamo rimasti]]

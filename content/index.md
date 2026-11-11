@@ -9,13 +9,13 @@ title: L’Eco dei Fuochi Antichi
 Benvenuti nell’archivio della campagna e della sua ambientazione. Qui trovate luoghi, NPC, organizzazioni e ricordi delle sessioni, con le distinzioni tra ciò che è stato **osservato**, ciò che resta **da confermare** e ciò che è conosciuto dello sfondo di gioco.
 
 > [!info] Dove siamo rimasti · I Quattro dell'Arcobaleno
-> A [[Veldmark|Veldmark]], quattro incontri con figure incappucciate interrompono i piani di [[Elias|Elias]], [[Merimbor|Merimbor]], [[Percy|Percy]] e [[Ninazù|Ninazù]]. **Si ritrovano in una sala d’ombra, illuminata da tre lanterne.**
+> A [[Veldmark|Veldmark]], figure incappucciate con maschere bianche a becco di corvo compaiono davanti ai quattro compagni, che si trovano separati. **La sessione si chiude quando si ritrovano insieme in una sala d’ombra, illuminata da tre lanterne.**
 
 ## Prima della prossima sessione
 
 - [[Stato attuale|Riprendi il filo]] — la sala delle tre lanterne e l’esito della spedizione.
-- [[Sessione 11|Leggi la sessione 11]] — l’arrivo a Veldmark e il colloquio con Varian.
-- [[Piste aperte|Ritrova una domanda]] — le maschere a becco, il verbale sulle miniere e il cubo.
+- [[Sessione 11#Tre lanterne|Rileggi la scena finale]] — dalle maschere di corvo alla sala delle tre lanterne.
+- [[Piste aperte|Segui le piste]] — le figure mascherate, il verbale sulle miniere e le altre domande aperte.
 
 ## Apri l’atlante
 
@@ -30,7 +30,7 @@ Benvenuti nell’archivio della campagna e della sua ambientazione. Qui trovate 
 
 ## Conoscere il mondo
 
-La campagna attraversa l’[[Impero Infinito|Impero Infinito]] e le terre che lo circondano nel continente chiamato Valendar. La compagnia dei Quattro dell'Arcobaleno si trova nella provincia di [[5. Luoghi/Vorsundeth/index|Vorsundeth]]; le altre macroaree raccolgono l’ambientazione comune e i riferimenti delle altre campagne.
+La campagna attraversa l’[[Impero Infinito|Impero Infinito]] e le terre che lo circondano nel continente chiamato Valendar. Il [[5. Luoghi/Vorsundeth/index|Vorsundeth]] è la provincia in cui i Quattro dell'Arcobaleno hanno esplorato le miniere e raggiunto Veldmark. Le altre regioni raccolgono l’ambientazione comune e i riferimenti delle altre campagne.
 
 Le diverse campagne portano con sé diverse rivelazioni, storie personali di ciascun PG e diversi luoghi esplorati. Siccome questo sarà un compendio omnicomprensivo cercherò di rendere chiare queste diverse provenienze delle informazioni.
 

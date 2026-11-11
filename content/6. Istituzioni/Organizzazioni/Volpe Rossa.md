@@ -5,9 +5,9 @@ source_tab: "t.3mxkn7n0p9yw"
 source_heading: "h.4bs529bxmth6"
 ---
 
-Ordine di guaritori erranti che si fermano dove c’è bisogno di soccorso e ripartono in seguito. [[Richal|Richal]] assiste i feriti di [[5. Luoghi/Adeban/index|Adeban]] ed entra in contatto con gli Amici di GoatPeak durante la crisi della città. Un guaritore dell’ordine viene incontrato anche dali Quattro dell'Arcobaleno.
+Ordine di guaritori erranti che si fermano dove c’è bisogno di soccorso e ripartono in seguito. [[Richal|Richal]] assiste i feriti di [[5. Luoghi/Adeban/index|Adeban]] ed entra in contatto con gli Amici di GoatPeak durante la crisi della città. Un guaritore dell’ordine viene incontrato anche dai Quattro dell'Arcobaleno.
 
-Il guaritore senza nome incontrato dali Quattro dell'Arcobaleno non è identificato automaticamente con Richal.
+Il guaritore senza nome incontrato dai Quattro dell'Arcobaleno non è identificato automaticamente con Richal.
 
 ## I Guaritori della Volpe
 

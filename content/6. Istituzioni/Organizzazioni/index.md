@@ -15,7 +15,7 @@ Ruoli, alleanze, tradizioni e rapporti documentati con le compagnie. I sospetti 
 - [[Giudici dei Liberi Confini|Giudici dei Liberi Confini]]
 - [[Guanto di Velluto|Guanto di Velluto]]
 - [[Lame Selvagge|Lame Selvagge]]
-- [[Maschere|Maschere]]
+- [[Maschere degli Eroi|Maschere]]
 - [[Spadaccini imperiali|Spadaccini imperiali]]
 - [[Vigilanti e Terzo Legato|Vigilanti e Terzo Legato]]
 - [[Volpe Rossa|Volpe Rossa]]

@@ -132,7 +132,7 @@ Merimbor tornò dall’halfling delle comunicazioni e gli affidò una lettera da
 
 ### Tre lanterne
 
-Verso sera, mentre le loro strade si separavano, davanti a ciascuno comparvero figure con cappucci e mantelli neri. Le maschere bianche coprivano la parte superiore del viso e avevano un becco lungo, simile a quello di un corvo. Ricordavano quelle dei [[Corvi Rossi|Corvi Rossi]], gli investigatori imperiali, con colori diversi. Due delle figure pronunciarono parole incomprensibili. L’oscurità avvolse ciascuno dei quattro.
+Verso sera, mentre le loro strade si separavano, davanti a ciascuno comparvero [[Figure incappucciate e mascherate|figure con cappucci e mantelli neri]]. Le maschere bianche coprivano la parte superiore del viso e avevano un becco lungo, simile a quello di un corvo. Ricordavano quelle dei [[Corvi Rossi|Corvi Rossi]], gli investigatori imperiali, con colori diversi. Due delle figure pronunciarono parole incomprensibili. L’oscurità avvolse ciascuno dei quattro.
 
 Si accesero tre lanterne. Alla loro luce, Elias, Merimbor, Percy e Ninazù si ritrovarono tutti nella stessa sala d’ombra. Una delle figure si tolse la maschera.
 

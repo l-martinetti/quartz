@@ -27,6 +27,10 @@ Qui sono raccolti gli NPC incontrati nelle vicende svoltesi nella provincia del 
 - [[Abris|Abris - Cavaliere dei Canto di Cenere]]
 - [[Conte Varian Canto di Cenere|Conte Varian Canto di Cenere]]
 
+## Figure incontrate a Veldmark
+
+- [[Figure incappucciate e mascherate|Figure incappucciate e mascherate]]
+
 ## Lame Selvagge
 
 - [[Xir’tic|Xir’tic]] 💀
