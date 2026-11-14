@@ -11,6 +11,10 @@ Continente a oriente, separato da un oceano dalla terra dell’[[Impero Infinito
 - [[Steppe orientali|Steppe orientali]]
 - [[Deserto orientale|Deserto orientale]]
 - [[Regno organizzato in caste|Regno organizzato in caste]]
-- [[Rotta oceanica orientale|Rotta oceanica orientale]]
 
-- [[5. Luoghi/index|Tutti i luoghi]]
+## Rotte e scali verso il continente
+
+- [[Rotta oceanica orientale|Rotta oceanica orientale]]
+- [[Corridoio dei Ventagli]] — isole e approdi dell’Oceano di Giada, fuori dalla rotta principale.
+- [[Kaishin]] — isola abitata con baie riparate e sorgenti calde.
+- [[Nansei]] — porto indipendente di Kaishin, dove cercare un passaggio verso il continente.

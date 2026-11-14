@@ -9,6 +9,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Abris|Abris]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Crocevia/Aken’esh|Aken’esh]]
+- [[3. Personaggi/NPC/Altre terre/Nansei e Kaishin/Akaro|Akaro]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/Atkin|Atkin]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Atma|Atma]]
 
@@ -38,6 +39,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/Galien il Fulmine|Galien il Fulmine]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Eupharos/Galvis|Galvis]]
+- [[3. Personaggi/NPC/Altre terre/Nansei e Kaishin/Garo|Garo]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Eupharos/Generale Senris|Generale Senris]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/Ghilbert|Ghilbert]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Ghilda|Ghilda]]
@@ -74,6 +76,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 ## M
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Eupharos/Maive|Maive]]
+- [[3. Personaggi/NPC/Altre terre/Nansei e Kaishin/Mirae Soryn|Mirae Soryn]]
 - [[3. Personaggi/NPC/Altre terre/Monarca della Valle|Monarca della Valle]]
 
 ## N

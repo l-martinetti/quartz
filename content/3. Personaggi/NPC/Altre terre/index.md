@@ -8,4 +8,6 @@ Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. No
 - [[Monarca della Valle|Monarca della Valle]]
 - [[Oracolo Astrarian|Oracolo Astrarian]]
 
-- [[3. Personaggi/NPC/index|Indice superiore]]
+## Nansei e Kaishin
+
+- [[3. Personaggi/NPC/Altre terre/Nansei e Kaishin/index|Personaggi di Nansei e Kaishin]]
