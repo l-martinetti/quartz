@@ -2,6 +2,7 @@
 title: NPC da collocare
 ---
 
-Nessuna scheda da collocare al momento.
+Questa pagina raccoglie le figure nominate durante la campagna la cui collocazione non è ancora stata chiarita. Le schede riportano le informazioni emerse in gioco e quelle di conoscenza comune.
 
-- [[3. Personaggi/NPC/index|Tutti gli NPC]]
+- [[Rexyra|Rexyra]]
+

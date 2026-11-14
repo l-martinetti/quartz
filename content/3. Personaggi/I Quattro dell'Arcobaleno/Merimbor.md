@@ -20,6 +20,8 @@ Nelle miniere esplora con i compagni le strutture e i laboratori nascosti in pro
 
 ## Il casato e il rapporto
 
+Merimbor ha citato [[Rexyra|Rexyra]] come propria mandante.
+
 Nella [[Sessione 10#Il calore di un fuoco|sessione 10]], durante il viaggio verso [[Veldmark|Veldmark]], Merimbor invita i compagni a seguirlo in capitale, dove intende fare rapporto. Vorrebbe comprendere la funzione del [[Il cubo|cubo]] studiato da [[Percy|Percy]] per poterla riferire. Parlando delle informazioni raccolte nelle miniere, condivide il timore che possano rendere il gruppo scomodo ed esporlo a prigionia o interrogatori.
 
 Attorno al fuoco racconta di appartenere al casato Auglamyr e di aver lasciato la famiglia, che descrive come meno bella di quanto possa apparire dall'esterno. Quando Elias gli chiede che cosa lo abbia allontanato da casa, Merimbor sceglie di non rispondere.

@@ -99,6 +99,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/Rael|Rael]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Ramia|Ramia]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/Kelor e Retis|Retis]]
+- [[3. Personaggi/NPC/Da collocare/Rexyra|Rexyra]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Eupharos/Ribes|Ribes]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/Richal|Richal]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/Royé Lancia di Luce|Royé Lancia di Luce]]
