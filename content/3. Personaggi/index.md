@@ -8,5 +8,3 @@ Qui trovate i personaggi incontrati durante le campagne giocate in questa ambien
 - [[3. Personaggi/Gli amici di GoatPeak/index|Gli Amici di GoatPeak]]
 - [[3. Personaggi/NPC/index|NPC e figure nominate]]
 
----
-- [[index|L'Eco dei Fuochi Antichi]]
