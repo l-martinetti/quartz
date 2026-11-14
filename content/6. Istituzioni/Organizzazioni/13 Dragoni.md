@@ -26,6 +26,8 @@ Di norma agiscono separatamente, ciascuno nella propria area di competenza, e co
 
 Non portano uniformi né simboli comuni e di pochissimi si conosce il volto. Spesso hanno con sé un pegno particolare del Generale Senris, grazie al quale possono identificarsi come Dragoni. Solo alcuni sono apparsi pubblicamente in tale veste; pochi altri sono stati presenti a eventi privati a titolo ufficiale.
 
+Tra i membri il cui nome è stato reso pubblico figura [[Kajiwara Chōsokabe]], noto come il Sesto Dragone.
+
 ## Reputazione
 
 Per la gente comune, i Dragoni sono figure a metà tra agenti imperiali ed eroi da racconto: se ne sente parlare, ma è raro poter distinguere un'impresa realmente avvenuta da una storia ingigantita. Tra i soldati prevale una cauta distanza: lavorare con un Dragone significa spesso trovarsi dove il pericolo è maggiore.

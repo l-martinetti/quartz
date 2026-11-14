@@ -65,6 +65,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 ## K
 
+- [[3. Personaggi/NPC/Altre terre/Kajiwara Chōsokabe|Kajiwara Chōsokabe]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/Kayren Berqinal|Kayren Berqinal]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/Kelor e Retis|Kelor e Retis]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/Kirik|Kirik]]

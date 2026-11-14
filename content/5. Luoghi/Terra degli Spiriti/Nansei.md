@@ -3,6 +3,8 @@ title: "Nansei"
 tags: ["luoghi"]
 ---
 
+![[assets/DEND/panorama_nansei.png]]
+
 Nansei è una grande città portuale indipendente sull’isola di [[Kaishin]], cresciuta grazie agli scambi fra Valendar e la [[5. Luoghi/Terra degli Spiriti/index|Terra degli Spiriti]]. Alle banchine si incontrano mercanti, pescatori, marinai e viaggiatori in cerca di un passaggio nel [[Corridoio dei Ventagli]].
 
 ## Dal porto alle terrazze
