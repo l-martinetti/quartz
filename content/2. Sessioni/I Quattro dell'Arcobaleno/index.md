@@ -16,6 +16,7 @@ La compagnia dei Quattro dell'Arcobaleno è formata da [[Elias|Elias]], [[Merimb
 | 9        | [[Sessione 09]]      | Ritorno al campo           |
 | 10       | [[Sessione 10]]      | Sotto la neve, prima di Veldmark |
 | 11       | [[Sessione 11]]      | Le porte di Veldmark       |
+| 12       | [[Sessione 12]]      | Le quattro lanterne        |
 
 - [[Stato attuale|Stato attuale]]
 - [[Sessione 11#Tre lanterne|La scena finale della sessione 11]]

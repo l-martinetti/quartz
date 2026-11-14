@@ -7,4 +7,4 @@ I Corvi Rossi sono investigatori imperiali. La cronaca della sessione 11 paragon
 
 - [[Piste aperte#Le maschere di corvo|Le maschere di corvo]]
 - [[Sessione 11#Tre lanterne|La scena nella cronaca]]
-- [[6. Istituzioni/Organizzazioni/index|Organizzazioni e corpi]]
+

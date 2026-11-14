@@ -142,6 +142,7 @@ Si accesero tre lanterne. Alla loro luce, Elias, Merimbor, Percy e Ninazù si ri
 
 
 - [[Sessione 10|Sessione 10]]
+- [[Sessione 12|Sessione 12]]
 - [[Stato attuale|Stato attuale]]
 - [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice delle sessioni]]
 

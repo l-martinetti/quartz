@@ -35,15 +35,5 @@ Il [[Grande Fiume Imperiale|Grande Fiume Imperiale]] e le vie della Provincia Ce
 
 - [[5. Luoghi/Provincia Centrale/index|Provincia Centrale]]
 - [[Viaggi e servizi|Tempi di viaggio]]
-
-
 - [[5. Luoghi/index|Tutti i luoghi]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Eupharos/index|Persone di riferimento]]
-
-[Fonti: Ambientazione, Galvis; V S23–S27.](https://discord.com/channels/1469621626717864096/1469628303877865587/1492442637255315496)
-
-[Punti di riferimento: Faro; Giardini del Faro; officina di Galvis; tempio di Iona; Gilda degli Esploratori. Fonti: V S22–S27; Ambientazione, riferimento al tempio di Iona.](https://discord.com/channels/1469621626717864096/1469628303877865587/1528017769960837281)
-
-[Fonte: Ambientazione, invito ai Giardini del Faro; V S23–S24.](https://discord.com/channels/1469621626717864096/1469628303877865587/1528055813808324689)
-
-[Fonte: Ambientazione, Aken’esh.](https://discord.com/channels/1469621626717864096/1469628303877865587/1528017769960837281)
