@@ -13,15 +13,15 @@ Il ricordo si interrompe mentre vengono portati via. Il Master ha chiarito che i
 - [[Sessione 12#«Ti abbiamo preso»|La fine dello scontro]]
 - [[Sessione 12#La risacca|La risacca e le indicazioni del Master]]
 
-## La sala delle tre lanterne
+## La sala delle quattro lanterne
 
 *L'incontro al termine della sessione 11.*
 
-Al calare della sera a [[Veldmark|Veldmark]], una coppia di [[Figure incappucciate e mascherate|figure incappucciate con maschere bianche a becco di corvo]] e una lanterna compare davanti a ciascuno dei quattro compagni, che si trovano separati. L’oscurità li avvolge e i quattro si ritrovano nella stessa sala, illuminata da tre lanterne. Una figura si toglie la maschera e dice «È tempo di fare pulizia.»
+Al calare della sera a [[Veldmark|Veldmark]], una coppia di [[Figure incappucciate e mascherate|figure incappucciate con maschere bianche a becco di corvo]] e una lanterna compare davanti a ciascuno dei quattro compagni, che si trovano separati. L’oscurità li avvolge e i quattro si ritrovano nella stessa sala, illuminata da quattro lanterne. Una figura si toglie la maschera e dice «È tempo di fare pulizia.»
 
 La posizione della sala e l’identità delle figure restano da chiarire.
 
-- [[Sessione 11#Tre lanterne|La scena nella cronaca]]
+- [[Sessione 11#Quattro lanterne|La scena nella cronaca]]
 - [[Piste aperte#Le maschere di corvo|La pista delle maschere]]
 
 ## La spedizione e il verbale

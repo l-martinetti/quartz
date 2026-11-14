@@ -12,7 +12,7 @@ A [[Veldmark|Veldmark]] i quattro si ricongiungono al convoglio di [[Boren Rusk|
 
 Il [[Conte Varian Canto di Cenere|conte Varian]] riceve Elias e Percy. Elias propone un’intesa a tre e offre le informazioni sui livelli più profondi delle miniere. Varian sostiene che il rapporto è già stato approvato dalla [[Guida Ikas|Guida Ikas]]. Il gruppo rinuncia all’udienza e Boren viene ricevuto da Barein. Elias chiede poi di consultare il verbale. La Gilda gli offre un incontro con Ikas, con cui si è trattenuto [[Corvus|Corvus]].
 
-Merimbor spedisce una lettera urgente. Lui e Percy intendono partire per [[5. Luoghi/Eupharos/index|Eupharos]]. Elias vuole fermarsi nei paraggi e Ninazù intende cercare un cavallo. Al calare della sera, figure incappucciate con maschere bianche a becco compaiono davanti a ciascuno. L’oscurità li avvolge e i quattro si ritrovano in una sala illuminata da tre lanterne. Una figura si toglie la maschera e dice **«È tempo di fare pulizia.»**
+Merimbor spedisce una lettera urgente. Lui e Percy intendono partire per [[5. Luoghi/Eupharos/index|Eupharos]]. Elias vuole fermarsi nei paraggi e Ninazù intende cercare un cavallo. Al calare della sera, figure incappucciate con maschere bianche a becco compaiono davanti a ciascuno. L’oscurità li avvolge e i quattro si ritrovano in una sala illuminata da quattro lanterne. Una figura si toglie la maschera e dice **«È tempo di fare pulizia.»**
 
 ## Resoconto integrale
 
@@ -130,11 +130,11 @@ Elias tornò alla Casa delle Misure, firmò e ritirò il compenso. Chiese anche 
 
 Merimbor tornò dall’halfling delle comunicazioni e gli affidò una lettera da spedire con urgenza. Il servizio fu gratuito. Intendeva partire verso la capitale a tarda sera. Percy aveva deciso di mettersi in viaggio già quel giorno. Ninazù, dopo aver sbrigato una faccenda per conto proprio, avrebbe cercato un cavallo per lasciare Veldmark, senza aver ancora scelto la destinazione.
 
-### Tre lanterne
+### Quattro lanterne
 
 Verso sera, mentre le loro strade si separavano, davanti a ciascuno comparvero [[Figure incappucciate e mascherate|figure con cappucci e mantelli neri]]. Le maschere bianche coprivano la parte superiore del viso e avevano un becco lungo, simile a quello di un corvo. Ricordavano quelle dei [[Corvi Rossi|Corvi Rossi]], gli investigatori imperiali, con colori diversi. Due delle figure pronunciarono parole incomprensibili. L’oscurità avvolse ciascuno dei quattro.
 
-Si accesero tre lanterne. Alla loro luce, Elias, Merimbor, Percy e Ninazù si ritrovarono tutti nella stessa sala d’ombra. Una delle figure si tolse la maschera.
+Si accesero quattro lanterne. Alla loro luce, Elias, Merimbor, Percy e Ninazù si ritrovarono tutti nella stessa sala d’ombra. Una delle figure si tolse la maschera.
 
 «È tempo di fare pulizia.»
 

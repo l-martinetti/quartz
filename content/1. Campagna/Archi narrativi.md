@@ -11,7 +11,7 @@ Una volta partiti, la carovana subisce un’imboscata e l’attacco del [[Fonti/
 
 L’esplorazione porta a strutture e apparati inattesi, ai riferimenti sulla [[Vigilanti e Terzo Legato|Pattuglia Vigilante]], alle apparizioni di [[Liam|Liam]] e al [[Paradiso artificiale del laboratorio|paradiso artificiale]]. Dopo l’uscita dalla miniera, il gruppo si ricongiunge alla spedizione e viaggia verso [[Veldmark|Veldmark]]. Il viaggio è raccontato nella [[Sessione 10|sessione 10]].
 
-### Veldmark e le tre lanterne
+### Veldmark e le quattro lanterne
 
 Nella [[Sessione 11|sessione 11]] i quattro riscuotono il compenso, ma il verbale ufficiale sulle miniere resta da consultare. Boren viene ricevuto dal Gran Duca Barein e il gruppo lascia la residenza senza attendere la propria udienza. Prima che i compagni possano proseguire per le loro strade, compaiono le figure dalle maschere bianche a becco di corvo.
 

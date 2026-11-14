@@ -28,7 +28,7 @@ Durante il viaggio verso [[Veldmark|Veldmark]], Ninazù dice di voler riscuotere
 
 Nella [[Sessione 11|sessione 11]], Ninazù ritira il compenso alla [[Casa delle Misure|Casa delle Misure]] e si informa su una spedizione in preparazione per il mese seguente. Trasforma Elias in corvo per aiutarlo a raggiungere la residenza ducale e lo raggiunge assumendo la stessa forma.
 
-Dopo che il gruppo lascia la residenza, Ninazù intende cercare un cavallo e lasciare Veldmark, senza aver ancora scelto una destinazione. Più tardi figure mascherate avvolgono lui e gli altri nell'oscurità. I quattro si ritrovano insieme in una sala illuminata da tre lanterne.
+Dopo che il gruppo lascia la residenza, Ninazù intende cercare un cavallo e lasciare Veldmark, senza aver ancora scelto una destinazione. Più tardi figure mascherate avvolgono lui e gli altri nell'oscurità. I quattro si ritrovano insieme in una sala illuminata da quattro lanterne.
 
 Nella [[Sessione 12|sessione 12]], Ninazù fa cadere una lanterna usando i serpenti dello scettro e si trasforma in orso durante lo scontro. Ferito dagli aggressori, perde la forma animale e crolla. La prossima scena comincerà al risveglio, con il rumore della risacca.
 
