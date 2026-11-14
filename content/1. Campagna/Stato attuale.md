@@ -2,9 +2,20 @@
 title: Stato attuale — I Quattro dell'Arcobaleno
 ---
 
-*Ultimo punto documentato: fine della [[Sessione 11|sessione 11]].*
+*Ultimo punto documentato: fine della [[Sessione 12|sessione 12]].*
+
+## Dopo lo scontro
+
+Nella sala d’ombra i quattro affrontano le figure mascherate, l’uomo senza maschera e uno spettro coronato. [[Percy|Percy]] viene colpito dalla lama dell’uomo, cade e muore per le ferite. Anche [[Merimbor|Merimbor]] e [[Ninazù|Ninazù]] cadono. [[Elias|Elias]] è l’unico ancora cosciente quando l’uomo prende in braccio Merimbor e gli incappucciati iniziano a trascinare via i caduti.
+
+Il ricordo si interrompe mentre vengono portati via. Il Master ha chiarito che i tiri salvezza contro morte sono conclusi e che tutti sentiranno la risacca al risveglio. **Che cosa sia accaduto a Percy dopo la morte nella sala resta da scoprire**, così come la posizione del gruppo. Alla ripresa si chiarirà anche se Elias abbia recuperato i punti ferita massimi sottratti dallo spettro.
+
+- [[Sessione 12#«Ti abbiamo preso»|La fine dello scontro]]
+- [[Sessione 12#La risacca|La risacca e le indicazioni del Master]]
 
 ## La sala delle tre lanterne
+
+*L'incontro al termine della sessione 11.*
 
 Al calare della sera a [[Veldmark|Veldmark]], una coppia di [[Figure incappucciate e mascherate|figure incappucciate con maschere bianche a becco di corvo]] e una lanterna compare davanti a ciascuno dei quattro compagni, che si trovano separati. L’oscurità li avvolge e i quattro si ritrovano nella stessa sala, illuminata da tre lanterne. Una figura si toglie la maschera e dice «È tempo di fare pulizia.»
 
@@ -33,4 +44,4 @@ Percy voleva tornare dalle [[Lame Selvagge|Lame Selvagge]] a [[5. Luoghi/Eupharo
 
 - [[Luoghi di interesse di Veldmark|Luoghi di interesse di Veldmark]]
 - [[Piste aperte|Piste e domande aperte]]
-- [[Sessione 11|Cronaca della sessione 11]]
+- [[Sessione 12|Cronaca della sessione 12]]

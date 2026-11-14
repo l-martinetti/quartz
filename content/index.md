@@ -9,13 +9,13 @@ title: L’Eco dei Fuochi Antichi
 Benvenuti nell’archivio della campagna e della sua ambientazione. Qui trovate luoghi, NPC, organizzazioni e ricordi delle sessioni, con le distinzioni tra ciò che è stato **osservato**, ciò che resta **da confermare** e ciò che è conosciuto dello sfondo di gioco.
 
 > [!info] Dove siamo rimasti · I Quattro dell'Arcobaleno
-> A [[Veldmark|Veldmark]], figure incappucciate con maschere bianche a becco di corvo compaiono davanti ai quattro compagni, che si trovano separati. **La sessione si chiude quando si ritrovano insieme in una sala d’ombra, illuminata da tre lanterne.**
+> Dopo lo scontro nella sala d’ombra, i compagni vengono portati via dalle figure mascherate. **La prossima sessione riprenderà al risveglio, con il rumore della risacca sugli scogli.**
 
 ## Prima della prossima sessione
 
-- [[Stato attuale|Riprendi il filo]] — la sala delle tre lanterne e l’esito della spedizione.
-- [[Sessione 11#Tre lanterne|Rileggi la scena finale]] — dalle maschere di corvo alla sala delle tre lanterne.
-- [[Piste aperte|Segui le piste]] — le figure mascherate, il verbale sulle miniere e le altre domande aperte.
+- [[Stato attuale|Riprendi il filo]] — l’esito dello scontro e il prossimo risveglio.
+- [[Sessione 12|Leggi la sessione 12]] — lo scontro nella sala delle quattro lanterne.
+- [[Piste aperte|Segui le piste]] — gli aggressori, la risacca e le domande sulle miniere.
 
 ## Apri l’atlante
 

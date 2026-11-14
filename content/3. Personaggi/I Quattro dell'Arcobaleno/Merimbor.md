@@ -30,5 +30,7 @@ Nella [[Sessione 11|sessione 11]], Merimbor ritira il compenso alla [[Casa delle
 
 Il gruppo chiede udienza, ma dopo un confronto con Boren viene fatto accomodare in una sala separata. Merimbor attende con [[Ninazù|Ninazù]] mentre Elias e Percy si allontanano; infine i quattro lasciano la residenza senza attendere l'udienza. Più tardi Merimbor spedisce una lettera urgente e intende partire per la capitale in tarda serata. Prima della partenza, figure mascherate avvolgono lui e gli altri nell'oscurità: i quattro si ritrovano insieme in una sala illuminata da tre lanterne.
 
+Nella [[Sessione 12|sessione 12]], Merimbor viene trattenuto da un filo d'argento, ma riesce a colpire gli aggressori con scariche elettriche. Dopo essere stato abbattuto, viene sollevato dall'uomo senza maschera. La sua sorte sarà da chiarire al risveglio.
+
 - [[3. Personaggi/I Quattro dell'Arcobaleno/index|I Quattro dell'Arcobaleno]]
-- [[Stato attuale#La sala delle tre lanterne|Dove siamo rimasti]]
+- [[Stato attuale#Dopo lo scontro|Dove siamo rimasti]]

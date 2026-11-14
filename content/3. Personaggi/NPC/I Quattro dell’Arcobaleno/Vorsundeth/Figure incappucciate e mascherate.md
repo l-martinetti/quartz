@@ -17,8 +17,11 @@ Le maschere ricordano quelle degli investigatori imperiali conosciuti come [[Cor
 
 L'oscurità avvolge i quattro, che si ritrovano nella stessa sala illuminata da tre lanterne. Davanti a loro, una figura si toglie la maschera e dice «È tempo di fare pulizia.»
 
+Nella [[Sessione 12|sessione 12]], le figure attaccano il gruppo insieme all'uomo senza maschera e a uno spettro coronato. Gli incappucciati usano fili d'argento e lanterne che delimitano zone di silenzio. Dopo lo scontro iniziano a portare via i caduti. Le loro identità e la loro fazione restano da scoprire.
+
 ## Approfondimenti
 
 - [[Sessione 11#Tre lanterne|La scena nella sessione 11]]
-- [[Stato attuale#La sala delle tre lanterne|La sala delle tre lanterne]]
+- [[Sessione 12|Lo scontro nella sessione 12]]
+- [[Stato attuale#Dopo lo scontro|Dopo lo scontro]]
 - [[Piste aperte#Le maschere di corvo|Le domande aperte]]

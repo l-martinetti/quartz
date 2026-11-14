@@ -3,7 +3,9 @@ title: Piste e domande aperte
 ---
 ## Le maschere di corvo
 
-Il filo da riprendere è la sala delle tre lanterne. Le [[Figure incappucciate e mascherate|figure]] appaiono in coppia davanti a ciascuno dei quattro e portano maschere bianche a becco di corvo e una lanterna per coppia. Nella cronaca la forma ricorda quelle dei [[Corvi Rossi|Corvi Rossi]], mentre i colori sono diversi. Chi sono le figure, dove si trova la sala e a cosa si riferiscono quando parlano di «fare pulizia»? [[Sessione 11#Tre lanterne|Il finale della sessione 11]]
+Le [[Figure incappucciate e mascherate|figure]] sono apparse in coppia davanti a ciascuno dei quattro, con maschere bianche a becco di corvo e una lanterna per coppia. La forma ricorda quelle dei [[Corvi Rossi|Corvi Rossi]], con colori diversi. Nella [[Sessione 12|sessione 12]] hanno attaccato il gruppo insieme all’uomo senza maschera e allo spettro coronato, poi hanno portato via i caduti. Restano da chiarire l’identità e la fazione degli aggressori, la posizione della sala e il significato delle parole «fare pulizia».
+
+Al risveglio tutti sentiranno la risacca. Che cosa è accaduto al gruppo dopo lo scontro e dove si trova? La sorte di Percy dopo la morte nella sala resta da scoprire. [[Sessione 12#La risacca|La risacca e le indicazioni del Master]]
 
 ## La spedizione e le altre piste
 

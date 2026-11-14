@@ -19,5 +19,5 @@ La compagnia dei Quattro dell'Arcobaleno è formata da [[Elias|Elias]], [[Merimb
 | 12       | [[Sessione 12]]      | Le quattro lanterne        |
 
 - [[Stato attuale|Stato attuale]]
-- [[Sessione 11#Tre lanterne|La scena finale della sessione 11]]
+- [[Sessione 12#La risacca|La scena finale della sessione 12]]
 - [[Piste aperte|Piste e domande aperte]]
