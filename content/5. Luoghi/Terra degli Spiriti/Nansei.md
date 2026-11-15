@@ -18,3 +18,7 @@ Dalla baia, scalinate e ponti coperti collegano le terrazze di pietra su cui sor
 ## Il cantiere navale
 
 Al cantiere si può incontrare [[Garo]], capitano dell’Ago di Rame, che si occupa anche delle riparazioni della propria nave.
+
+## Rappresentanti stranieri
+
+[[Lady Sayuri Hoshin]] rappresenta l’[[Impero del Dragone di Giada]] a Nansei. In città si parla dei suoi incontri con mercanti e autorità locali sui commerci e sui rapporti con Kaishin.

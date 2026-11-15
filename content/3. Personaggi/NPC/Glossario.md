@@ -72,6 +72,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 ## L
 
+- [[3. Personaggi/NPC/Altre terre/Nansei e Kaishin/Lady Sayuri Hoshin|Lady Sayuri Hoshin]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Liam|Liam]]
 
 ## M
