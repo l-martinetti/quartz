@@ -4,6 +4,8 @@ tags:
   - personaggi/npc
 ---
 
+![[assets/DEND/mirae_soryn.png|400]]
+
 ## Descrizione
 
 Mirae Soryn, detta la Custode del Porto, è un’ex navigatrice. Guida [[Nansei]] con l’appoggio di capitani, mercanti e famiglie influenti.
