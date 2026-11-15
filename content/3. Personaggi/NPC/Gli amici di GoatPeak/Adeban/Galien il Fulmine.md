@@ -15,7 +15,4 @@ Il rapporto si complica quando [[Yoori|Yoori]] racconta che Galien tiene [[Jun|J
 
 I risultati sul campo sostengono la sua reputazione; le accuse di Yoori conservano la natura di una testimonianza.
 
-- [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/index|Persone — Adeban]]
-- [[3. Personaggi/NPC/index|Tutti gli NPC]]
-
 [Fonti: Ambientazione, Galien.](https://discord.com/channels/1469621626717864096/1469628303877865587/1472554149521653791)

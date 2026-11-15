@@ -17,6 +17,3 @@ Territori esterni all’Impero e riferimenti storici. Vespera originale resta di
 ## Approfondimenti
 
 - [[Regno d’Oltremare|Regno d’Oltremare]]
-
-
-- [[5. Luoghi/index|Indice superiore]]

@@ -140,10 +140,6 @@ Si accesero quattro lanterne. Alla loro luce, Elias, Merimbor, Percy e Ninazù s
 
 *Al tavolo, il Master ha collegato le figure mascherate all’incontro in taverna di un’altra cronaca, quando intervenne [[Tessian|Tessian]].*
 
-
 - [[Sessione 10|Sessione 10]]
 - [[Sessione 12|Sessione 12]]
 - [[Stato attuale|Stato attuale]]
-- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice delle sessioni]]
-
-

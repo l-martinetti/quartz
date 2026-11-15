@@ -9,7 +9,4 @@ Guaritore errante della [[Volpe Rossa|Volpe Rossa]], fermatosi al campo ospedali
 
 Il campo ospedaliero è descritto negli appunti come esterno alla città.
 
-- [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/index|Persone — Adeban]]
-- [[3. Personaggi/NPC/index|Tutti gli NPC]]
-
 [Fonti: Ambientazione, Richal.](https://discord.com/channels/1469621626717864096/1469628303877865587/1472532436746371236)

@@ -18,5 +18,3 @@ I messaggi sono stati recuperati nella sala delle comunicazioni delle [[5. Luogh
 I testi citano i [[Vigilanti e Terzo Legato|Vigilanti]], un Terzo Legato, livelli inferiori attivi e un’evacuazione negata. Essendo incompleti, non identificano da soli tutti i responsabili e non ricostruiscono l’intera sequenza degli eventi.
 
 Il sigillo dei Vigilanti trovato nei registri presenta **tre stelle**.
-
-- [[4. Conoscenze/index|Scoperte e documenti]]

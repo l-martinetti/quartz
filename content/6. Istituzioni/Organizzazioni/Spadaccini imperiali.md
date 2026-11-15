@@ -9,6 +9,3 @@ Corpo d’élite scelto dall’Impero per affrontare le crisi, con un rango para
 ## Ruolo pubblico nel Vorsundeth
 
 Il [[Gran Duca Barein|Gran Duca Barein]], governatore del [[5. Luoghi/Vorsundeth/index|Vorsundeth]], detiene il titolo di Spadaccino Imperiale.
-
-
-- [[6. Istituzioni/Organizzazioni/index|Organizzazioni]]

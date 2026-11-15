@@ -11,4 +11,3 @@ L'autorità imperiale è presente, ma deve fare affidamento sull'esperienza dell
 
 - [[Palude Ghiacciata|Palude Ghiacciata]]
 - [[Viaggi e servizi|Via delle Brume e tempi di viaggio]]
-- [[5. Luoghi/Vorsundeth/index|Vorsundeth]]

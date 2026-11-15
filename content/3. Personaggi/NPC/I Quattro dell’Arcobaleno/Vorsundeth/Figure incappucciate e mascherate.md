@@ -17,7 +17,7 @@ Le maschere ricordano quelle degli investigatori imperiali conosciuti come [[Cor
 
 L'oscurità avvolge i quattro, che si ritrovano nella stessa sala illuminata da quattro lanterne. Davanti a loro, una figura si toglie la maschera e dice «È tempo di fare pulizia.»
 
-Nella [[Sessione 12|sessione 12]], le figure attaccano il gruppo insieme all'uomo senza maschera e a uno spettro coronato. Gli incappucciati usano fili d'argento e lanterne che delimitano zone di silenzio. Dopo lo scontro iniziano a portare via i caduti. Le loro identità e la loro fazione restano da scoprire.
+Nella [[Sessione 12|sessione 12]], le figure attaccano il gruppo insieme all'uomo senza maschera e a uno spettro coronato. Gli incappucciati usano fili d'argento e lanterne che delimitano zone di silenzio. Dopo lo scontro Merimbor e Ninazù stanno venendo portati via, Percy giace a terra senza vita e di Elias non ci sono tracce. Le identità e la fazione degli aggressori restano da scoprire.
 
 ## Approfondimenti
 

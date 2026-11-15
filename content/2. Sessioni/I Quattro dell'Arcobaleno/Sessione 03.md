@@ -44,5 +44,3 @@ La discussione sul servizio all’Impero resta aperta: Merimbor lo considera uti
 
 - [[Sessione 04|Sessione 4]]
 - [[Sessione 02|Sessione 2]]
-- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
-

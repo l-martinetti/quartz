@@ -31,9 +31,9 @@ Capitale imperiale, sede della corte e principale centro politico, religioso e c
 
 ## La capitale nella Provincia Centrale
 
-Il [[Grande Fiume Imperiale|Grande Fiume Imperiale]] e le vie della Provincia Centrale collegano la corte agli altri centri. La Torre del Faro è il simbolo della capitale; il compendio conserva anche il nome **Faro di Eryndor**. Eupharos è il principale centro politico, religioso e culturale dell’Impero.
+Il [[Grande Fiume Imperiale|Grande Fiume Imperiale]] e le vie della Provincia Centrale collegano la corte agli altri centri. La Torre del Faro è il simbolo della capitale, conosciuto anche come **Faro di Eryndor** in ricordo dell’eroe [[Eryndor]]. Eupharos è il principale centro politico, religioso e culturale dell’Impero.
 
 - [[5. Luoghi/Provincia Centrale/index|Provincia Centrale]]
 - [[Viaggi e servizi|Tempi di viaggio]]
-- [[5. Luoghi/index|Tutti i luoghi]]
+
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Eupharos/index|Persone di riferimento]]

@@ -9,6 +9,4 @@ Signore dei Ragni, legato a patti, rituali e favori che possono manifestarsi com
 
 [[Padre Norrin|Padre Norrin]] collega a Bethor il male di [[Gatpick|Gatpick]], degli Amici di GoatPeak. L’indagine sul Terzo Occhio incontra incubi, necrosi, alterazioni degli occhi e mutazioni ragnose fra la [[Maschera Lunare|Maschera Lunare]] e i Dadi Placcati. Il laboratorio costiero con una ragnatela e occhi scolpiti rafforza la pista del culto, mentre l’origine della sostanza e l’estensione della rete restano irrisolte.
 
-- [[6. Istituzioni/Culti/index|Culti]]
-
 [Fonte comune: Ambientazione, Bethor.](https://discord.com/channels/1469621626717864096/1469628303877865587/1509682657057833232)

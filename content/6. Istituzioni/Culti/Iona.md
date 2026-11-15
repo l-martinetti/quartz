@@ -17,7 +17,4 @@ Il simbolo è una spada verticale con guardia alata. I fedeli dichiarano chi o c
 
 La Chiesa di Iona comprende legioni consacrate alla dea ed è guidata dal Prescelto di Iona. Il culto unisce devozione, disciplina militare e protezione delle persone affidate ai suoi seguaci.
 
-
-- [[6. Istituzioni/Culti/index|Culti]]
-
 [Fonti: V S20–S23; Ambientazione, Aken’esh.](https://discord.com/channels/1469621626717864096/1469628303877865587/1528017769960837281)

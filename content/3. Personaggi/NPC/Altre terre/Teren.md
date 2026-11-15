@@ -11,4 +11,4 @@ Teren è noto come il **Dodicesimo Dragone**, uno dei [[13 Dragoni]] al servizio
 
 ## Apparizioni e reputazione
 
-Ha partecipato ad alcune dimostrazioni di magia con il [[Circolo di magia dell’Impero]]. Si dice che sia l’angelo custode delle Pianure Centrali di Eupharos.
+Ha partecipato ad alcune dimostrazioni di magia con il [[Circolo dei Maghi Imperiali]]. Si dice che sia l’angelo custode delle Pianure Centrali di Eupharos.

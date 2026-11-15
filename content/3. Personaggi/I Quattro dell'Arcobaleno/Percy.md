@@ -30,7 +30,6 @@ Percy continua a studiare il [[Il cubo|cubo]] recuperato durante l'avventura e h
 
 Nella [[Sessione 11|sessione 11]], a Veldmark, Percy convince una guardia a lasciar passare lui e Merimbor verso il quartiere diplomatico. Accompagna poi Elias al colloquio con il [[Conte Varian Canto di Cenere|conte Varian]]. Lasciata la residenza ducale, annuncia ai compagni che intende tornare dalle Lame Selvagge in capitale e prendersi una pausa dagli incarichi in compagnia. Più tardi, figure mascherate avvolgono lui e gli altri nell'oscurità e i quattro si ritrovano nella sala d'ombra.
 
-Nella [[Sessione 12|sessione 12]], Percy spegne la lanterna davanti a sé e affronta gli aggressori. L'uomo senza maschera lo atterra con la lama color cenere. Gli altri infieriscono e Percy muore per le ferite. Che cosa gli sia accaduto dopo la morte nella sala resta da scoprire al risveglio.
+Nella [[Sessione 12|sessione 12]], Percy spegne la lanterna davanti a sé e affronta gli aggressori. L'uomo senza maschera lo atterra con la lama color cenere. Gli altri infieriscono e Percy muore per le ferite, rimanendo a terra. Che cosa gli accada in seguito resta da scoprire.
 
-- [[3. Personaggi/I Quattro dell'Arcobaleno/index|I Quattro dell'Arcobaleno]]
 - [[Stato attuale#Dopo lo scontro|Dove siamo rimasti]]

@@ -10,6 +10,7 @@ Divinità, pratiche e tradizioni documentate nel compendio e nell’atlante. Lo 
 - [[Ather|Ather]]
 - [[Ghybor|Ghybor]]
 - [[Vokmos|Vokmos]]
+- [[Thyris|Thyris]]
 
 ## Altre tradizioni di devozione
 
@@ -28,16 +29,8 @@ Divinità, pratiche e tradizioni documentate nel compendio e nell’atlante. Lo 
 - [[Kenneth|Kenneth]]
 - [[Asmodeus|Asmodeus]]
 
-## Culti proibiti nel compendio
+## Culti proibiti 
 
 - [[Culti proibiti|Culti proibiti]]
-
-## Altri culti documentati nell’atlante
-
-- [[Thyris|Thyris]]
 - [[Bethor|Bethor]]
 
-Per [[Thyris|Thyris]] e [[Bethor|Bethor]] il compendio non assegna uno status legale: restano conservate le informazioni dell’atlante.
-
-- [[Fede e usanze|Fede e usanze]]
-- [[6. Istituzioni/index|Istituzioni]]

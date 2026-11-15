@@ -9,5 +9,3 @@ Gatpick, Leysha e Viktor: la formazione della prima fase dell’avventura. Le in
 - [[Gatpick|Gatpick]]
 - [[Leysha|Leysha]]
 - [[Viktor|Viktor]]
-
-- [[3. Personaggi/index|Indice superiore]]

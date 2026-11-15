@@ -5,7 +5,6 @@ tags: ["ambientazione"]
 
 Ultimo grande centro prima di Ashar. È una base per carovane, guide del deserto e spedizioni archeologiche.
 
-- [[5. Luoghi/Provincia Centrale/index|Provincia Centrale]]
 - [[Viaggi e servizi|Viaggi e servizi]]
 
 ## Esplorazioni e rifornimenti

@@ -16,6 +16,3 @@ Raggruppamento di consultazione: non stabilisce da solo confini politici o appar
 
 - [[Arcipelago dei Lampi|Arcipelago dei Lampi]]
 - [[Isola di Smeraldo|Isola di Smeraldo]]
-
-
-- [[5. Luoghi/index|Indice superiore]]

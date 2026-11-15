@@ -9,7 +9,4 @@ Contatto presso il tempio di [[Iona|Iona]] a [[5. Luoghi/Eupharos/index|Eupharos
 
 Titolo e biografia non sono specificati nel messaggio del master.
 
-- [[3. Personaggi/NPC/Gli amici di GoatPeak/Eupharos/index|Persone — Eupharos]]
-- [[3. Personaggi/NPC/index|Tutti gli NPC]]
-
 [Fonti: Ambientazione, Aken’esh.](https://discord.com/channels/1469621626717864096/1469628303877865587/1528017769960837281)

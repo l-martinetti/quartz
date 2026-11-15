@@ -3,9 +3,9 @@ title: Piste e domande aperte
 ---
 ## Le maschere di corvo
 
-Le [[Figure incappucciate e mascherate|figure]] sono apparse in coppia davanti a ciascuno dei quattro, con maschere bianche a becco di corvo e una lanterna per coppia. La forma ricorda quelle dei [[Corvi Rossi|Corvi Rossi]], con colori diversi. Nella [[Sessione 12|sessione 12]] hanno attaccato il gruppo insieme all’uomo senza maschera e allo spettro coronato, poi hanno portato via i caduti. Restano da chiarire l’identità e la fazione degli aggressori, la posizione della sala e il significato delle parole «fare pulizia».
+Le [[Figure incappucciate e mascherate|figure]] sono apparse in coppia davanti a ciascuno dei quattro, con maschere bianche a becco di corvo e una lanterna per coppia. La forma ricorda quelle dei [[Corvi Rossi|Corvi Rossi]], con colori diversi. Nella [[Sessione 12|sessione 12]] hanno attaccato il gruppo insieme all’uomo senza maschera e allo spettro coronato. Merimbor e Ninazù stavano venendo portati via, Percy giaceva morto a terra e di Elias non c’erano tracce. Restano da chiarire l’identità e la fazione degli aggressori, la posizione della sala e il significato delle parole «fare pulizia».
 
-Al risveglio tutti sentiranno la risacca. Che cosa è accaduto al gruppo dopo lo scontro e dove si trova? La sorte di Percy dopo la morte nella sala resta da scoprire. [[Sessione 12#La risacca|La risacca e le indicazioni del Master]]
+Merimbor, Ninazù e chi sarà con loro sentiranno la risacca al risveglio. Che cosa è accaduto al gruppo dopo lo scontro e dove si trova? La sorte di Percy e il luogo in cui si trova Elias restano da scoprire. [[Sessione 12#La risacca|La risacca e le indicazioni del Master]]
 
 ## La spedizione e le altre piste
 

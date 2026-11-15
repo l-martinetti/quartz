@@ -14,5 +14,3 @@ Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. No
 - [[Ularis|Ularis]]
 - [[Jun|Jun]]
 - [[Il coboldo di Thyris|Il coboldo di Thyris]]
-
-- [[3. Personaggi/NPC/index|Indice superiore]]

@@ -21,4 +21,3 @@ Le descrizioni conservano il momento delle rispettive fonti. Le date di pubblica
 
 [Compendio di Valendar per i giocatori](https://docs.google.com/document/d/1jmKoXAvyZbWckI0tO507kHfyEy8e5C8W/edit) — geografia, città, istituzioni pubbliche, culti, vita quotidiana e tempi di viaggio.
 
-

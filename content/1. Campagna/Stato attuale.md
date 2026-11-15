@@ -6,9 +6,9 @@ title: Stato attuale — I Quattro dell'Arcobaleno
 
 ## Dopo lo scontro
 
-Nella sala d’ombra i quattro affrontano le figure mascherate, l’uomo senza maschera e uno spettro coronato. [[Percy|Percy]] viene colpito dalla lama dell’uomo, cade e muore per le ferite. Anche [[Merimbor|Merimbor]] e [[Ninazù|Ninazù]] cadono. [[Elias|Elias]] è l’unico ancora cosciente quando l’uomo prende in braccio Merimbor e gli incappucciati iniziano a trascinare via i caduti.
+Nella sala d’ombra i quattro affrontano le figure mascherate, l’uomo senza maschera e uno spettro coronato. [[Percy|Percy]] viene colpito dalla lama dell’uomo, cade e muore per le ferite, rimanendo a terra. Anche [[Merimbor|Merimbor]] e [[Ninazù|Ninazù]] cadono e stanno venendo portati via. Di [[Elias|Elias]] non ci sono tracce.
 
-Il ricordo si interrompe mentre vengono portati via. Il Master ha chiarito che i tiri salvezza contro morte sono conclusi e che tutti sentiranno la risacca al risveglio. **Che cosa sia accaduto a Percy dopo la morte nella sala resta da scoprire**, così come la posizione del gruppo. Alla ripresa si chiarirà anche se Elias abbia recuperato i punti ferita massimi sottratti dallo spettro.
+Il Master ha chiarito che i tiri salvezza contro morte sono conclusi. Merimbor, Ninazù e chi sarà con loro si risveglieranno al rumore della risacca. La sorte di Percy e il luogo in cui si trova Elias restano da scoprire. Alla ripresa si chiarirà anche se Elias abbia recuperato i punti ferita massimi sottratti dallo spettro.
 
 - [[Sessione 12#«Ti abbiamo preso»|La fine dello scontro]]
 - [[Sessione 12#La risacca|La risacca e le indicazioni del Master]]

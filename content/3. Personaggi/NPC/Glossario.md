@@ -4,7 +4,6 @@ title: Glossario degli NPC
 
 Indice alfabetico delle schede degli NPC e delle figure nominate.
 
-
 ## A
 
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Abris|Abris]]
@@ -34,6 +33,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 ## E
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Crocevia/Eremita di Verdelago|Eremita di Verdelago]]
+- [[3. Personaggi/NPC/Altre terre/Eryndor|Eryndor]]
 
 ## F
 
@@ -146,5 +146,3 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 ## Y
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/Yoori|Yoori]]
-
-- [[3. Personaggi/NPC/index|Tutti gli NPC]]

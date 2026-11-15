@@ -9,6 +9,7 @@ Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. No
 - [[Oracolo Astrarian|Oracolo Astrarian]]
 - [[Kajiwara Chōsokabe]] — il Sesto Dragone.
 - [[Teren]] — il Dodicesimo Dragone.
+- [[Eryndor]] — eroe spadaccino e re ricordato alla fondazione dell’Impero.
 
 ## Nansei e Kaishin
 

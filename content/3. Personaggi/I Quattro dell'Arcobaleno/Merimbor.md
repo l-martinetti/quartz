@@ -34,5 +34,4 @@ Il gruppo chiede udienza, ma dopo un confronto con Boren viene fatto accomodare 
 
 Nella [[Sessione 12|sessione 12]], Merimbor viene trattenuto da un filo d'argento, ma riesce a colpire gli aggressori con scariche elettriche. Dopo essere stato abbattuto, viene sollevato dall'uomo senza maschera. La sua sorte sarà da chiarire al risveglio.
 
-- [[3. Personaggi/I Quattro dell'Arcobaleno/index|I Quattro dell'Arcobaleno]]
 - [[Stato attuale#Dopo lo scontro|Dove siamo rimasti]]

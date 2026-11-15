@@ -12,6 +12,3 @@ Divinità venerata attraverso il salice bianco di [[5. Luoghi/Estion/index|Estio
 Ather custodisce vita, famiglia, matrimonio e responsabilità comunitaria. La sua paternità è intesa come scelta di cura. Genitori, tutori, levatrici, agricoltori e responsabili di comunità ne seguono il culto, presente in templi urbani, monasteri agricoli e orfanotrofi.
 
 Il simbolo è un salice dalle radici visibili; il Salice di [[5. Luoghi/Estion/index|Estion]] è un suo luogo sacro. Condividere pane, acqua o un posto al focolare è un gesto devozionale. Le offerte comprendono semi, latte e l'impegno a prendersi cura di qualcuno. I fedeli considerano contrario alla propria fede imporre sacrifici a chi non può scegliere o ignorare un ospite o un minore in pericolo.
-
-
-- [[6. Istituzioni/Culti/index|Culti]]

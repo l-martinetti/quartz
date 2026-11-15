@@ -18,5 +18,3 @@ Nella [[Sessione 11|sessione 11]], il [[Conte Varian Canto di Cenere|conte Varia
 ## Ultimo incontro e posizione
 
 Il gruppo non ha ancora incontrato Ikas direttamente. L'ultima notizia risale alla [[Sessione 11|sessione 11]], quando l'addetto della Casa delle Misure riferisce a Elias che Corvus si è trattenuto a parlare con la Guida. La posizione attuale di Ikas non è precisata.
-
-- [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/index|Persone — Vorsundeth]]

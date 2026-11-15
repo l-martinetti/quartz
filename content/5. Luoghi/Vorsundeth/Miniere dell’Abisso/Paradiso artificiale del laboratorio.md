@@ -9,6 +9,4 @@ Reame che riproduce una città sotto due soli, avvolta in una quiete apparenteme
 
 Il meccanismo è spiegato dall’autore nell’Annotazione II e non viene esteso per ipotesi ad altri luoghi. La riproduzione resta distinta da [[Vespera originale|Vespera originale]].
 
-- [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]]
-
 [Fonti: E S7; Annotazione II — Il mio piccolo paradiso.](https://discord.com/channels/1469621626717864096/1469628303877865587/1556340966183407718)

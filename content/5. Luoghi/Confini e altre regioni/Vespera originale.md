@@ -8,6 +8,4 @@ Antica città sotto due soli, fatta di giardini pensili, terrazze, canali, pietr
 
 La descrizione proviene dal ricordo dell’autore delle annotazioni del laboratorio. Non fissa una posizione attuale né un rapporto geografico con l’Impero.
 
-- [[5. Luoghi/index|Tutti i luoghi]]
-
 [Fonte: Annotazione I — La Vespera originale.](https://discord.com/channels/1469621626717864096/1469628303877865587/1556340911414448253)

@@ -10,5 +10,3 @@ Percorso di consultazione degli Amici di GoatPeak, senza nuovi confini provincia
 - [[Verdelago|Verdelago]]
 - [[5. Luoghi/Crocevia/Zanne Gemelle/index|Zanne Gemelle]]
 - [[5. Luoghi/Eupharos/index|Eupharos]]
-
-- [[5. Luoghi/index|Indice superiore]]

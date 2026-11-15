@@ -15,7 +15,7 @@ L’esplorazione porta a strutture e apparati inattesi, ai riferimenti sulla [[V
 
 Nella [[Sessione 11|sessione 11]] i quattro riscuotono il compenso, ma il verbale ufficiale sulle miniere resta da consultare. Boren viene ricevuto dal Gran Duca Barein e il gruppo lascia la residenza senza attendere la propria udienza. Prima che i compagni possano proseguire per le loro strade, compaiono le figure dalle maschere bianche a becco di corvo.
 
-Nella [[Sessione 12|sessione 12]] segue lo scontro nella sala d’ombra. Percy muore per le ferite, Merimbor e Ninazù cadono, mentre Elias assiste all'allontanamento dei compagni. La prossima scena comincerà con la [[Stato attuale#Dopo lo scontro|risacca al risveglio]].
+Nella [[Sessione 12|sessione 12]] segue lo scontro nella sala d’ombra. Percy muore e rimane a terra, Merimbor e Ninazù stanno venendo portati via e di Elias non ci sono tracce. Merimbor, Ninazù e chi sarà con loro si risveglieranno al rumore della [[Stato attuale#Dopo lo scontro|risacca]].
 
 ## Gli Amici di GoatPeak · Le vie degli Eroi
 

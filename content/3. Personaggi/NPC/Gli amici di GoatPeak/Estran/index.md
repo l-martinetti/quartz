@@ -20,7 +20,5 @@ Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. No
 - [[Kayren Berqinal|Kayren Berqinal]]
 - [[Signore delle Mosche|Signore delle Mosche]]
 
-- [[3. Personaggi/NPC/index|Indice superiore]]
-
 - [[Vaelith Mantoscuro|Vaelith Mantoscuro]]
 - [[Wilmur|Wilmur]]

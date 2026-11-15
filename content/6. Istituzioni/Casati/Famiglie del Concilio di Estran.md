@@ -26,7 +26,4 @@ Il Concilio è composto dalle casate Valdris, Berqinal, Orren, Helmar, Valmor e 
 
 Il casato Wilmur citato dal compendio non viene identificato con la persona nota soltanto dal ritratto nell’atlante.
 
-
-- [[6. Istituzioni/Casati/index|Casati]]
-
 [Fonti: Ambientazione, Taccuino Sorn, tre messaggi del 24 maggio 2026.](https://discord.com/channels/1469621626717864096/1469628303877865587/1508029382730580078)

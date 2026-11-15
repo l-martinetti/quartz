@@ -26,9 +26,7 @@ Alla residenza Elias si presenta come Vane e, davanti agli altri, spiega a Boren
 
 Elias si reca poi alla [[Casa delle Misure|Casa delle Misure]], dove ritira il compenso e chiede di consultare il verbale sulle condizioni delle miniere. Gli viene proposto un incontro con la [[Guida Ikas|Guida Ikas]], ma per il momento rimanda la richiesta.
 
-Nella [[Sessione 12|sessione 12]], Elias sfugge al proprio cerchio di luce ma viene colpito due volte dallo spettro coronato, anche mentre è in volo. Rimane l'unico cosciente quando gli aggressori cominciano a portare via i compagni. Il recupero dei punti ferita massimi sottratti dallo spettro sarà chiarito alla ripresa.
+Nella [[Sessione 12|sessione 12]], Elias sfugge al proprio cerchio di luce ma viene colpito due volte dallo spettro coronato, anche mentre è in volo. Alla fine dello scontro non ci sono tracce di lui. Il recupero dei punti ferita massimi sottratti dallo spettro sarà chiarito alla ripresa.
 
-
-- [[3. Personaggi/I Quattro dell'Arcobaleno/index|I Quattro dell'Arcobaleno]]
 - [[Stato attuale#Dopo lo scontro|Dove siamo rimasti]]
 

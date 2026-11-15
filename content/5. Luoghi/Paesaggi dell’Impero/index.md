@@ -13,6 +13,3 @@ Raggruppamento di consultazione: non stabilisce da solo confini politici o appar
 - [[Grande Fiume Imperiale|Grande Fiume Imperiale]]
 - [[Tetto del Mondo|Tetto del Mondo]]
 - [[Colline di Calidria|Colline di Calidria]]
-
-
-- [[5. Luoghi/index|Indice superiore]]

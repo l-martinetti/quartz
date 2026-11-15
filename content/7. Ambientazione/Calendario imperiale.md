@@ -5,10 +5,12 @@ tags: [ambientazione]
 
 Il calendario imperiale conta gli anni a partire dalla fondazione dell’[[Impero Infinito|Impero Infinito]] a [[5. Luoghi/Estion/index|Estion]]. L’anno della fondazione è l’**anno 1 dell’Era Imperiale**, abbreviato **1 EI**. Gli avvenimenti precedenti possono essere indicati come «prima dell’Era Imperiale», abbreviato **p.EI**: all’anno 1 p.EI segue l’anno 1 EI, senza un anno zero.
 
+Il presente delle campagne è il **532 EI**. La [[Cronologia dell’Impero|cronologia dell’Impero]] raccoglie le date degli eventi storici.
+
 ## Struttura dell’anno
 
 > [!note] Proposta da definire
-> La suddivisione e i nomi che seguono sono una prima proposta. Le date degli eventi storici e l’anno attuale restano da stabilire.
+> La suddivisione dell’anno e i nomi che seguono sono una prima proposta ancora da definire.
 
 L’anno comprende **dodici mesi di trenta giorni**, suddivisi in quattro stagioni. Ogni mese contiene cinque settimane di sei giorni. Cinque giorni di festa, esterni ai mesi e alla settimana, portano l’anno a **365 giorni**: uno apre l’anno e gli altri quattro seguono ciascuna stagione. La settimana riprende normalmente dopo ogni festa.
 
@@ -39,4 +41,4 @@ Le feste non appartengono a un mese né a un giorno della settimana. I loro nomi
 
 Una data si scrive, per esempio, **12 Fioritura 245 EI**: il dodicesimo giorno del secondo mese dell’anno 245 dell’Era Imperiale. Il numero dell’esempio serve solo a mostrare la forma e non indica l’anno corrente.
 
-La durata esatta dell’anno solare, l’eventuale giorno aggiuntivo e le date degli avvenimenti storici restano da definire.
+La durata esatta dell’anno solare e l’eventuale giorno aggiuntivo restano da definire.

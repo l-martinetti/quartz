@@ -14,6 +14,3 @@ Casato riconoscibile dallo stemma con un uccello argentato ad ali spiegate sopra
 Il Canto di Cenere è un casato di tradizione militare, la cui influenza nasce dal servizio nell'esercito. La memoria della famiglia lega il nome ai soldati ricondotti in salvo attraverso una valle bruciata dal fondatore Aldren di Veyra. Il [[Conte Varian Canto di Cenere|conte Varian Canto di Cenere]] ne è una figura prominente e siede nel Consiglio bellico imperiale.
 
 Il braccio armato ufficiale del casato è l’ordine dei [[Cavalieri della Polvere|Cavalieri della Polvere]].
-
-
-- [[6. Istituzioni/Casati/index|Casati]]

@@ -11,5 +11,3 @@ L’[[Impero Infinito|Impero Infinito]] comprende territori diversi per paesaggi
 - [[5. Luoghi/Forte Victoria/index|Forte Victoria]]: provincia che comprende la città omonima e il villaggio di Ethert.
 - Il deserto meridionale, la cui provincia ha come capoluogo [[Zastar|Zastar]].
 
-
-

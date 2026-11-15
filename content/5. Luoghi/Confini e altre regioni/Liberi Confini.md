@@ -10,6 +10,4 @@ Nacquero da una palude imperiale, poi bonificata: la caduta della figura servita
 
 Le notizie raccolte durante le vicende degli Amici di GoatPeak non stabiliscono automaticamente la situazione attuale dei Quattro dell'Arcobaleno.
 
-- [[5. Luoghi/index|Tutti i luoghi]]
-
 [Fonti: Ambientazione, Hamonet e Adeban; V S23.](https://discord.com/channels/1469621626717864096/1469628303877865587/1469984340212584509)

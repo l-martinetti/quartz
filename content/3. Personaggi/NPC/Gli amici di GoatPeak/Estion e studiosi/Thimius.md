@@ -9,5 +9,3 @@ Studioso di storia antica, legato a [[Berek Catena d’Argento|Berek]] e alle ri
 
 Le ricerche di storia antica degli elfi restano fra i suoi ambiti di studio documentati.
 
-- [[3. Personaggi/NPC/Gli amici di GoatPeak/Estion e studiosi/index|Persone — Estion e studiosi]]
-- [[3. Personaggi/NPC/index|Tutti gli NPC]]

@@ -141,5 +141,3 @@ Stato della sezione:  Bozza condivisibile
 Creatura che [[Gatpick|Gatpick]], degli Amici di GoatPeak, è convinto di aver visto. La sua identità e la natura dell’apparizione rimangono sconosciute.
 
 ![[assets/DEND/atlante-visione-di-gatpick.webp|Visione di Gatpick]]
-
-- [[Fonti/index|Indice delle fonti]]

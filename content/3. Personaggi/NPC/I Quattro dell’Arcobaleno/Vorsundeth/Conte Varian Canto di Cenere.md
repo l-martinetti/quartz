@@ -26,5 +26,4 @@ Elias cita un accordo privato tra Varian e [[Boren Rusk|Boren]] sulle [[5. Luogh
 
 L’ultima apparizione documentata è il colloquio con Elias e Percy alla residenza ducale di Veldmark, nella [[Sessione 11|sessione 11]]. La sua posizione dopo l'incontro non è precisata.
 
-- [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/index|Persone — Vorsundeth]]
 - [[Casato Canto di Cenere|Casato Canto di Cenere]]

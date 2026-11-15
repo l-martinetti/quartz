@@ -12,7 +12,7 @@ Merimbor ha fatto correre scariche elettriche sul pavimento anche da terra e Nin
 
 Lo spettro ha colpito Elias una seconda volta, anche in volo, riducendogli ancora i punti ferita massimi. Percy ha abbattuto il portatore e la fiamma si è spenta. Ninazù si è trasformato in orso ed Elias è scomparso alla vista. L’uomo senza maschera ha atterrato Percy con la lama color cenere. Gli altri hanno infierito e Percy è morto per le ferite. Anche Merimbor e Ninazù sono caduti.
 
-Elias ha visto l’uomo senza maschera prendere in braccio Merimbor e gli ha sentito dire «Ti abbiamo preso». Gli incappucciati hanno cominciato a trascinare via i caduti. La prossima sessione riprenderà al risveglio, con il rumore delle onde sugli scogli.
+L’uomo senza maschera ha preso in braccio Merimbor dicendo «Ti abbiamo preso». Merimbor e Ninazù stavano venendo portati via, Percy giaceva senza vita a terra e di Elias non c’erano tracce. Merimbor, Ninazù e chi sarà con loro si risveglieranno al rumore della risacca.
 
 ## Resoconto integrale
 
@@ -86,17 +86,16 @@ I due incappucciati davanti a Merimbor gli furono addosso insieme e lo abbattero
 
 ### «Ti abbiamo preso»
 
-Elias era l’unico ancora cosciente quando l’uomo senza maschera comparve accanto a Merimbor. «Ti abbiamo preso», disse, prima di sollevarlo e prenderlo in braccio. Poi fece un gesto verso Percy e Ninazù. «Peccato che il vostro compagno vi abbia abbandonati.»
+L’uomo senza maschera comparve accanto a Merimbor. «Ti abbiamo preso», disse, prima di sollevarlo e prenderlo in braccio. Poi fece un gesto verso Percy e Ninazù. «Peccato che il vostro compagno vi abbia abbandonati.»
 
-Lo spettro tornò al centro della sala e si guardò attorno, mentre gli incappucciati cominciavano a trascinare via i caduti.
+Lo spettro tornò al centro della sala e si guardò attorno. Merimbor e Ninazù stavano venendo portati via, Percy giaceva senza vita a terra e di Elias non c’erano tracce.
 
 ### La risacca
 
-Il ricordo della sala finiva lì, con la sensazione di essere portati via. Poi il buio. Al risveglio, il primo indizio sarebbe stato il rumore della risacca, le onde che si infrangono sugli scogli.
+Il ricordo della sala finiva lì. Poi il buio. Al risveglio, Merimbor, Ninazù e chi sarà con loro sentiranno il rumore della risacca, le onde che si infrangono sugli scogli.
 
 *Al tavolo, il Master ha spiegato che la fiamma verde era legata alla forza vitale di chi l’aveva riaccesa. Una delle quattro lanterne è rimasta spenta. L’identità e la fazione degli aggressori restano da scoprire.*
 
-*Il Master ha anche chiarito che i tiri salvezza contro morte sono conclusi e che tutti sentiranno la risacca al risveglio. Che cosa sia accaduto a Percy dopo la sua morte nella sala resta da scoprire. Alla ripresa si chiarirà anche se Elias abbia recuperato i punti ferita massimi sottratti dai due colpi dello spettro, 23 con il primo e 26 con il secondo.*
+*Il Master ha anche chiarito che i tiri salvezza contro morte sono conclusi e che Merimbor, Ninazù e chi sarà con loro sentiranno la risacca al risveglio. Che cosa sia accaduto a Percy dopo la sua morte nella sala resta da scoprire. Alla ripresa si chiarirà anche se Elias abbia recuperato i punti ferita massimi sottratti dai due colpi dello spettro, 23 con il primo e 26 con il secondo.*
 
 - [[Sessione 11|Sessione 11]]
-- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice delle sessioni]]

@@ -42,4 +42,3 @@ Una scossa fa cadere massi e distrugge l’ascensore. Un ruggito riempie l’amb
 
 - [[Sessione 05|Sessione 5]]
 - [[Sessione 03|Sessione 3]]
-- [[2. Sessioni/index|indice]]

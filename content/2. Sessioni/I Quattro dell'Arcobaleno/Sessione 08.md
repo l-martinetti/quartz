@@ -36,5 +36,3 @@ Il gruppo riesce infine a sconfiggere Atma. La sessione si conclude mentre il la
 
 - [[Sessione 09|Sessione 9]]
 - [[Sessione 07|Sessione 7]]
-- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
-

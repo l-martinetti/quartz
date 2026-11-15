@@ -13,5 +13,3 @@ Ruolo e rapporti con le compagnie ancora da chiarire.
 
 Il nome proviene dal file del ritratto pubblicato dal master. La didascalia non specifica i rapporti con gli altri [[Casato Mantoscuro|Mantoscuro]].
 
-- [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/index|Persone — Estran]]
-- [[3. Personaggi/NPC/index|Tutti gli NPC]]

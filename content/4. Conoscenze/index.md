@@ -11,8 +11,6 @@ Qui sono raccolti i reperti e i documenti emersi nell'esplorazione delle [[5. Lu
 
 Le affermazioni delle annotazioni restano attribuite al loro autore. I luoghi legati agli esperimenti sono descritti nelle schede del [[Paradiso artificiale del laboratorio|paradiso artificiale]], del [[Motore ULTIMA|Motore ULTIMA]] e di [[Vespera originale|Vespera originale]].
 
-
-
 ## Approfondimenti
 
 - [[Mithral|Mithral — metallo controllato dall’Impero]]

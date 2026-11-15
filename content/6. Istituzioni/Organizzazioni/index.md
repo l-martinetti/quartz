@@ -6,7 +6,7 @@ Ruoli, alleanze, tradizioni e rapporti documentati con le compagnie. I sospetti 
 
 - [[13 Dragoni|13 Dragoni]]
 - [[Cerchia di Leysha|Cerchia di Leysha]]
-- [[Circolo di magia dell’Impero|Circolo di magia dell’Impero]]
+- [[Circolo dei Maghi Imperiali]]
 - [[Corvi Rossi|Corvi Rossi]]
 - [[Fauci di Mare|Fauci di Mare]]
 - [[Foderi di Cuoio e casata Helmar|Foderi di Cuoio e casata Helmar]]
@@ -23,7 +23,6 @@ Ruoli, alleanze, tradizioni e rapporti documentati con le compagnie. I sospetti 
 ## Approfondimenti
 
 - [[Esercito Imperiale|Esercito Imperiale]]
-- [[Maghi Imperiali|Maghi Imperiali]]
 - [[Gilda delle Vene di Vorsundeth|Gilda delle Vene di Vorsundeth]]
 - [[Grande Compagnia dei Mercanti|Grande Compagnia dei Mercanti]]
 - [[Cartografi del Vento|Cartografi del Vento]]

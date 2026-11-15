@@ -9,7 +9,7 @@ title: L’Eco dei Fuochi Antichi
 Benvenuti nell’archivio della campagna e della sua ambientazione. Qui trovate luoghi, NPC, organizzazioni e ricordi delle sessioni, con le distinzioni tra ciò che è stato **osservato**, ciò che resta **da confermare** e ciò che è conosciuto dello sfondo di gioco.
 
 > [!info] Dove siamo rimasti · I Quattro dell'Arcobaleno
-> Dopo lo scontro nella sala d’ombra, i compagni vengono portati via dalle figure mascherate. **La prossima sessione riprenderà al risveglio, con il rumore della risacca sugli scogli.**
+> Dopo lo scontro nella sala d’ombra, Merimbor e Ninazù stanno venendo portati via, Percy giace senza vita e di Elias non ci sono tracce. **Merimbor, Ninazù e chi sarà con loro si risveglieranno al rumore della risacca.**
 
 ## Prima della prossima sessione
 

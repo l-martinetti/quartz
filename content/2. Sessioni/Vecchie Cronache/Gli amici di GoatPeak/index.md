@@ -11,5 +11,4 @@ title: Sessioni — Gli Amici di GoatPeak
 | V S8–S21    | [[5. Luoghi/Estran/index\|Estran]]                                                                                                                  |
 | V S22–S27   | [[5. Luoghi/Eupharos/index\|Eupharos]], [[Thal’hal\|Thal’hal]], [[Verdelago\|Verdelago]], [[5. Luoghi/Crocevia/Zanne Gemelle/index\|Zanne Gemelle]] |
 
-
 - [[3. Personaggi/Gli amici di GoatPeak/index|Gli Amici di GoatPeak]]

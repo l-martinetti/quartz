@@ -10,6 +10,3 @@ Quartiere di Estran in cui si trova la bottega dell’antiquario [[Barenim|Baren
 ## Attività del quartiere
 
 Il compendio chiama il quartiere **La Lanterna**. Teatro della Vela, laboratori, copisti, cartografi, libri e scuola di navigazione.
-
-
-- [[5. Luoghi/Estran/index|Estran]]

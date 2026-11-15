@@ -5,5 +5,3 @@ source_heading: "h.kjuz75e0nyw6"
 ---
 
 Casa di [[Governatore Vicar|Vicar]], protetta dalle sue truppe. Dopo gli eventi del santuario, il governatore e [[Yoori|Yoori]] vi ricevono gli Amici di GoatPeak, spiegano il conflitto con [[Galien il Fulmine|Galien]] e offrono un modo per lasciare Adeban portando via il coboldo. È il punto in cui l’appoggio di Vicar diventa decisivo per la fuga.
-
-- [[5. Luoghi/Adeban/index|Adeban]]

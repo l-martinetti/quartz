@@ -16,5 +16,3 @@ Le annotazioni del master del 4 ottobre 2026 sono un ulteriore riferimento del c
 - [[Livelli inferiori, gallerie e laboratorio|Livelli inferiori, gallerie e laboratorio]]
 - [[Motore ULTIMA|Motore ULTIMA]]
 - [[Paradiso artificiale del laboratorio|Paradiso artificiale del laboratorio]]
-
-- [[5. Luoghi/index|Tutti i luoghi]]

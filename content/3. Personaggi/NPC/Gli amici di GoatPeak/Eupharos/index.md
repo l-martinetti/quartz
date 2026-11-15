@@ -10,5 +10,3 @@ Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. No
 - [[Generale Senris|Generale Senris]]
 - [[Ribes|Ribes]]
 - [[Maive|Maive]]
-
-- [[3. Personaggi/NPC/index|Indice superiore]]

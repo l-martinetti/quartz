@@ -10,6 +10,4 @@ Piccolo villaggio della provincia di [[Città di Forte Victoria|Forte Victoria]]
 
 - [[Villa del Grand Duca Hamonet|Villa del Grand Duca Hamonet]]
 
-- [[5. Luoghi/index|Tutti i luoghi]]
-
 [Fonti: Ambientazione, Ethert; V S1.](https://discord.com/channels/1469621626717864096/1469628303877865587/1469976340429144116)

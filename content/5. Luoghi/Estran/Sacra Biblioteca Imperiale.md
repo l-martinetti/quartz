@@ -7,4 +7,3 @@ Biblioteca cittadina di [[5. Luoghi/Estran/index|Estran]] legata alla custodia d
 
 - [[Casato Catena d’Argento|Casato Catena d’Argento]]
 - [[Teatro e biblioteca|Teatro e biblioteca nelle vicende della compagnia]]
-- [[5. Luoghi/Estran/index|Estran]]

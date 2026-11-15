@@ -13,7 +13,4 @@ Nykkis è un mercante di merci esotiche dal manto maculato e dai lineamenti affi
 
 Nykkis entra in contatto con gli Amici di GoatPeak nella piazza centrale di [[Città di Forte Victoria|Forte Victoria]], su indicazione di [[Grand Duca Hamonet|Hamonet]]. La collaborazione nasce da uno scambio di favori: ostacolare Gilnas con una falsa piuma di fenice e ottenere un passaggio ad Adeban. Nykkis fa superare i controlli alla compagnia e le lascia autonomia in città. Esaminando un antico pendaglio runico, ne riconosce legami con il culto di [[Vokmos|Vokmos]] e si offre come intermediario per approfondirne la storia. Il coinvolgimento dell’amico [[Oculus|Oculus]] viene rinviato di qualche settimana; Forte Victoria resta il punto di riferimento.
 
-- [[3. Personaggi/NPC/Gli amici di GoatPeak/Forte Victoria/index|Persone — Forte Victoria]]
-- [[3. Personaggi/NPC/index|Tutti gli NPC]]
-
 [Fonti: Ambientazione, Nykkis.](https://discord.com/channels/1469621626717864096/1469628303877865587/1469997361949442171)

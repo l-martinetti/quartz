@@ -9,6 +9,4 @@ Cuore energetico del laboratorio, alimenta porte, condotti ed esperimenti sfrutt
 
 La descrizione deriva dall’Annotazione III. Il paragone di Atma con un araldo divino non ne dimostra la natura divina.
 
-- [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]]
-
 [Fonti: E S8; Annotazione III — Il Motore ULTIMA e registrazione del master.](https://discord.com/channels/1469621626717864096/1469628303877865587/1556341010559275029)

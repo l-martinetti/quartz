@@ -24,5 +24,3 @@ La sessione si chiude dopo una conversazione del gruppo con Ramia. In seguito [[
 
 - [[Sessione 10|Sessione 10]]
 - [[Sessione 08|Sessione 8]]
-- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
-

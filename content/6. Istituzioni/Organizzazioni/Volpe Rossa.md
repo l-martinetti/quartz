@@ -15,7 +15,4 @@ I Guaritori della Volpe sono un ordine errante che percorre le strade dell'Imper
 
 Il bracciale con gemme di quarzo rosso ne rende riconoscibili i membri. Nella tradizione dell'ordine, le gemme registrano gli anni di pratica completati. La sede cittadina accoglie chi ha bisogno di cure e mantiene un punto di riferimento per persone abituate a partire e tornare.
 
-
-- [[6. Istituzioni/Organizzazioni/index|Organizzazioni]]
-
 [Fonti: Ambientazione, Richal; E S1.](https://discord.com/channels/1469621626717864096/1469628303877865587/1472532436746371236)

@@ -102,6 +102,3 @@ Il giuramento di Percy potrà influire sulle scelte del gruppo. La perdita nottu
 
 - [[Sessione 11|Sessione 11]]
 - [[Sessione 09|Sessione 9]]
-- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
-
-

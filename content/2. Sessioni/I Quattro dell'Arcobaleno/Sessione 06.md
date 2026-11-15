@@ -24,6 +24,3 @@ L’esplorazione prosegue fino a una sala di sosta, dove il gruppo ritrova [[Xir
 
 - [[Sessione 07|Sessione 7]]
 - [[Sessione 05|Sessione 5]]
-- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
-
-

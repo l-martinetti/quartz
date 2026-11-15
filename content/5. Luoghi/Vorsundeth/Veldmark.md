@@ -37,4 +37,3 @@ Fra i lavoratori sono diffusi il culto di [[Torban|Torban]], legato alla fucina 
 - [[Casa delle Misure|Casa delle Misure]]
 - [[Luoghi di interesse di Veldmark|Luoghi di interesse di Veldmark]]
 
-

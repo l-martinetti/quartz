@@ -26,6 +26,3 @@ I testi integrali sono raccolti nelle [[Annotazioni e registrazione dell’Archi
 
 - [[Sessione 08|Sessione 8]]
 - [[Sessione 06|Sessione 6]]
-- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
-
-

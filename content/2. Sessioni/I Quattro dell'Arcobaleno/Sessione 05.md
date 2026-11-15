@@ -20,6 +20,3 @@ Percy e Ninazù inseguono la creatura lungo i cunicoli e la ritrovano in una vas
 
 - [[Sessione 06|Sessione 6]]
 - [[Sessione 04|Sessione 4]]
-- [[2. Sessioni/I Quattro dell'Arcobaleno/index|Indice]]
-
-
