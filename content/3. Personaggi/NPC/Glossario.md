@@ -35,6 +35,10 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Crocevia/Eremita di Verdelago|Eremita di Verdelago]]
 
+## F
+
+- [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Figure incappucciate e mascherate|Figure incappucciate e mascherate]]
+
 ## G
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/Galien il Fulmine|Galien il Fulmine]]
@@ -118,6 +122,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 ## T
 
+- [[3. Personaggi/NPC/Altre terre/Teren|Teren]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/Tessian|Tessian]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Estion e studiosi/Thimius|Thimius]]
 

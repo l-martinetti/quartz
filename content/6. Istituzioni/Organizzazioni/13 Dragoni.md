@@ -28,6 +28,8 @@ Non portano uniformi né simboli comuni e di pochissimi si conosce il volto. Spe
 
 Tra i membri il cui nome è stato reso pubblico figura [[Kajiwara Chōsokabe]], noto come il Sesto Dragone.
 
+[[Teren]], il Dodicesimo Dragone, è conosciuto per le sue apparizioni nella zona di Eupharos e per alcune dimostrazioni di magia.
+
 ## Reputazione
 
 Per la gente comune, i Dragoni sono figure a metà tra agenti imperiali ed eroi da racconto: se ne sente parlare, ma è raro poter distinguere un'impresa realmente avvenuta da una storia ingigantita. Tra i soldati prevale una cauta distanza: lavorare con un Dragone significa spesso trovarsi dove il pericolo è maggiore.
