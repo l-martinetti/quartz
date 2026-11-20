@@ -37,6 +37,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 ## F
 
+- [[3. Personaggi/NPC/Da collocare/Figura con la maschera di volpe|Figura con la maschera di volpe]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Figure incappucciate e mascherate|Figure incappucciate e mascherate]]
 
 ## G
@@ -145,4 +146,5 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 ## Y
 
+- [[3. Personaggi/NPC/Da collocare/Yomika Kurose|Yomika Kurose]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/Yoori|Yoori]]

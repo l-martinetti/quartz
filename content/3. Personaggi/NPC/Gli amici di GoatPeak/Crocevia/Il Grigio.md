@@ -23,3 +23,7 @@ Gli Amici di GoatPeak hanno trovato a [[Thal’hal|Thal’hal]] un mandato di ca
 ## Ultimo incontro e posizione
 
 Gli Amici di GoatPeak conoscono il mandato, ma non hanno incontrato il Grigio. La sua posizione attuale è sconosciuta.
+
+## Il nome nel registro del rifugio
+
+Nella [[Sessione 14#Il registro e il biglietto|sessione 14 dei Quattro dell’Arcobaleno]], il nome «Il Grigio» compare nel registro del rifugio dei [[Corvi Rossi|Corvi Rossi]]. I compagni associano la voce a Shiro, il prigioniero evaso. L’identità con il ricercato del mandato di Thal’hal resta da verificare.

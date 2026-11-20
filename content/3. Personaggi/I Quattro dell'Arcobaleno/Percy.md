@@ -30,6 +30,18 @@ Percy continua a studiare il [[Il cubo|cubo]] recuperato durante l'avventura e h
 
 Nella [[Sessione 11|sessione 11]], a Veldmark, Percy convince una guardia a lasciar passare lui e Merimbor verso il quartiere diplomatico. Accompagna poi Elias al colloquio con il [[Conte Varian Canto di Cenere|conte Varian]]. Lasciata la residenza ducale, annuncia ai compagni che intende tornare dalle Lame Selvagge in capitale e prendersi una pausa dagli incarichi in compagnia. Più tardi, figure mascherate avvolgono lui e gli altri nell'oscurità e i quattro si ritrovano nella sala d'ombra.
 
-Nella [[Sessione 12|sessione 12]], Percy spegne la lanterna davanti a sé e affronta gli aggressori. L'uomo senza maschera lo atterra con la lama color cenere. Gli altri infieriscono e Percy muore per le ferite, rimanendo a terra. Che cosa gli accada in seguito resta da scoprire.
+Nella [[Sessione 12|sessione 12]], Percy spegne la lanterna davanti a sé e affronta gli aggressori. L’uomo senza maschera lo atterra con la lama color cenere. Gli altri infieriscono e la scena si chiude con Percy a terra senza vita.
 
-- [[Stato attuale#Dopo lo scontro|Dove siamo rimasti]]
+## Al rifugio dei Corvi Rossi
+
+All’inizio della [[Sessione 13|sessione 13]], Percy è vivo e ha medicato Ninazù. Racconta che Elias lo ha aiutato a riprendersi e fa apparire e dissolvere una copia insanguinata di sé stesso. Una delle sue spade è spezzata e l’altra indebolita. Conta di farle riparare in capitale.
+
+Percy porta acqua e razioni a Shiro, che rifiuta l’amuleto con cui Percy potrebbe rintracciarlo. Quando Shiro fugge con la barca, Percy chiede di lasciarlo andare e interviene per impedire a Merimbor di colpire l’imbarcazione.
+
+Nella [[Sessione 14|sessione 14]], Percy ribadisce a Merimbor che al molo gli sembrava di impedire l’uccisione di un uomo in fuga. Mette in dubbio che Rexyra sia l’unica persona a poter conoscere l’incarico e preferisce tentare la traversata verso l’isola a mezzaluna.
+
+## La traversata
+
+Quando Ninazù invita chi può a volare via, Percy si rifiuta di lasciarlo indietro. Con i servitori della donna aggrappati alla zattera, si alza e dice che i tre saliranno a bordo.
+
+- [[Stato attuale#Sulla zattera|Dove siamo rimasti]]

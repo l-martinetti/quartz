@@ -9,13 +9,13 @@ title: L’Eco dei Fuochi Antichi
 Benvenuti nell’archivio della campagna e della sua ambientazione. Qui trovate luoghi, NPC, organizzazioni e ricordi delle sessioni, con le distinzioni tra ciò che è stato **osservato**, ciò che resta **da confermare** e ciò che è conosciuto dello sfondo di gioco.
 
 > [!info] Dove siamo rimasti · I Quattro dell'Arcobaleno
-> Dopo lo scontro nella sala d’ombra, Merimbor e Ninazù stanno venendo portati via, Percy giace senza vita e di Elias non ci sono tracce. **Merimbor, Ninazù e chi sarà con loro si risveglieranno al rumore della risacca.**
+> **Merimbor è rimasto solo al rifugio dei Corvi Rossi.** Percy, Elias e Ninazù sono ancora sulla zattera, circondati nella nebbia. A prua di una nave ornata di ossa, [[Yomika Kurose|Yomika Kurose]] ha parlato di nuovi schiavi per la sua ciurma.
 
 ## Prima della prossima sessione
 
-- [[Stato attuale|Riprendi il filo]] — l’esito dello scontro e il prossimo risveglio.
-- [[Sessione 12|Leggi la sessione 12]] — lo scontro nella sala delle quattro lanterne.
-- [[Piste aperte|Segui le piste]] — gli aggressori, la risacca e le domande sulle miniere.
+- [[Stato attuale|Riprendi il filo]] — Merimbor al rifugio e gli altri tre in mare.
+- [[Sessione 14|Leggi la sessione 14]] — il biglietto, la separazione e la nave delle ossa.
+- [[Piste aperte|Segui le piste]] — la ciurma, il registro e l’isola della fenditura.
 
 ## Apri l’atlante
 

@@ -1,11 +1,25 @@
 ---
 title: Piste e domande aperte
 ---
+## La nave delle ossa
+
+[[Yomika Kurose|Yomika Kurose]] ha parlato di nuovi schiavi per la sua ciurma di zombi. Come risponderà a Percy? Che ruolo ha la [[Figura con la maschera di volpe|figura con la maschera di volpe]], rimasta a osservare dall’altra imbarcazione? Perché l’[[Fonti/Galleria#Isonade|Isonade]] e [[Fonti/Galleria#Hundun|Hundun]] si sono avvicinati alla zattera? [[Sessione 14#La nave delle ossa|L’incontro nella nebbia]]
+
+## Il registro, Shiro e il faro
+
+Nel registro compaiono «Il Grigio» e, alcuni giorni dopo, i nomi dei quattro. I compagni associano il primo nome a Shiro. Resta da verificare se abbia un legame con [[Il Grigio|il ricercato di Thal’hal]]. Shiro ha preso la rotta verso ovest per [[Kaishin|Kaishin]], dove si trova [[Nansei|Nansei]]. Il suo arrivo resta da confermare. [[Sessione 14#Il registro e il biglietto|Il registro]]
+
+Il diario di bordo avverte che la nebbia sulla rotta di Nansei può far perdere l’orientamento. Quale effetto hanno i veli di luce bianca prodotti dal faro? [[Sessione 14#Il faro e la separazione|La carta, il diario e il faro]]
+
 ## Le maschere di corvo
 
-Le [[Figure incappucciate e mascherate|figure]] sono apparse in coppia davanti a ciascuno dei quattro, con maschere bianche a becco di corvo e una lanterna per coppia. La forma ricorda quelle dei [[Corvi Rossi|Corvi Rossi]], con colori diversi. Nella [[Sessione 12|sessione 12]] hanno attaccato il gruppo insieme all’uomo senza maschera e allo spettro coronato. Merimbor e Ninazù stavano venendo portati via, Percy giaceva morto a terra e di Elias non c’erano tracce. Restano da chiarire l’identità e la fazione degli aggressori, la posizione della sala e il significato delle parole «fare pulizia».
+Le [[Figure incappucciate e mascherate|figure]] hanno attaccato il gruppo nella [[Sessione 12|sessione 12]] insieme all’uomo senza maschera e allo spettro coronato. La sala delle quattro lanterne fa parte di un antico rifugio dei [[Corvi Rossi|Corvi Rossi]]. Le maschere ricordano quelle dell’ordine, che combatteva la non morte. Gli assalitori vestivano di nero e si servivano di uno spettro. Restano da chiarire la loro identità, la loro affiliazione e il significato delle parole «fare pulizia». [[Sessione 13#Il rifugio e il sospetto su Merimbor|Gli stendardi e le maschere]]
 
-Merimbor, Ninazù e chi sarà con loro sentiranno la risacca al risveglio. Che cosa è accaduto al gruppo dopo lo scontro e dove si trova? La sorte di Percy e il luogo in cui si trova Elias restano da scoprire. [[Sessione 12#La risacca|La risacca e le indicazioni del Master]]
+Il capo sembrava cercare proprio Merimbor. Il biglietto trovato al rifugio ordina di trattenere l’elfo già stato sull’isola e di riportarlo vivo alla fenditura. Chi ha scritto l’ordine, e chi usa oggi il rifugio? Merimbor sospetta di [[Rexyra|Rexyra]] e aveva espresso il timore che [[Ramia|Ramia]] avesse indagato. Percy osserva che le informazioni sull’incarico potrebbero essere finite in altre mani. [[Sessione 14#Il registro e il biglietto|Il biglietto e i sospetti]]
+
+## Lo squarcio e il Custode
+
+La fenditura si trova sull’isola a mezzaluna, a sud del rifugio. Merimbor sospetta che la scoperta della spedizione con [[Rexyra|Rexyra]] abbia un legame con il portale delle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] e con il [[Paradiso artificiale del laboratorio|mondo artificiale]] alimentato con le anime. Che cosa lo lega alla creatura serpentina e a che cosa si riferisce l’iscrizione sul Custode? [[Sessione 13#La carta nautica e il segreto di Merimbor|Il racconto di Merimbor]]
 
 ## La spedizione e le altre piste
 

@@ -30,6 +30,16 @@ Nella [[Sessione 11|sessione 11]], Ninazù ritira il compenso alla [[Casa delle 
 
 Dopo che il gruppo lascia la residenza, Ninazù intende cercare un cavallo e lasciare Veldmark, senza aver ancora scelto una destinazione. Più tardi figure mascherate avvolgono lui e gli altri nell'oscurità. I quattro si ritrovano insieme in una sala illuminata da quattro lanterne.
 
-Nella [[Sessione 12|sessione 12]], Ninazù fa cadere una lanterna usando i serpenti dello scettro e si trasforma in orso durante lo scontro. Ferito dagli aggressori, perde la forma animale e crolla. Sta venendo portato via e si risveglierà al rumore della risacca, insieme a Merimbor e a chi sarà con loro.
+Nella [[Sessione 12|sessione 12]], Ninazù fa cadere una lanterna usando i serpenti dello scettro e si trasforma in orso durante lo scontro. Ferito dagli aggressori, perde la forma animale e crolla. Alla fine della scena le figure stanno portando via lui e Merimbor.
 
-- [[Stato attuale#Dopo lo scontro|Dove siamo rimasti]]
+## Al rifugio dei Corvi Rossi
+
+Nella [[Sessione 13|sessione 13]], Ninazù riprende i sensi dopo le cure di Percy e aiuta i compagni a riprendersi con una preghiera. Il suo serpente Severus trova l’accesso alla sala comune. Ninazù incontra Shiro nelle celle e segue poi le istruzioni di Aran per celebrare il rito dei [[Corvi Rossi|Corvi Rossi]] con cui lo spirito trova riposo.
+
+Durante la sosta sorprende Shiro già fuori dalla cella e lo segue fino al molo. Pensa di fermare la barca in forma di serpente gigante, ma Shiro è già fuori portata.
+
+## La traversata
+
+Nella [[Sessione 14|sessione 14]], Ninazù propone di costruire una zattera, dà ai compagni la capacità di respirare sott’acqua e li traina in forma di polpo gigante. Dopo circa otto ore ha speso due terzi della sua autonomia. Quando la nave ornata di ossa li raggiunge, getta il mantello e intona una preghiera.
+
+- [[Stato attuale#Sulla zattera|Dove siamo rimasti]]

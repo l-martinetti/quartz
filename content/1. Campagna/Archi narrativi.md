@@ -15,7 +15,15 @@ L’esplorazione porta a strutture e apparati inattesi, ai riferimenti sulla [[V
 
 Nella [[Sessione 11|sessione 11]] i quattro riscuotono il compenso, ma il verbale ufficiale sulle miniere resta da consultare. Boren viene ricevuto dal Gran Duca Barein e il gruppo lascia la residenza senza attendere la propria udienza. Prima che i compagni possano proseguire per le loro strade, compaiono le figure dalle maschere bianche a becco di corvo.
 
-Nella [[Sessione 12|sessione 12]] segue lo scontro nella sala d’ombra. Percy muore e rimane a terra, Merimbor e Ninazù stanno venendo portati via e di Elias non ci sono tracce. Merimbor, Ninazù e chi sarà con loro si risveglieranno al rumore della [[Stato attuale#Dopo lo scontro|risacca]].
+Nella [[Sessione 12|sessione 12]] segue lo scontro nella sala delle quattro lanterne. Lo spettro coronato ferisce Elias, che scompare dalla vista. Percy rimane a terra senza vita e gli aggressori stanno portando via Merimbor e Ninazù. La scena si chiude con l’annuncio della [[Sessione 12#La risacca|risacca]] al risveglio.
+
+### Il rifugio dei Corvi Rossi
+
+Nella [[Sessione 13|sessione 13]] i quattro si ritrovano vivi nella stessa sala, che fa parte di un antico rifugio dei [[Corvi Rossi|Corvi Rossi]]. Ninazù aiuta lo spirito di Aran a trovare riposo e Merimbor riconosce sulla carta nautica l’isola dove aveva scoperto uno squarcio nella realtà. Shiro evade dalle celle e prende il largo con la barca del rifugio.
+
+### La separazione e la nave delle ossa
+
+Nella [[Sessione 14|sessione 14]] il registro e il biglietto al rifugio indicano che qualcuno vuole un elfo vivo alla fenditura. Merimbor si riconosce nella descrizione e [[Stato attuale#Sull’isolotto|resta ad aspettare]]. Percy, Elias e Ninazù partono per l’isola a mezzaluna su una zattera. In mare aperto la nebbia li sorprende e una nave ornata di ossa li raggiunge. La scena si chiude con i tre [[Stato attuale#Sulla zattera|ancora sulla zattera]] e i servitori della donna a prua aggrappati ai bordi.
 
 ## Gli Amici di GoatPeak · Le vie degli Eroi
 

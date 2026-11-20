@@ -26,7 +26,17 @@ Alla residenza Elias si presenta come Vane e, davanti agli altri, spiega a Boren
 
 Elias si reca poi alla [[Casa delle Misure|Casa delle Misure]], dove ritira il compenso e chiede di consultare il verbale sulle condizioni delle miniere. Gli viene proposto un incontro con la [[Guida Ikas|Guida Ikas]], ma per il momento rimanda la richiesta.
 
-Nella [[Sessione 12|sessione 12]], Elias sfugge al proprio cerchio di luce ma viene colpito due volte dallo spettro coronato, anche mentre è in volo. Alla fine dello scontro non ci sono tracce di lui. Il recupero dei punti ferita massimi sottratti dallo spettro sarà chiarito alla ripresa.
+Nella [[Sessione 12|sessione 12]], Elias sfugge al proprio cerchio di luce ma viene colpito due volte dallo spettro coronato, anche mentre è in volo. Alla fine dello scontro scompare dalla vista.
 
-- [[Stato attuale#Dopo lo scontro|Dove siamo rimasti]]
+## Al rifugio dei Corvi Rossi
+
+Nella [[Sessione 13|sessione 13]], Elias sveglia Merimbor nella sala delle quattro lanterne. Secondo Percy, lo ha aiutato a riprendersi durante l’agguato. Elias rimane pallido, tossisce e respira a fatica anche dopo le cure di Ninazù. Sospetta con lui che dipenda dai colpi dello spettro coronato. Il recupero dei punti ferita massimi resta da chiarire.
+
+Elias riconosce sugli stendardi il simbolo dell’antico ordine dei [[Corvi Rossi|Corvi Rossi]]. Lo stemma sull’armatura di Shiro gli ricorda quelli associati all’offensiva di qualche mese prima a [[Zastar|Zastar]].
+
+## La traversata
+
+Nella [[Sessione 14|sessione 14]], dopo la notte al rifugio, Elias è di nuovo in forze. Teme che il registro indichi un uso recente delle celle e vuole partire prima che gli aggressori tornino. Accende il faro e poi prende il mare con Percy e Ninazù verso l’isola a mezzaluna. Manda una creatura in volo a perlustrare la rotta e propone di tornare indietro poco prima che la nebbia li avvolga.
+
+- [[Stato attuale#Sulla zattera|Dove siamo rimasti]]
 

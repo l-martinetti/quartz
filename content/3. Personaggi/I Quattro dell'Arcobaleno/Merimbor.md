@@ -32,6 +32,14 @@ Nella [[Sessione 11|sessione 11]], Merimbor ritira il compenso alla [[Casa delle
 
 Il gruppo chiede udienza, ma dopo un confronto con Boren viene fatto accomodare in una sala separata. Merimbor attende con [[Ninazù|Ninazù]] mentre Elias e Percy si allontanano; infine i quattro lasciano la residenza senza attendere l'udienza. Più tardi Merimbor spedisce una lettera urgente e intende partire per la capitale in tarda serata. Prima della partenza, figure mascherate avvolgono lui e gli altri nell'oscurità: i quattro si ritrovano insieme in una sala illuminata da quattro lanterne.
 
-Nella [[Sessione 12|sessione 12]], Merimbor viene trattenuto da un filo d'argento, ma riesce a colpire gli aggressori con scariche elettriche. Dopo essere stato abbattuto, viene sollevato dall'uomo senza maschera. La sua sorte sarà da chiarire al risveglio.
+Nella [[Sessione 12|sessione 12]], Merimbor viene trattenuto da un filo d’argento, ma riesce a colpire gli aggressori con scariche elettriche. Dopo essere stato abbattuto, viene sollevato dall’uomo senza maschera.
 
-- [[Stato attuale#Dopo lo scontro|Dove siamo rimasti]]
+## Al rifugio dei Corvi Rossi
+
+Nella [[Sessione 13|sessione 13]], Merimbor racconta di aver scritto a Rexyra per chiederle udienza e di aver parlato del suo incarico riservato con Elias e [[Ramia|Ramia]]. Sulla carta nautica riconosce l’isola a mezzaluna, a sud del rifugio, dove aveva scoperto una fenditura nella realtà durante una spedizione con Rexyra.
+
+Mostra il tatuaggio sul braccio destro, che collega a una rovina e alla creatura serpentina a cui è legato. Legge ai compagni l’iscrizione sul Custode e ipotizza un legame fra lo squarcio e quanto visto nelle miniere. Quando Shiro fugge con la barca, Merimbor cerca di fermarlo con la bacchetta e si scontra con Percy, che gli chiede di lasciarlo andare.
+
+Nella [[Sessione 14|sessione 14]], trova un registro e un biglietto che ordina di trattenere l’elfo già stato sull’isola e di riportarlo vivo alla fenditura. Si riconosce nella descrizione e sospetta di Rexyra, dato che poche persone conoscevano il suo incarico. Indica ai compagni l’isola a mezzaluna a sud e li avverte del pericolo. Dopo aver dato una spinta alla zattera, torna al rifugio per aspettare chi dovrebbe venire a prenderlo.
+
+- [[Stato attuale#Sull’isolotto|Dove siamo rimasti]]

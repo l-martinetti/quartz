@@ -17,7 +17,9 @@ La compagnia dei Quattro dell'Arcobaleno è formata da [[Elias|Elias]], [[Merimb
 | 10       | [[Sessione 10]]      | Sotto la neve, prima di Veldmark |
 | 11       | [[Sessione 11]]      | Le porte di Veldmark       |
 | 12       | [[Sessione 12]]      | Le quattro lanterne        |
+| 13       | [[Sessione 13]]      | Il rifugio dei Corvi Rossi |
+| 14       | [[Sessione 14]]      | La nave delle ossa         |
 
 - [[Stato attuale|Stato attuale]]
-- [[Sessione 12#La risacca|La scena finale della sessione 12]]
+- [[Sessione 14#La nave delle ossa|La scena finale della sessione 14]]
 - [[Piste aperte|Piste e domande aperte]]

@@ -98,4 +98,8 @@ Il ricordo della sala finiva lì. Poi il buio. Al risveglio, Merimbor, Ninazù e
 
 *Il Master ha anche chiarito che i tiri salvezza contro morte sono conclusi e che Merimbor, Ninazù e chi sarà con loro sentiranno la risacca al risveglio. Che cosa sia accaduto a Percy dopo la sua morte nella sala resta da scoprire. Alla ripresa si chiarirà anche se Elias abbia recuperato i punti ferita massimi sottratti dai due colpi dello spettro, 23 con il primo e 26 con il secondo.*
 
+La cronaca riprende nella [[Sessione 13#Il risveglio nella sala delle quattro lanterne|stessa sala]], dove i quattro si ritrovano vivi.
+
 - [[Sessione 11|Sessione 11]]
+- [[Sessione 13|Sessione 13]]
+- [[Stato attuale|Stato attuale]]

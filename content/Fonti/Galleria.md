@@ -4,7 +4,7 @@ tags: ["fonte"]
 source_tab: "t.awzgc7k054kt"
 ---
 
-Le immagini seguenti sono state pubblicate nel canale comune. Quando manca un’identificazione esplicita, la didascalia descrive soltanto ciò che si vede: non stabilisce nomi, natura, poteri o legami con la trama.
+La galleria raccoglie riferimenti visivi condivisi per le campagne. Quando manca un’identificazione esplicita, le didascalie si basano su ciò che si vede nell’immagine o si è osservato in gioco.
 
 ## Remorhaz
 
@@ -141,3 +141,15 @@ Stato della sezione:  Bozza condivisibile
 Creatura che [[Gatpick|Gatpick]], degli Amici di GoatPeak, è convinto di aver visto. La sua identità e la natura dell’apparizione rimangono sconosciute.
 
 ![[assets/DEND/atlante-visione-di-gatpick.webp|Visione di Gatpick]]
+
+## Isonade
+
+Creatura marina che ricorda un enorme squalo. La sua pinna affiora accanto alla zattera di Percy, Elias e Ninazù quando la nebbia li avvolge. [[Sessione 14#La traversata nella nebbia|L’incontro nella sessione 14]]
+
+![[assets/DEND/isonade.png|600]]
+
+## Hundun
+
+Creatura alata che appare fra i lampi, scende fino alla zattera e rimane sospesa sopra Percy, Elias e Ninazù. [[Sessione 14#La traversata nella nebbia|L’incontro nella sessione 14]]
+
+![[assets/DEND/hundun.png|600]]
