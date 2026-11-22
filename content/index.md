@@ -6,7 +6,7 @@ title: L’Eco dei Fuochi Antichi
 
 >*"Le strade percorse, i volti incontrati, le domande ancora aperte."*
 
-Benvenuti nell’archivio della campagna e della sua ambientazione. Qui trovate luoghi, NPC, organizzazioni e ricordi delle sessioni, con le distinzioni tra ciò che è stato **osservato**, ciò che resta **da confermare** e ciò che è conosciuto dello sfondo di gioco.
+Benvenuti nell’archivio della campagna e della sua ambientazione. Qui trovate luoghi, NPC, creature, organizzazioni e ricordi delle sessioni, con le distinzioni tra ciò che è stato **osservato**, ciò che resta **da confermare** e ciò che è conosciuto dello sfondo di gioco.
 
 > [!info] Dove siamo rimasti · I Quattro dell'Arcobaleno
 > **Merimbor è rimasto solo al rifugio dei Corvi Rossi.** Percy, Elias e Ninazù sono ancora sulla zattera, circondati nella nebbia. A prua di una nave ornata di ossa, [[Yomika Kurose|Yomika Kurose]] ha parlato di nuovi schiavi per la sua ciurma.
@@ -24,6 +24,7 @@ Benvenuti nell’archivio della campagna e della sua ambientazione. Qui trovate 
 | Il filo della storia e gli archi documentati | [[1. Campagna/index\|Campagna]]       |
 | Una città, una locanda o una rovina          | [[5. Luoghi/index\|Luoghi]]           |
 | Un compagno o un volto incontrato            | [[3. Personaggi/index\|Personaggi]]   |
+| Una bestia o una creatura soprannaturale     | [[8. Bestiario/index\|Bestiario]]      |
 | Una gilda, un casato o una divinità          | [[6. Istituzioni/index\|Istituzioni]] |
 | Un evento già giocato                        | [[2. Sessioni/index\|Sessioni]]       |
 | Un reperto o un messaggio                    | [[4. Conoscenze/index\|Conoscenze]]   |

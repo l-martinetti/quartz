@@ -10,11 +10,13 @@ L’attacco del Remorhaz costringe alla fuga. La spedizione riparte dopo le perd
 
 ## La fuga e la carovana
 
-Finito il combattimento precedente, il tentativo di riprendersi è interrotto dall’attacco di un gigantesco Remorhaz. [[Xir’tic|Xir’tic]] indica una via di fuga.
+Finito il combattimento precedente, il tentativo di riprendersi è interrotto dall’attacco di un gigantesco [[Remorhaz|Remorhaz]]. [[Xir’tic|Xir’tic]] indica una via di fuga.
 
 Percy stabilizza Elias e lo trascina via. Merimbor e Ninazù raggiungono Xir’tic, che li informa della partenza di Boren e della necessità di ricongiungersi rapidamente alla spedizione.
 
 Al campo il gruppo comunica la morte di [[Brian|Brian]] e apprende che metà delle carovane sono state distrutte. I compagni aiutano a sistemare quanto resta; Percy usa una pergamena per creare un carretto che possa seguirlo e offrire riposo agli altri.
+
+Nel bosco vicino al campo, Ninazù perde i sensi e viene svegliato da un [[Bullywug del campo|Bullywug]]. Non riescono a capirsi. Quando la figura anfibia alza il bastone, Ninazù la uccide con i serpenti dello scettro e ne ricopre il corpo di foglie.
 
 ## Il viaggio e i documenti
 
@@ -22,11 +24,13 @@ Ninazù attribuisce la propria salvezza al suo dio; Merimbor ricorda scherzando 
 
 Al campo Boren chiede dei documenti recuperati. Elias e Ninazù confermano di averli e li consegnano. Il contenuto dei documenti non è riportato nel resoconto comune.
 
+Più tardi, mentre Merimbor parla con Elias accanto al fuoco, un [[Serpente nero di Merimbor|piccolo serpente nero]] esce dalla manica del mago.
+
 ## L’ingresso nella miniera
 
 Liam corre nella miniera gridando il nome di [[Ghilda|Ghilda]]. Dopo l’allarme i compagni vengono richiamati e si riuniscono per cercarlo. La discussione con gli esploratori mette in luce aspettative diverse su riposo, incarico e disponibilità del gruppo.
 
-Merimbor diventa invisibile, avvertendo gli altri che rimarrà con loro. Ninazù evoca un grande serpente e lo usa come cavalcatura. Un ruggito risuona nella caverna; gli esploratori sostengono che provenga da un livello inferiore.
+Merimbor diventa invisibile, avvertendo gli altri che rimarrà con loro. Ninazù evoca un [[Serpente evocato da Ninazù|grande serpente]] e lo usa come cavalcatura. Un ruggito risuona nella caverna; gli esploratori sostengono che provenga da un livello inferiore.
 
 Boren ordina di cercare Liam e rimane indietro, senza spiegare chiaramente che cosa intenda fare.
 

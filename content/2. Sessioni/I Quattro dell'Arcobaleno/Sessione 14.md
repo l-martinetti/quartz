@@ -36,11 +36,11 @@ Prima di partire, Ninazù diede ai compagni la capacità di respirare sott’acq
 
 Per ore Percy ed Elias videro soltanto mare. Ninazù alternò la forma di polpo a brevi soste, cercando animali o altri segnali. Dopo circa otto ore spiegò di aver già speso due terzi della propria autonomia e che gli sarebbe servita una notte di riposo per recuperarla. Elias mandò una creatura in volo a perlustrare la rotta. Dopo alcuni lampi in lontananza disse che era successo qualcosa e che dovevano tornare indietro.
 
-Prima che riuscissero a invertire la rotta, li investì un banco di nebbia. La visibilità si ridusse a pochi passi e correnti da più direzioni spinsero la zattera. Nell’acqua intorno a loro affiorò la grossa pinna dell’[[Fonti/Galleria#Isonade|Isonade]].
+Prima che riuscissero a invertire la rotta, li investì un banco di nebbia. La visibilità si ridusse a pochi passi e correnti da più direzioni spinsero la zattera. Nell’acqua intorno a loro affiorò la grossa pinna dell’[[Isonade|Isonade]].
 
 ![[assets/DEND/isonade.png|600]]
 
-Ninazù invitò chi poteva a volare via, ma Percy si rifiutò di lasciarlo indietro. Un lampo rivelò [[Fonti/Galleria#Hundun|Hundun]], la creatura alata che scese fino a rimanere sospesa sopra le loro teste.
+Ninazù invitò chi poteva a volare via, ma Percy si rifiutò di lasciarlo indietro. Un lampo rivelò [[Hundun|Hundun]], la creatura alata che scese fino a rimanere sospesa sopra le loro teste.
 
 ![[assets/DEND/hundun.png|600]]
 

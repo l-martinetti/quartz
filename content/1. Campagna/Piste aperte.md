@@ -3,7 +3,7 @@ title: Piste e domande aperte
 ---
 ## La nave delle ossa
 
-[[Yomika Kurose|Yomika Kurose]] ha parlato di nuovi schiavi per la sua ciurma di zombi. Come risponderà a Percy? Che ruolo ha la [[Figura con la maschera di volpe|figura con la maschera di volpe]], rimasta a osservare dall’altra imbarcazione? Perché l’[[Fonti/Galleria#Isonade|Isonade]] e [[Fonti/Galleria#Hundun|Hundun]] si sono avvicinati alla zattera? [[Sessione 14#La nave delle ossa|L’incontro nella nebbia]]
+[[Yomika Kurose|Yomika Kurose]] ha parlato di nuovi schiavi per la sua ciurma di zombi. Come risponderà a Percy? Che ruolo ha la [[Figura con la maschera di volpe|figura con la maschera di volpe]], rimasta a osservare dall’altra imbarcazione? Perché l’[[Isonade|Isonade]] e [[Hundun|Hundun]] si sono avvicinati alla zattera? [[Sessione 14#La nave delle ossa|L’incontro nella nebbia]]
 
 ## Il registro, Shiro e il faro
 

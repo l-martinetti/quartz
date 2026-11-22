@@ -8,3 +8,10 @@ Questa pagina raccoglie le figure nominate durante la campagna la cui collocazio
 - [[Rexyra|Rexyra]]
 - [[Yomika Kurose|Yomika Kurose]]
 
+## Ritratti da identificare
+
+- [[Avventuriero della locanda|Avventuriero della locanda]]
+- [[Figura con elmo e piume|Figura con elmo e piume]]
+- [[Figura dai capelli chiari|Figura dai capelli chiari]]
+- [[Figura in verde|Figura in verde]]
+

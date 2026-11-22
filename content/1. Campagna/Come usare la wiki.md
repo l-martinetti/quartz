@@ -16,7 +16,7 @@ Un riferimento da consultare durante il gioco: luoghi, protagonisti e persone in
 - Apri [[5. Luoghi/index|Luoghi]] per scegliere una località del mondo di gioco, poi i suoi punti d’interesse. 
 - [[3. Personaggi/index|Personaggi]] distingue le compagnie del gruppo di gioco dagli NPC. 
 - [[6. Istituzioni/index|Istituzioni]] raccoglie fazioni, casati e culti; 
-- [[2. Sessioni/index|Sessioni]] conserva i resoconti disponibili. [[Fonti/index|Fonti]] contiene riferimenti, grafie e galleria.
+- [[2. Sessioni/index|Sessioni]] conserva i resoconti disponibili. [[8. Bestiario/index|Bestiario]] raccoglie le creature per cronaca. [[Fonti/index|Fonti]] rimanda ai documenti originali.
 
 ## Come leggere le informazioni
 

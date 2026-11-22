@@ -30,3 +30,5 @@ Per ogni personaggio troverete una breve descrizione accompagnata da una immagin
 
 - [[3. Personaggi/NPC/Glossario|Glossario degli NPC]]
 
+Per bestie e creature soprannaturali, consulta il [[8. Bestiario/index|Bestiario dei Fuochi Antichi]].
+

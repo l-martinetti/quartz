@@ -7,6 +7,7 @@ Qui sono raccolti gli NPC incontrati nelle vicende svoltesi nella provincia del 
 ## [[Gilda degli Esploratori]]
 
 - [[Boren Rusk|Boren Rusk]]
+- [[Bullywug del campo|Bullywug del campo]]
 - [[Corvus|Corvus]]
 - [[Guida Ikas|Guida Ikas]]
 #### Secondari

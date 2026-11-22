@@ -7,7 +7,7 @@ title: "Archi e percorsi documentati"
 
 Ciascuno dei personaggi coinvolti in questa cronaca viene contattato dall'esploratore [[Boren Rusk]], o da qualche suo sottoposto, per partecipare ad una spedizione per conto della [[Gilda degli Esploratori]].
 Il vero punto di partenza sarà il primo bastione presente entrati nel [[5. Luoghi/Vorsundeth/index|Vorsundeth]], il [[Bastione di Vetro|Bastione di Vetro]]. 
-Una volta partiti, la carovana subisce un’imboscata e l’attacco del [[Fonti/Galleria#Remorhaz|Remorhaz]]; l’incarico conduce poi alle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]].
+Una volta partiti, la carovana subisce un’imboscata e l’attacco del [[Remorhaz|Remorhaz]]; l’incarico conduce poi alle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]].
 
 L’esplorazione porta a strutture e apparati inattesi, ai riferimenti sulla [[Vigilanti e Terzo Legato|Pattuglia Vigilante]], alle apparizioni di [[Liam|Liam]] e al [[Paradiso artificiale del laboratorio|paradiso artificiale]]. Dopo l’uscita dalla miniera, il gruppo si ricongiunge alla spedizione e viaggia verso [[Veldmark|Veldmark]]. Il viaggio è raccontato nella [[Sessione 10|sessione 10]].
 

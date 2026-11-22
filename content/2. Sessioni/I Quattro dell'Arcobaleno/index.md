@@ -23,3 +23,4 @@ La compagnia dei Quattro dell'Arcobaleno è formata da [[Elias|Elias]], [[Merimb
 - [[Stato attuale|Stato attuale]]
 - [[Sessione 14#La nave delle ossa|La scena finale della sessione 14]]
 - [[Piste aperte|Piste e domande aperte]]
+- [[8. Bestiario/I Quattro dell'Arcobaleno/index|Bestiario dei Quattro dell’Arcobaleno]]

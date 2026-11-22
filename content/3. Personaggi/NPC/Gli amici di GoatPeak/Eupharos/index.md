@@ -7,6 +7,7 @@ Raggruppamento per luoghi d’incontro, notizie o riferimenti dell’atlante. No
 - [[Galvis|Galvis]]
 - [[Odrik|Odrik]]
 - [[Darmitan|Darmitan]]
+- [[Compagno di Darmitan|Compagno di Darmitan]]
 - [[Generale Senris|Generale Senris]]
 - [[Ribes|Ribes]]
 - [[Maive|Maive]]

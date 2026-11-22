@@ -11,6 +11,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 - [[3. Personaggi/NPC/Altre terre/Nansei e Kaishin/Akaro|Akaro]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/Atkin|Atkin]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Atma|Atma]]
+- [[3. Personaggi/NPC/Da collocare/Avventuriero della locanda|Avventuriero della locanda]]
 
 ## B
 
@@ -19,9 +20,11 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Boren Rusk|Boren Rusk]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/Brenno|Brenno]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Brian|Brian]]
+- [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Bullywug del campo|Bullywug del campo]]
 
 ## C
 
+- [[3. Personaggi/NPC/Gli amici di GoatPeak/Eupharos/Compagno di Darmitan|Compagno di Darmitan]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Conte Varian Canto di Cenere|Conte Varian Canto di Cenere]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Corvus|Corvus]]
 
@@ -37,7 +40,10 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 ## F
 
+- [[3. Personaggi/NPC/Da collocare/Figura con elmo e piume|Figura con elmo e piume]]
 - [[3. Personaggi/NPC/Da collocare/Figura con la maschera di volpe|Figura con la maschera di volpe]]
+- [[3. Personaggi/NPC/Da collocare/Figura dai capelli chiari|Figura dai capelli chiari]]
+- [[3. Personaggi/NPC/Da collocare/Figura in verde|Figura in verde]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Figure incappucciate e mascherate|Figure incappucciate e mascherate]]
 
 ## G
