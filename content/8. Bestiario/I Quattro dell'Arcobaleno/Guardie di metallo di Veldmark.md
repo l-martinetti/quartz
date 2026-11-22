@@ -5,6 +5,7 @@ source_tab: "t.awzgc7k054kt"
 ---
 
 ## Descrizione
+![[Pasted image 20261123001340.png|400]]
 
 Guardie di metallo alte circa due metri, armate di alabarde. Un fuoco verde arde negli occhi e fra le fessure delle corazze.
 

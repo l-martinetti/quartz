@@ -5,11 +5,11 @@ tags:
 source_tab: t.ppkatng3omei
 source_heading: h.sgr67rxzp6en
 ---
-![[commoner_1.jpg|400]]
+![[Ghilda.jpg|500]]
 ## Descrizione
 
 Ghilda è una giovane donna dai lunghi capelli biondi, di un paio d’anni più grande di [[Liam|Liam]]. È legata alla precedente spedizione alle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]].
-L'immagine usata è una di repertorio, è uno spunto ma che va sicuramente ringiovanito e il cui volto e vestiario risulta più curato.
+Ho finalmente trovato l'immagine originale che ha ispirato il personaggio e che rende finalmente giustizia all'esploratrice!
 
 ## Prima menzione
 
