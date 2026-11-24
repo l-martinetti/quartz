@@ -6,7 +6,9 @@ source_heading: h.9whde7kejdzk
 
 ![[assets/DEND/atlante-elias.webp|400]]
 
-Elias Vane è un avventuriero e diplomatico dei [[3. Personaggi/I Quattro dell'Arcobaleno/index|Quattro dell'Arcobaleno]]. Affronta incarichi e accordi con attenzione concreta, ponendo domande sugli interessi delle persone coinvolte. Usa la magia anche nei gesti quotidiani e, quando parla del suo lavoro, spiega che gli obiettivi dipendono da chi gli affida un incarico.
+Elias Vane è stato un avventuriero e diplomatico dei [[3. Personaggi/I Quattro dell'Arcobaleno/index|Quattro dell'Arcobaleno]]. Affrontava incarichi e accordi con attenzione concreta, ponendo domande sugli interessi delle persone coinvolte. Usava la magia anche nei gesti quotidiani e spiegava che gli obiettivi del suo lavoro dipendevano da chi gli affidava un incarico.
+
+**La sua avventura si conclude nella [[Sessione 15#L’agguato nella cella di Elias|sessione 15]], con la sua morte nelle segrete della fortezza della fenditura.**
 
 ## L'incontro con lo zio
 
@@ -38,5 +40,9 @@ Elias riconosce sugli stendardi il simbolo dell’antico ordine dei [[Corvi Ross
 
 Nella [[Sessione 14|sessione 14]], dopo la notte al rifugio, Elias è di nuovo in forze. Teme che il registro indichi un uso recente delle celle e vuole partire prima che gli aggressori tornino. Accende il faro e poi prende il mare con Percy e Ninazù verso l’isola a mezzaluna. Manda una creatura in volo a perlustrare la rotta e propone di tornare indietro poco prima che la nebbia li avvolga.
 
-- [[Stato attuale#Sulla zattera|Dove siamo rimasti]]
+## La fine dell’avventura
+
+Nella [[Sessione 15|sessione 15]] Elias si presenta a [[Yomika Kurose|Yomika Kurose]] come ex diplomatico dell’Impero Infinito e propone di mettere le proprie capacità al servizio del campo avversario. Alla fortezza racconta al [[Capitano Kurose|capitano Kurose]] dell’agguato e del rifugio con il faro. Nella sua cella appare l’[[Assassino di Elias|aggressore]] che lo chiama «Giuda» e gli chiede conto della sua fedeltà. Elias respinge un tentativo di sondargli i ricordi, poi l’aggressore lo trafigge al petto e gli sussurra parole rimaste riservate. Elias muore nella sua cella. È l’ultima scena del suo percorso come personaggio giocante.
+
+- [[Sessione 15#L’agguato nella cella di Elias|L’ultima scena di Elias]]
 

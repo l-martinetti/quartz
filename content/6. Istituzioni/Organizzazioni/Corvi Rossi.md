@@ -9,7 +9,7 @@ I Corvi Rossi sono investigatori imperiali. La cronaca della sessione 11 paragon
 
 Nella [[Sessione 13|sessione 13]], Elias riconosce un antico simbolo dei Corvi Rossi sugli stendardi di un rifugio insulare. Prima di essere assorbito dall’Impero, l’ordine combatteva la non morte e accompagnava nell’aldilà gli spiriti rimasti sul piano materiale. Aran, lo spirito di un antico membro, ricorda il rifugio come luogo di pellegrinaggio, meditazione e passaggio per le anime. Insegna a Ninazù il rito celebrato nella sala delle quattro lanterne e trova riposo.
 
-Nella [[Sessione 14#Il registro e il biglietto|sessione 14]], il registro con i nomi dei quattro fa temere a Elias che il rifugio sia ancora in uso. Chi lo occupi oggi resta da chiarire.
+Nella [[Sessione 14#Il registro e il biglietto|sessione 14]], il registro con i nomi dei quattro fa temere a Elias che il rifugio sia ancora in uso. Nella [[Sessione 15#Una nave senza vele al rifugio|sessione 15]] Merimbor vede l’equipaggio dell’Ago di Rame svuotare la dispensa e ripartire. L’identità di chi ha compilato il registro e disposto la custodia dell’elfo resta da chiarire.
 
 - [[Piste aperte#Le maschere di corvo|Le maschere di corvo]]
 - [[Sessione 11#Quattro lanterne|La scena nella cronaca]]

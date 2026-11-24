@@ -42,4 +42,8 @@ Durante la sosta sorprende Shiro già fuori dalla cella e lo segue fino al molo.
 
 Nella [[Sessione 14|sessione 14]], Ninazù propone di costruire una zattera, dà ai compagni la capacità di respirare sott’acqua e li traina in forma di polpo gigante. Dopo circa otto ore ha speso due terzi della sua autonomia. Quando la nave ornata di ossa li raggiunge, getta il mantello e intona una preghiera.
 
-- [[Stato attuale#Sulla zattera|Dove siamo rimasti]]
+## Prigioniero nella fortezza
+
+Nella [[Sessione 15|sessione 15]], durante il colloquio sulla nave di [[Yomika Kurose|Yomika Kurose]], Ninazù indica il faro come ultimo luogo in cui ha visto Merimbor. Nelle segrete della fortezza parla con Verral e offre di mostrarle il proprio serpente. Quando una figura appare nella cella di Elias, Ninazù tenta due volte di fermarla con la magia. L’aggressore uccide il serpente che sta entrando nella cella e trafigge Elias anche dopo che Ninazù ha reso incandescente l’impugnatura dello stocco.
+
+- [[Stato attuale#Nelle segrete della fortezza|Dove siamo rimasti]]

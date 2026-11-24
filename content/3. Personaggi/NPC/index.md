@@ -11,6 +11,7 @@ Per ogni personaggio troverete una breve descrizione accompagnata da una immagin
 ## I Quattro dell’Arcobaleno (Campagna in corso!)
 
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/index|Vorsundeth]]
+- [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Fortezza della fenditura/index|Fortezza della fenditura]]
 
 ## Gli Amici di GoatPeak
 

@@ -16,4 +16,4 @@ Gli zombi della ciurma hanno la pelle grigia, ferite ricucite, artigli e talisma
 
 ## Ultimo incontro e posizione
 
-Alla fine della sessione 14, Yomika è ancora a prua della nave. Gli zombi sono aggrappati alla zattera e Yomika deve ancora rispondere a Percy.
+Nella [[Sessione 15#Dalla zattera alle segrete di Yomika|sessione 15]] Yomika fa rinchiudere Percy, Elias e Ninazù nelle segrete della nave. Li fa portare nella propria cabina, ascolta le loro proposte e li fa ricondurre sul ponte. La sua ultima apparizione è all’[[Sessione 15#La proposta di Elias e l’approdo alla fortezza|approdo alla fortezza della fenditura]], dove parla brevemente con l’[[Figura con la maschera di volpe|uomo dalla maschera di volpe]] prima che i soldati prendano in consegna i tre prigionieri.

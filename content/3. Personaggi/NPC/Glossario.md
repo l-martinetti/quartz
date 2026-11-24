@@ -13,6 +13,8 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Atma|Atma]]
 - [[3. Personaggi/NPC/Da collocare/Avventuriero della locanda|Avventuriero della locanda]]
 
+- [[3. Personaggi/NPC/Da collocare/Assassino di Elias|Assassino di Elias]]
+
 ## B
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Estran/Barenim|Barenim]]
@@ -24,6 +26,7 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 ## C
 
+- [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Fortezza della fenditura/Capitano Kurose|Capitano Kurose]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Eupharos/Compagno di Darmitan|Compagno di Darmitan]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Conte Varian Canto di Cenere|Conte Varian Canto di Cenere]]
 - [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Vorsundeth/Corvus|Corvus]]
@@ -69,6 +72,8 @@ Indice alfabetico delle schede degli NPC e delle figure nominate.
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/Il coboldo di Thyris|Il coboldo di Thyris]]
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Crocevia/Il Grigio|Il Grigio]]
+
+- [[3. Personaggi/NPC/I Quattro dell’Arcobaleno/Fortezza della fenditura/Istria Verral|Istria Verral]]
 
 ## J
 

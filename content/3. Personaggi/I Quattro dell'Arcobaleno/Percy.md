@@ -44,4 +44,8 @@ Nella [[Sessione 14|sessione 14]], Percy ribadisce a Merimbor che al molo gli se
 
 Quando Ninazù invita chi può a volare via, Percy si rifiuta di lasciarlo indietro. Con i servitori della donna aggrappati alla zattera, si alza e dice che i tre saliranno a bordo.
 
-- [[Stato attuale#Sulla zattera|Dove siamo rimasti]]
+## Prigioniero nella fortezza
+
+Nella [[Sessione 15|sessione 15]] gli zombi di [[Yomika Kurose|Yomika Kurose]] sequestrano le armi e gli effetti di Percy. Il suo fermaglio rimane al suo posto. Percy propone a Yomika che il gruppo possa avere interessi comuni contro l’Impero Infinito e cita i contatti di Merimbor. Davanti al capitano Kurose prova a dissuaderlo dal far prelevare l’elfo, spiegando che gli resterebbe difficile ottenere la sua collaborazione. Nelle segrete consiglia di aspettare e di misurare le informazioni da condividere. È ancora nella sua cella quando Elias viene trafitto.
+
+- [[Stato attuale#Nelle segrete della fortezza|Dove siamo rimasti]]

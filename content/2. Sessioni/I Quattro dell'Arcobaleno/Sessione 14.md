@@ -57,5 +57,6 @@ La scena si chiuse con i tre ancora sulla zattera e i servitori aggrappati ai bo
 *Il Master ha rivelato che l’[[Impero del Dragone di Giada|Impero del Dragone di Giada]] ha conquistato la fortezza della fenditura. Rexyra ne ha perso il controllo e la lettera di Merimbor non le è arrivata. L’autore del biglietto resta sconosciuto.*
 
 - [[Sessione 13|Sessione 13]]
+- [[Sessione 15|Sessione 15]]
 - [[Stato attuale|Stato attuale]]
 - [[Piste aperte|Piste e domande aperte]]

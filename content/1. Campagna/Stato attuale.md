@@ -2,25 +2,30 @@
 title: Stato attuale — I Quattro dell'Arcobaleno
 ---
 
-*Ultimo punto documentato: fine della [[Sessione 14|sessione 14]].*
+*Ultimo punto documentato: fine della [[Sessione 15|sessione 15]].*
 
-## Sulla zattera
+## Nelle segrete della fortezza
 
-[[Percy|Percy]], [[Elias|Elias]] e [[Ninazù|Ninazù]] hanno lasciato il rifugio su una zattera diretta all’isola a mezzaluna. Dopo circa otto ore di traversata, la nebbia ha avvolto la zattera prima che riuscissero a invertire la rotta. Ninazù aveva già consumato circa due terzi della sua autonomia come polpo gigante.
+[[Percy|Percy]] e [[Ninazù|Ninazù]] sono rinchiusi in celle separate e vicine nella fortezza della fenditura, occupata dall’[[Impero del Dragone di Giada|Impero del Dragone di Giada]]. Le armi e gran parte dell’equipaggiamento dei prigionieri sono stati presi sulla nave di [[Yomika Kurose|Yomika Kurose]]. Nelle segrete hanno ricevuto cibo, acqua, coperte e luce.
 
-La nave ornata di ossa di [[Yomika Kurose|Yomika Kurose]] è arrivata davanti alla zattera. Alle spalle dei tre c’è una piccola imbarcazione con la [[Figura con la maschera di volpe|figura dalla maschera di volpe]]. Yomika ha parlato di nuovi schiavi e alcuni zombi della ciurma si sono aggrappati alla zattera. Percy ha detto che i tre saliranno a bordo e Ninazù ha intonato una preghiera. **I tre sono ancora sulla zattera. La risposta di Yomika resta da giocare.**
+Il [[Capitano Kurose|capitano Kurose]] prevedeva di trattenerli per alcuni giorni, fino alla conclusione delle operazioni. [[Istria Verral]] studia la fenditura e riferisce che lo squarcio sta dando problemi. Alcuni sogni le hanno fatto cercare un uomo con un serpente.
 
-- [[Sessione 14#La nave delle ossa|La scena finale]]
-- [[Piste aperte#La nave delle ossa|La nave e le figure nella nebbia]]
+- [[Sessione 15#L’interrogatorio del capitano Kurose|L’interrogatorio]]
+- [[Sessione 15#Verral e la fenditura|La visita di Verral]]
 
-## Sull’isolotto
+## Elias dopo l’agguato
 
-[[Merimbor|Merimbor]] è rimasto solo nel rifugio dei [[Corvi Rossi|Corvi Rossi]]. Ha trovato un registro con i nomi dei quattro e un biglietto che ordina di trattenere al rifugio l’elfo già stato sull’isola e di riportarlo vivo alla fenditura. Merimbor si riconosce nella descrizione e aspetta che qualcuno venga a prenderlo.
+L’[[Assassino di Elias|assassino di Elias]], armato di uno stocco dalla lama viola, è apparsa nella cella di [[Elias|Elias]] e lo ha interrogato sulla sua fedeltà e su quanto aveva detto al capitano. [[Ninazù|Ninazù]] ha tentato di fermarla. La figura ha trafitto Elias al petto e gli ha sussurrato parole rimaste riservate. **Elias è morto nella sua cella.** Con questa scena si conclude la sua avventura con il gruppo.
 
-Il gruppo ha ricostruito che Shiro è evaso tagliando le sbarre. Ha preso la rotta verso ovest per [[Kaishin|Kaishin]], dove sorge il porto di [[Nansei|Nansei]]. Nel registro i compagni hanno associato a lui il nome «Il Grigio». Prima della partenza della zattera, Elias ha acceso il faro, che ha prodotto veli di luce bianca sopra la torre.
+- [[Sessione 15#L’agguato nella cella di Elias|La scena finale]]
+- [[Piste aperte#L’aggressore di Elias|L’identità e il movente dell’aggressore]]
 
-- [[Sessione 14#Il registro e il biglietto|La scoperta del registro e del biglietto]]
-- [[Sessione 14#Il faro e la separazione|Il faro e la partenza]]
+## Merimbor in mare
+
+L’[[Figura con la maschera di volpe|uomo con la maschera di volpe]] ha portato via [[Merimbor|Merimbor]] dal rifugio. Durante la traversata un leone bianco alato ha distrutto gran parte della barca. Merimbor ha mandato la creatura sott’acqua con la magia e l’uomo lo ha raccolto dal mare. **Merimbor è ancora in mare, trasportato verso la fortezza dall’uomo che corre sulla superficie dell’acqua.** Ha riconosciuto la fortezza in lontananza.
+
+- [[Sessione 15#La maschera di volpe torna al faro|Dal rifugio alla traversata]]
+- [[Sessione 14#Il registro e il biglietto|L’ordine di riportare l’elfo alla fenditura]]
 
 ## Dopo l’agguato
 
@@ -66,4 +71,4 @@ Percy voleva tornare dalle [[Lame Selvagge|Lame Selvagge]] a [[5. Luoghi/Eupharo
 
 - [[Luoghi di interesse di Veldmark|Luoghi di interesse di Veldmark]]
 - [[Piste aperte|Piste e domande aperte]]
-- [[Sessione 14|Cronaca della sessione 14]]
+- [[Sessione 15|Cronaca della sessione 15]]

@@ -9,13 +9,13 @@ title: L’Eco dei Fuochi Antichi
 Benvenuti nell’archivio della campagna e della sua ambientazione. Qui trovate luoghi, NPC, creature, organizzazioni e ricordi delle sessioni, con le distinzioni tra ciò che è stato **osservato**, ciò che resta **da confermare** e ciò che è conosciuto dello sfondo di gioco.
 
 > [!info] Dove siamo rimasti · I Quattro dell'Arcobaleno
-> **Merimbor è rimasto solo al rifugio dei Corvi Rossi.** Percy, Elias e Ninazù sono ancora sulla zattera, circondati nella nebbia. A prua di una nave ornata di ossa, [[Yomika Kurose|Yomika Kurose]] ha parlato di nuovi schiavi per la sua ciurma.
+> **Percy e Ninazù sono prigionieri nella fortezza della fenditura.** [[Elias|Elias Vane]] è morto nell’agguato nella sua cella. Merimbor è ancora in mare, diretto verso la fortezza con l’[[Figura con la maschera di volpe|uomo dalla maschera di volpe]].
 
 ## Prima della prossima sessione
 
-- [[Stato attuale|Riprendi il filo]] — Merimbor al rifugio e gli altri tre in mare.
-- [[Sessione 14|Leggi la sessione 14]] — il biglietto, la separazione e la nave delle ossa.
-- [[Piste aperte|Segui le piste]] — la ciurma, il registro e l’isola della fenditura.
+- [[Stato attuale|Riprendi il filo]] — le segrete e l’avvicinamento di Merimbor.
+- [[Sessione 15|Leggi la sessione 15]] — dalla nave delle ossa all’agguato nella fortezza.
+- [[Piste aperte|Segui le piste]] — l’aggressore di Elias, la maschera di volpe e la fenditura.
 
 ## Apri l’atlante
 

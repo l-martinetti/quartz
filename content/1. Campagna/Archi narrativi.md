@@ -23,7 +23,11 @@ Nella [[Sessione 13|sessione 13]] i quattro si ritrovano vivi nella stessa sala,
 
 ### La separazione e la nave delle ossa
 
-Nella [[Sessione 14|sessione 14]] il registro e il biglietto al rifugio indicano che qualcuno vuole un elfo vivo alla fenditura. Merimbor si riconosce nella descrizione e [[Stato attuale#Sull’isolotto|resta ad aspettare]]. Percy, Elias e Ninazù partono per l’isola a mezzaluna su una zattera. In mare aperto la nebbia li sorprende e una nave ornata di ossa li raggiunge. La scena si chiude con i tre [[Stato attuale#Sulla zattera|ancora sulla zattera]] e i servitori della donna a prua aggrappati ai bordi.
+Nella [[Sessione 14|sessione 14]] il registro e il biglietto al rifugio indicano che qualcuno vuole un elfo vivo alla fenditura. Merimbor si riconosce nella descrizione e [[Sessione 14#Il faro e la separazione|resta ad aspettare]]. Percy, Elias e Ninazù partono per l’isola a mezzaluna su una zattera. In mare aperto la nebbia li sorprende e una nave ornata di ossa li raggiunge. La scena si chiude con i tre [[Sessione 14#La nave delle ossa|ancora sulla zattera]] e i servitori della donna a prua aggrappati ai bordi.
+
+### La fortezza della fenditura
+
+Nella [[Sessione 15|sessione 15]] Yomika porta Percy, Elias e Ninazù alla fortezza occupata dall’[[Impero del Dragone di Giada|Impero del Dragone di Giada]]. Dopo l’interrogatorio del capitano Kurose, i tre finiscono nelle segrete, dove Verral chiede del serpente di Merimbor e parla delle sue ricerche sulla fenditura. L’[[Assassino di Elias|aggressore di Elias]] appare nella sua cella e lo uccide. Percy e Ninazù restano prigionieri. La [[Figura con la maschera di volpe|figura con la maschera di volpe]] ha prelevato Merimbor al rifugio e lo sta portando alla fortezza via mare.
 
 ## Gli Amici di GoatPeak · Le vie degli Eroi
 

@@ -42,4 +42,8 @@ Mostra il tatuaggio sul braccio destro, che collega a una rovina e alla creatura
 
 Nella [[Sessione 14|sessione 14]], trova un registro e un biglietto che ordina di trattenere l’elfo già stato sull’isola e di riportarlo vivo alla fenditura. Si riconosce nella descrizione e sospetta di Rexyra, dato che poche persone conoscevano il suo incarico. Indica ai compagni l’isola a mezzaluna a sud e li avverte del pericolo. Dopo aver dato una spinta alla zattera, torna al rifugio per aspettare chi dovrebbe venire a prenderlo.
 
-- [[Stato attuale#Sull’isolotto|Dove siamo rimasti]]
+## Dal rifugio alla fortezza della fenditura
+
+Nella [[Sessione 15|sessione 15]] Merimbor studia il cerchio rituale e mostra al suo [[Serpente nero di Merimbor|serpente nero]] la direzione della fenditura. Osserva di nascosto un equipaggio rifornirsi al rifugio e ispeziona brevemente l’Ago di Rame. L’indomani, mentre improvvisa una zattera, l’[[Figura con la maschera di volpe|uomo con la maschera di volpe]] lo vede anche da invisibile, lo porta via e lo lega all’albero maestro. Un leone bianco alato spezza la barca. Merimbor si libera, manda la creatura sott’acqua con la magia e viene raccolto dall’uomo, che lo trasporta verso la fortezza correndo sul mare.
+
+- [[Stato attuale#Merimbor in mare|Dove siamo rimasti]]

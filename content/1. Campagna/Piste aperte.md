@@ -1,15 +1,19 @@
 ---
 title: Piste e domande aperte
 ---
+## L’aggressore di Elias
+
+Chi è l’[[Assassino di Elias|assassino di Elias]], che lo ha chiamato «Giuda» prima di ucciderlo? Gli ha chiesto conto di quanto detto al capitano Kurose. Il Master ha precisato che Elias è stato scelto per una ragione specifica. Il movente, lo schieramento dell’aggressore e le sue ultime parole restano riservati. [[Sessione 15#L’agguato nella cella di Elias|L’agguato nelle segrete]]
+
 ## La nave delle ossa
 
-[[Yomika Kurose|Yomika Kurose]] ha parlato di nuovi schiavi per la sua ciurma di zombi. Come risponderà a Percy? Che ruolo ha la [[Figura con la maschera di volpe|figura con la maschera di volpe]], rimasta a osservare dall’altra imbarcazione? Perché l’[[Isonade|Isonade]] e [[Hundun|Hundun]] si sono avvicinati alla zattera? [[Sessione 14#La nave delle ossa|L’incontro nella nebbia]]
+[[Yomika Kurose|Yomika Kurose]] ha consegnato i prigionieri alla fortezza. Al molo ha parlato con l’[[Figura con la maschera di volpe|uomo con la maschera di volpe]], che è poi ripartito e ha prelevato Merimbor al rifugio. Che accordo li lega e perché l’uomo cerca Merimbor? Da dove è arrivato il [[Leone bianco alato|leone bianco alato]] che ha attaccato la loro barca? Resta anche da capire il rapporto tra la ciurma, l’[[Isonade|Isonade]] e [[Hundun|Hundun]]. [[Sessione 15#La proposta di Elias e l’approdo alla fortezza|Lo scambio al molo]] · [[Sessione 15#La maschera di volpe torna al faro|La traversata di Merimbor]]
 
 ## Il registro, Shiro e il faro
 
 Nel registro compaiono «Il Grigio» e, alcuni giorni dopo, i nomi dei quattro. I compagni associano il primo nome a Shiro. Resta da verificare se abbia un legame con [[Il Grigio|il ricercato di Thal’hal]]. Shiro ha preso la rotta verso ovest per [[Kaishin|Kaishin]], dove si trova [[Nansei|Nansei]]. Il suo arrivo resta da confermare. [[Sessione 14#Il registro e il biglietto|Il registro]]
 
-Il diario di bordo avverte che la nebbia sulla rotta di Nansei può far perdere l’orientamento. Quale effetto hanno i veli di luce bianca prodotti dal faro? [[Sessione 14#Il faro e la separazione|La carta, il diario e il faro]]
+Il diario di bordo avverte che la nebbia sulla rotta di Nansei può far perdere l’orientamento. A Merimbor sembra che i veli di luce del faro tengano lontana la nebbia. Qual è la portata di quell’effetto? [[Sessione 14#Il faro e la separazione|La carta e il diario]] · [[Sessione 15#Merimbor e il cerchio dei Corvi Rossi|L’osservazione di Merimbor]]
 
 ## Le maschere di corvo
 
@@ -20,6 +24,8 @@ Il capo sembrava cercare proprio Merimbor. Il biglietto trovato al rifugio ordin
 ## Lo squarcio e il Custode
 
 La fenditura si trova sull’isola a mezzaluna, a sud del rifugio. Merimbor sospetta che la scoperta della spedizione con [[Rexyra|Rexyra]] abbia un legame con il portale delle [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] e con il [[Paradiso artificiale del laboratorio|mondo artificiale]] alimentato con le anime. Che cosa lo lega alla creatura serpentina e a che cosa si riferisce l’iscrizione sul Custode? [[Sessione 13#La carta nautica e il segreto di Merimbor|Il racconto di Merimbor]]
+
+Verral studia la fenditura per capire che cosa ci sia dall’altro lato e dice che lo squarcio sta dando problemi. I suoi sogni le hanno indicato un uomo con un serpente. Il [[Serpente nero di Merimbor|serpente di Merimbor]] si è proteso verso l’isola, ma Verral dubita che il suo portatore sia la persona che attende. Chi sta cercando e che cosa ha visto nei sogni? [[Sessione 15#Verral e la fenditura|Il racconto di Verral]]
 
 ## La spedizione e le altre piste
 

@@ -23,4 +23,8 @@ title: Bestiario — I Quattro dell’Arcobaleno
 - [[Hundun|Hundun]] — la creatura alata apparsa fra i lampi.
 - [[Zombi della nave delle ossa|Zombi della nave delle ossa]] — la ciurma di Yomika Kurose.
 
+## Verso la fortezza della fenditura
+
+- [[Leone bianco alato]] — la creatura che raggiunge la barca di Merimbor.
+
 [[2. Sessioni/I Quattro dell'Arcobaleno/index|Diario dei Quattro dell’Arcobaleno]]

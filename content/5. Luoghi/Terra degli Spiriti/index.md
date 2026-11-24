@@ -16,5 +16,6 @@ Continente a oriente, separato da un oceano dalla terra dell’[[Impero Infinito
 
 - [[Rotta oceanica orientale|Rotta oceanica orientale]]
 - [[Corridoio dei Ventagli]] — isole e approdi dell’Oceano di Giada, fuori dalla rotta principale.
+- [[Fortezza della fenditura]] — isola fortificata occupata dal Dragone di Giada.
 - [[Kaishin]] — isola abitata con baie riparate e sorgenti calde.
 - [[Nansei]] — porto indipendente di Kaishin, dove cercare un passaggio verso il continente.

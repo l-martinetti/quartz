@@ -19,8 +19,9 @@ La compagnia dei Quattro dell'Arcobaleno è formata da [[Elias|Elias]], [[Merimb
 | 12       | [[Sessione 12]]      | Le quattro lanterne        |
 | 13       | [[Sessione 13]]      | Il rifugio dei Corvi Rossi |
 | 14       | [[Sessione 14]]      | La nave delle ossa         |
+| 15       | [[Sessione 15]]      | La fortezza della fenditura |
 
 - [[Stato attuale|Stato attuale]]
-- [[Sessione 14#La nave delle ossa|La scena finale della sessione 14]]
+- [[Sessione 15#Ripresa rapida|Ultima giocata: sessione 15]]
 - [[Piste aperte|Piste e domande aperte]]
 - [[8. Bestiario/I Quattro dell'Arcobaleno/index|Bestiario dei Quattro dell’Arcobaleno]]

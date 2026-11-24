@@ -5,6 +5,7 @@ title: "La campagna"
 Questa sezione raccoglie i punti di orientamento per riprendere il gioco.
 
 - [[Stato attuale|Stato attuale I Quattro dell'Arcobaleno]]
+- [[Sessione 15#Ripresa rapida|Ripresa rapida dell’ultima sessione]]
 - [[Piste aperte|Piste e domande aperte]]
 - [[Archi narrativi|Archi e percorsi documentati]]
 - [[Come usare la wiki|Come usare la wiki]]

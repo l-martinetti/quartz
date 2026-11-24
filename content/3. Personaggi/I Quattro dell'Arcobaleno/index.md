@@ -3,7 +3,7 @@ title: I Quattro dell'Arcobaleno
 source_tab: t.lkg4yoz7a2me
 ---
 
-Elias, Merimbor, Ninazù e Percy hanno esplorato le [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] e raggiunto [[Veldmark|Veldmark]]. Dopo l’agguato nella sala delle quattro lanterne si sono ritrovati in un antico rifugio dei [[Corvi Rossi|Corvi Rossi]]. Nella [[Sessione 14|sessione 14]] il gruppo si divide. Merimbor [[Stato attuale#Sull’isolotto|resta al rifugio]], mentre gli altri tre sono [[Stato attuale#Sulla zattera|sulla zattera]] in mare aperto, raggiunti dalla nave ornata di ossa.
+Elias, Merimbor, Ninazù e Percy hanno esplorato le [[5. Luoghi/Vorsundeth/Miniere dell’Abisso/index|Miniere dell’Abisso]] e raggiunto [[Veldmark|Veldmark]]. Dopo l’agguato nella sala delle quattro lanterne si sono ritrovati in un antico rifugio dei [[Corvi Rossi|Corvi Rossi]]. Il gruppo si divide nella [[Sessione 14|sessione 14]]. Alla fine della [[Sessione 15|sessione 15]], Percy e Ninazù sono [[Stato attuale#Nelle segrete della fortezza|prigionieri nella fortezza della fenditura]], Elias è [[Elias#La fine dell’avventura|morto nell’agguato nelle segrete]] e Merimbor è [[Stato attuale#Merimbor in mare|ancora in mare, diretto alla fortezza]].
 
 > [!info] Le schede riportano ciò che i compagni hanno osservato o condiviso durante le sessioni.
 
