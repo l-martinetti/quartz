@@ -16,7 +16,12 @@ Queste pagine raccolgono lo sfondo generale del compendio. Le schede dell’atla
 - [[Fede e usanze|Fede e usanze — culti, simboli e pratiche]]
 - [[Viaggi e servizi|Viaggi e servizi — distanze e riferimenti pubblici]]
 - [[Calendario imperiale|Calendario imperiale — anni, stagioni e feste]]
+- [[Province dell’Impero|Province e territori a statuto particolare]]
 - [[5. Luoghi/Provincia Centrale/index|Provincia Centrale]]
 - [[Provincia di Estran|Provincia di Estran]]
 - [[5. Luoghi/Vorsundeth/index|Vorsundeth]]
 
+## Popoli e istituzioni
+
+- [[Orchi e mezzorchi|Orchi e mezzorchi — comunità, frontiere e presenza nell’Impero]]
+- [[Spadaccini imperiali|Spadaccini Imperiali — titolo, selezione e autorità]]

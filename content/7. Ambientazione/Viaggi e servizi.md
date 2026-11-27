@@ -38,6 +38,8 @@ La navigazione collega [[5. Luoghi/Eupharos/index|Eupharos]] a Confluvia in circ
 
 La traversata del [[Deserto fra Eupharos ed Estran|Deserto di Ashar]] fra la Provincia Centrale e quella orientale richiede indicativamente **5–6 giorni a cavallo** o **10–12 giorni a piedi**.
 
+La via forestale da [[Thal’hal]] attraverso le [[5. Luoghi/Crocevia/Zanne Gemelle/index|Punte Gemelle]] offre un altro accesso alla [[Provincia di Estran]]. Dal [[5. Luoghi/Estran/Porto|porto di Estran]] partono rotte verso l’[[Arcipelago dei Lampi]] e [[Verenmar]].
+
 ## Viaggiare nel Vorsundeth
 
 Le stime seguenti valgono per viaggiatori ben equipaggiati con una guida locale. Neve alta, disgelo e carichi pesanti possono aumentare il tempo di un terzo o raddoppiarlo.

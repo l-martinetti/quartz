@@ -10,7 +10,7 @@ source_heading: h.o3putj7c5fiy
 
 ## Descrizione
 
-Barein è un elfo della luna dalla carnagione blu molto chiaro, Gran Duca e governatore del [[5. Luoghi/Vorsundeth/index|Vorsundeth]]. È anche uno Spadaccino Imperiale, titolo associato a una prestigiosa carica militare dell’Impero.
+Barein è un elfo della luna dalla carnagione blu molto chiaro, Gran Duca e governatore del [[5. Luoghi/Vorsundeth/index|Vorsundeth]]. Detiene anche il titolo di [[Spadaccini imperiali|Spadaccino Imperiale]].
 
 ## Prima menzione
 

@@ -8,6 +8,8 @@ Territori esterni all’Impero e riferimenti storici. Vespera originale resta di
 
 - [[Liberi Confini|Liberi Confini]]
 - [[Territori dei Nani e Regno delle Montagne|Territori dei Nani]]
+- [[Nuovi Giganti]]
+- [[Terre Calde]]
 - [[Vespera originale|Vespera]]
 - [[Sottosuolo|Sottosuolo]]
 - [[Elburn|Elburn]]

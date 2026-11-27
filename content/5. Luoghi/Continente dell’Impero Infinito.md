@@ -1,8 +1,8 @@
 ---
-title: "Continente dell’Impero Infinito"
+title: "Valendar"
 source_tab: "t.6urr7ctimvua"
 ---
 
-Il continente comprende l’[[Impero Infinito|Impero Infinito]], i [[Liberi Confini|Liberi Confini]] a occidente e il Regno dei Nani a nord. I confini politici distinguono poteri diversi all’interno della stessa terra. Oltre il mare si trovano altri continenti, isole e arcipelaghi, fra cui la [[5. Luoghi/Terra degli Spiriti/index|Terra degli Spiriti]] a oriente e la lontana terra dei giganti a nord.
+Valendar comprende l’[[Impero Infinito]], i [[Liberi Confini]] a occidente, il [[Territori dei Nani e Regno delle Montagne|Regno dei Nani]] a nord, le terre dei [[Nuovi Giganti]] a nord-ovest e le [[Terre Calde]] a sud.
 
-Le fonti non assegnano qui un nome proprio al continente.
+Oltre il mare si trovano, fra le altre terre, la [[5. Luoghi/Terra degli Spiriti/index|Terra degli Spiriti]] a oriente e la lontana [[Terra dei giganti]] a nord.

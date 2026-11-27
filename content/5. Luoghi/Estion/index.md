@@ -17,7 +17,7 @@ Statue di antichi eroi e finestre alte conservano le tracce della passata grande
 
 Estion è l'antica capitale, cresciuta attorno al Salice di [[Ather|Ather]]. La città conserva il prestigio dei vecchi casati e della propria storia, anche se il centro del potere imperiale è oggi [[5. Luoghi/Eupharos/index|Eupharos]]. Il Salice è un riferimento sacro per i fedeli di Ather, che lo legano alla protezione della vita e ai doveri verso gli altri.
 
-La nobiltà, gli archivi e la memoria della città continuano a darle un'identità distinta da quella mercantile di [[5. Luoghi/Estran/index|Estran]]. La via settentrionale passa da Estion e prosegue verso il Passo del Drago.
+La nobiltà, gli archivi e la memoria della città le danno un’identità distinta da quella mercantile di [[5. Luoghi/Estran/index|Estran]], l’altro polo della [[Provincia di Estran|provincia orientale]]. La via settentrionale prosegue da Estion verso il Passo del Drago.
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Estion e studiosi/index|Persone di riferimento]]
 

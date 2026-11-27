@@ -4,7 +4,7 @@ tags: ["luoghi"]
 source_tab: "t.h0sbqvhb6cco"
 ---
 
-Percorso di consultazione degli Amici di GoatPeak, senza nuovi confini provinciali o politici. Eupharos ha una sezione autonoma.
+Percorso degli Amici di GoatPeak lungo la via forestale delle Punte Gemelle, fra [[Thal’hal]], nella Provincia della Capitale, e [[Verdelago]], nella [[Provincia di Estran]].
 
 - [[Thal’hal|Thal’hal]]
 - [[Verdelago|Verdelago]]

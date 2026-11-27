@@ -12,6 +12,8 @@ Città portuale dell’area orientale dell’[[Impero Infinito|Impero Infinito]]
 
 La compagnia degli Amici di GoatPeak vi indaga sul Terzo Occhio e sulle trasformazioni ragnose, trovandosi fra interessi politici e autorità in conflitto. Alla minaccia interna si aggiunge una possibile invasione d’oltreoceano, in seguito annunciata come respinta.
 
+La combattente drow incontrata dagli Amici di GoatPeak durante l’addestramento al tempio di Iona contribuisce in modo decisivo alla difesa di Estran. Dopo la battaglia accede alla prova con Senris e ottiene il titolo di [[Spadaccini imperiali|Spadaccino Imperiale]].
+
 L’appartenenza a una famiglia del Concilio non dimostra responsabilità per crimini o traffici.
 
 ## Luoghi da esplorare
@@ -30,7 +32,7 @@ L’appartenenza a una famiglia del Concilio non dimostra responsabilità per cr
 
 Estran sorge sul fianco di una collina affacciata sul mare. Le strade si arrampicano fra case di pietra grigia e legno marino, mentre il porto rimane visibile da molti punti della città. Mercati, botteghe, magazzini e servizi per i viaggiatori ne sostengono la vita quotidiana.
 
-La città è governata dal Concilio di sei famiglie mercantili. Ospita la [[Grande Compagnia dei Mercanti|Grande Compagnia dei Mercanti]], i [[Cartografi del Vento|Cartografi del Vento]], l'[[Ordine della Legge|Ordine della Legge]] e una sede dei [[Volpe Rossa|Guaritori della Volpe]]. [[Il Sacro Crocevia|Il Sacro Crocevia]] raccoglie i grandi templi di [[Ghybor|Ghybor]] e [[Iona|Iona]], ai quali si rivolgono cittadini e commercianti.
+Il [[Famiglie del Concilio di Estran|Concilio di sei famiglie mercantili]] governa la città. Estran non ha un governatore imperiale residente. Ospita la sede principale della [[Grande Compagnia dei Mercanti]], i [[Cartografi del Vento]], l’[[Ordine della Legge]] e una sede dei [[Volpe Rossa|Guaritori della Volpe]]. [[Il Sacro Crocevia]] raccoglie i grandi templi di [[Ghybor]] e [[Iona]], ai quali si rivolgono cittadini e commercianti.
 
 ## Quartieri e vita cittadina
 

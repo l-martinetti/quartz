@@ -4,7 +4,7 @@ tags: ["luoghi"]
 source_tab: "t.aogznml0oa6b"
 ---
 
-Piccolo villaggio della provincia di [[Città di Forte Victoria|Forte Victoria]], abitato soprattutto da falegnami e piccoli mercanti. Rimane fuori dalle grandi vie commerciali, pur mantenendo scambi regolari con la città. Nei boschi vicini si trova la villa di [[Grand Duca Hamonet|Hamonet]], dalla quale prendono avvio gli incarichi degli Amici di GoatPeak.
+Piccolo villaggio presso [[Città di Forte Victoria|Forte Victoria]], nella [[5. Luoghi/Provincia Centrale/index|Provincia della Capitale]], abitato soprattutto da falegnami e piccoli mercanti. Rimane fuori dalle grandi vie commerciali, pur mantenendo scambi regolari con la città. Nei boschi vicini si trova la villa di [[Grand Duca Hamonet|Hamonet]], dalla quale prendono avvio gli incarichi degli Amici di GoatPeak.
 
 ## Luoghi da esplorare
 

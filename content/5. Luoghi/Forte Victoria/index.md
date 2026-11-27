@@ -1,10 +1,10 @@
 ---
-title: "Provincia di Forte Victoria"
+title: "Forte Victoria ed Ethert"
 tags: ["luoghi"]
 source_tab: "t.ccm886c5tau6"
 ---
 
-Provincia dell’[[Impero Infinito|Impero Infinito]] che comprende Forte Victoria e il villaggio di Ethert. Nei boschi presso Ethert sorge la villa del [[Grand Duca Hamonet|Grand Duca Hamonet]].
+Forte Victoria e il vicino villaggio di Ethert si trovano nella [[5. Luoghi/Provincia Centrale/index|Provincia della Capitale]]. La città è la porta settentrionale verso la [[Provincia del Nord]]. Nei boschi presso Ethert sorge la villa del [[Grand Duca Hamonet]].
 
 ## Luoghi da esplorare
 

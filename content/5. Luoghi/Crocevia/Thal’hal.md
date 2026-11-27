@@ -12,4 +12,4 @@ Il bando del periodo limita anche le sostanze alteranti durante il coprifuoco. L
 
 ## Posizione e collegamenti
 
-Crocevia nell'antica foresta elfica. Le sue strade conducono ai valichi orientali delle [[5. Luoghi/Crocevia/Zanne Gemelle/index|Punte Gemelle]].
+Antico presidio elfico nella [[5. Luoghi/Provincia Centrale/index|Provincia della Capitale]], oggi crocevia della via forestale che attraversa le [[5. Luoghi/Crocevia/Zanne Gemelle/index|Punte Gemelle]] verso la [[Provincia di Estran]].

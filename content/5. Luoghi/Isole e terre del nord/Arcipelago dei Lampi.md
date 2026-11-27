@@ -3,6 +3,6 @@ title: "Arcipelago dei Lampi"
 tags: ["ambientazione"]
 ---
 
-Meta delle vie marittime conosciute e studiate dai [[Cartografi del Vento|Cartografi del Vento]] di [[5. Luoghi/Estran/index|Estran]]. Il compendio usa questo nome; non chiarisce esplicitamente se coincida con l’[[Arcipelago del Signore dei Lampi|Arcipelago del Signore dei Lampi]] già descritto dall’atlante.
+Gruppo di isole a nord-est di [[Continente dell’Impero Infinito|Valendar]], relativamente vicino al [[5. Luoghi/Vorsundeth/index|Vorsundeth]] e sotto protettorato dell’[[Impero Infinito]]. Da [[5. Luoghi/Estran/index|Estran]] partono rotte studiate dai [[Cartografi del Vento]].
 
-- [[Cartografi del Vento|Cartografi del Vento]]
+Gli obblighi del protettorato restano da definire. L’eventuale corrispondenza con l’[[Arcipelago del Signore dei Lampi]] resta da verificare.

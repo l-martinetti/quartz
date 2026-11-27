@@ -4,7 +4,7 @@ tags: ["luoghi"]
 source_tab: "t.rx6jsnc3v1po"
 ---
 
-Città di frontiera costruita congiuntamente dall’[[Impero Infinito|Impero Infinito]] e dai [[Liberi Confini|Liberi Confini]] come simbolo di pace dopo le guerre della separazione. Frequentata da diplomatici, mercanti e contrabbandieri, affida al governatore un importante ruolo di mediazione fra le due parti.
+Città semi-indipendente costruita dall’[[Impero Infinito]] e dai [[Liberi Confini]] per sancire la tregua dopo le [[Cronologia dell’Impero|Guerre di Confine]]. Le due parti ne condividono il governo. Frequentata da diplomatici, mercanti e contrabbandieri, affida al governatore un importante ruolo di mediazione.
 
 La quarantena imposta da [[Galien il Fulmine|Galien]] ne restringe gli accessi a poche compagnie di rifornimento. La compagnia degli Amici di GoatPeak entra con [[Nykkis|Nykkis]] e attraversa poi la cinta interna con un lasciapassare. Fra rovine, parassiti e spore scopre il santuario del coboldo di [[Thyris|Thyris]]. Il contrasto fra Galien, [[Yoori|Yoori]] e [[Governatore Vicar|Vicar]] trasforma l’esplorazione in una fuga: il governatore aiuta a portare il coboldo fuori dalla città.
 
@@ -19,7 +19,7 @@ Le testimonianze dei fuggitivi parlano di ombre e fenomeni anomali: restano racc
 
 ## Posizione e collegamenti
 
-[[Porto|Porto]] di contatto con i [[Liberi Confini|Liberi Confini]]. Conserva una forte identità locale e una tradizione di autonomia.
+Sorge sul confine terrestre fra l’Impero e i Liberi Confini, nell’area delle [[Marche Occidentali]]. Il rapporto amministrativo fra città e provincia e i dettagli dello statuto condiviso restano da precisare.
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Adeban/index|Persone di riferimento]]
 

@@ -4,7 +4,7 @@ tags: ["luoghi"]
 source_tab: "t.r3iqxjyw61lo"
 ---
 
-Regno montano a nord dei territori imperiali, importante per i metalli e i commerci attraverso i Grandi Cancelli di Pietra. I clan nanici avevano rapporti ostili con l’antica [[Elburn|Elburn]] e vivevano soprattutto sotto le montagne. L’aiuto dell’Impero contro i pericoli provenienti dalle profondità pose le basi di un’alleanza duratura. Il patto attuale privilegia neutralità, scambi economici e fiducia reciproca: i Nani evitano le guerre della superficie, dovendo già difendere le proprie profondità. Alcuni clan hanno però lasciato la madrepatria e si sono stabiliti altrove, anche nell’Impero.
+Regno indipendente nelle montagne a nord della [[Provincia del Nord]], importante per i metalli e i commerci attraverso i Grandi Cancelli di Pietra. I clan nanici avevano rapporti ostili con l’antica [[Elburn]] e vivevano soprattutto sotto le montagne. L’aiuto dell’Impero contro i pericoli provenienti dalle profondità pose le basi del patto attuale di neutralità e sostegno reciproco. I Nani evitano le guerre della superficie, dovendo già difendere le proprie profondità. Alcuni clan hanno lasciato la madrepatria e si sono stabiliti altrove, anche nell’Impero.
 
 Durante le vicende degli Amici di GoatPeak, da oltre tre lune non transitano messaggeri o carovane e gli specchi divinatori rimangono senza risposta. La spiegazione ufficiale parla di manutenzione straordinaria, mentre circolano voci di anomalie sismiche e magiche nelle miniere profonde.
 

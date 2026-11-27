@@ -3,17 +3,23 @@ title: "Impero Infinito"
 source_tab: "t.6urr7ctimvua"
 ---
 
-Grande potenza articolata in province e nata dall’unione di antiche famiglie dopo la caduta di [[Elburn|Elburn]]. [[5. Luoghi/Estion/index|Estion]] fu la prima capitale; [[5. Luoghi/Eupharos/index|Eupharos]] è quella attuale. Il bacino centrale, le città orientali, il Vorsund (o Vorsundeth) e il deserto meridionale ospitano economie e popolazioni diverse. La sua forza militare e magica rimane considerevole, ma gli interessi divergenti dei casati e delle organizzazioni ne indeboliscono la coesione. I legami con i [[Liberi Confini|Liberi Confini]] si stanno ricomponendo attraverso scambi e mediazione; con i Nani permane un patto di neutralità e sostegno reciproco.
+L’Impero Infinito nasce dall’unione di antiche famiglie e dei regni di [[Continente dell’Impero Infinito|Valendar]] dopo la caduta di [[Elburn|Elburn]]. [[5. Luoghi/Estion/index|Estion]] fu la prima capitale. Nel **532 EI** la corte ha sede a [[5. Luoghi/Eupharos/index|Eupharos]].
 
 ## Amministrazione e vita pubblica
 
-La presenza imperiale comprende guarnigioni, dogane, uffici, strade presidiate e opere per raccolti e traffici. I rapporti con le autorità locali cambiano fra province: Barein governa il [[5. Luoghi/Vorsundeth/index|Vorsundeth]]; [[5. Luoghi/Estran/index|Estran]] ha un Concilio di sei famiglie mercantili e non ospita un governatore imperiale residente.
+L’Impero comprende [[Province dell’Impero|sette province continentali]] e territori legati al centro da statuti particolari. Le province hanno economie, popolazioni e tradizioni di governo diverse. La presenza imperiale è visibile nelle guarnigioni, nelle dogane, negli uffici, sulle strade presidiate e nelle opere che sostengono raccolti e traffici. L’Impero dispone di considerevoli risorse militari e magiche, ma gli interessi divergenti dei casati e delle organizzazioni ne indeboliscono la coesione.
 
-- [[Vita nell’Impero|Economia, vita pubblica e frontiere]]
+## Confini e rapporti esterni
+
+A occidente si trovano i [[Liberi Confini]], con cui proseguono gli scambi e la mediazione dopo le Guerre di Confine. Le due parti condividono il governo di [[5. Luoghi/Adeban/index|Adeban]]. A nord il [[Territori dei Nani e Regno delle Montagne|Regno dei Nani]] mantiene un patto di neutralità e sostegno reciproco. A nord-ovest si estendono le terre dei [[Nuovi Giganti]] e a sud le [[Terre Calde]].
 
 ## Approfondimenti
 
-- [[Vita nell’Impero|Vita pubblica e amministrazione]]
-- [[5. Luoghi/Provincia Centrale/index|Provincia Centrale]]
-- [[Provincia di Estran|Provincia di Estran]]
+- [[Province dell’Impero|Province e territori a statuto particolare]]
+- [[Governo imperiale|Governo imperiale]]
+- [[Cronologia dell’Impero|Cronologia dell’Impero]]
+- [[Calendario imperiale|Calendario imperiale]]
+- [[Vita nell’Impero|Economia, vita pubblica e frontiere]]
+- [[6. Istituzioni/Organizzazioni/index|Organizzazioni e corpi]]
+- [[6. Istituzioni/Culti/index|Culti e tradizioni]]
 

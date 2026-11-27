@@ -6,9 +6,9 @@ source_tab: "t.l4dkpux5c7s2"
 
 Bastione militare a nord di [[5. Luoghi/Eupharos/index|Eupharos]] e passaggio strategico verso i territori dei Nani. Fortificazioni e collegamenti fluviali ne fanno uno snodo per eserciti, carovane e commerci. Il governo cittadino legato al clan del Sole Nascente rientra nell’insediamento di clan provenienti dall’[[Impero del Dragone di Giada|Impero del Dragone di Giada]]: integrati nell’[[Impero Infinito|Impero Infinito]], conservano la propria cultura e attirano mercanti, artisti e merci esotiche.
 
-La compagnia degli Amici di GoatPeak vi trova [[Nykkis|Nykkis]] e [[Gilnas Rozeiros|Gilnas Rozeiros]]; dopo la crisi di [[5. Luoghi/Adeban/index|Adeban]] nella provincia aumentano le pattuglie e circola la ricerca di tre umani armati in viaggio insieme.
+La compagnia degli Amici di GoatPeak vi trova [[Nykkis|Nykkis]] e [[Gilnas Rozeiros|Gilnas Rozeiros]]. Dopo la crisi di [[5. Luoghi/Adeban/index|Adeban]], nei dintorni aumentano le pattuglie e circola la ricerca di tre umani armati in viaggio insieme.
 
-Il master lo presenta come ultimo avamposto imperiale prima dei territori dei Nani. Il nuovo reggente ha attirato anche attività non sempre trasparenti.
+Il nuovo reggente ha attirato anche attività non sempre trasparenti.
 
 ## Luoghi da esplorare
 
@@ -16,7 +16,7 @@ Il master lo presenta come ultimo avamposto imperiale prima dei territori dei Na
 
 ## Posizione e collegamenti
 
-Bastione settentrionale e accesso al [[Tetto del Mondo|Tetto del Mondo]] e al regno dei nani. Controlla il passaggio di carovane, truppe e ambascerie.
+Porta settentrionale della [[5. Luoghi/Provincia Centrale/index|Provincia della Capitale]] verso la [[Provincia del Nord]], lungo le vie per il [[Tetto del Mondo]] e il [[Territori dei Nani e Regno delle Montagne|Regno dei Nani]]. Controlla il passaggio di carovane, truppe e ambascerie.
 
 - [[3. Personaggi/NPC/Gli amici di GoatPeak/Forte Victoria/index|Persone di riferimento]]
 

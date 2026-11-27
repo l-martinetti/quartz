@@ -5,7 +5,7 @@ tags:
 source_tab: t.1mfsmomoyiod
 ---
 
-Provincia nordorientale dell’[[Impero Infinito|Impero Infinito]], subito a nord di [[5. Luoghi/Estran/index|Estran]], raccolta in una vallata chiusa. Il gelo, le zone selvatiche e le miniere ne caratterizzano il territorio: è una delle regioni imperiali più piccole, ma anche particolarmente redditizie. Ospita il Bastione di Vetro, Veldmark e le Miniere dell’Abisso. Sul confine nordoccidentale, in direzione del Regno dei Nani, si trova Rocca Scura.
+Provincia nordorientale dell’[[Impero Infinito]], a nord di [[Provincia di Estran|Estran]], adiacente alla [[Provincia del Nord]] e relativamente vicina all’[[Arcipelago dei Lampi]]. Il gelo, le zone selvatiche e le miniere ne caratterizzano la vallata: è una delle regioni imperiali più piccole, ma anche particolarmente redditizie. Ospita il Bastione di Vetro, Veldmark e le Miniere dell’Abisso. Sul confine nordoccidentale, in direzione del Regno dei Nani, si trova Rocca Scura.
 
 > [!note] Nome della provincia
 > Il nome ufficiale della provincia usato nell'Impero è Vorsundeth, gli abitanti della zona a volte potrebbero chiamarlo il Vorsund.

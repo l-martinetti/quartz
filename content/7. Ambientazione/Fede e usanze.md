@@ -19,7 +19,7 @@ I culti hanno luoghi, simboli e gesti riconoscibili. Un tempio può essere anche
 
 Una spada dalla guardia alata richiama Iona; il salice dalle radici visibili richiama Ather. La moneta con bilancia appartiene a Ghybor, mentre la bilancia con teschio indica Vokmos. Incudini con fiamma, violini e archi intrecciati a rami rimandano rispettivamente a [[Torban|Torban]], [[Phedar|Phedar]] ed [[Everil|Everil]].
 
-Il quarzo rosso è associato alla tradizione della [[Volpe Rossa|Volpe Rossa]] e compare anche sui bracciali dei Guaritori della Volpe. Una falce lunare con stella indica [[Dàlila|Dàlila]]; una maschera divisa fra luce e ombra richiama [[Nethys|Nethys]]. Questi segni possono comparire su edifici, attrezzi, gioielli o oggetti di uso quotidiano.
+Il quarzo rosso compare sui bracciali dei [[Volpe Rossa|Guaritori della Volpe]]. Una falce lunare con stella indica [[Dàlila|Dàlila]]; una maschera divisa fra luce e ombra richiama [[Nethys|Nethys]]. Questi segni possono comparire su edifici, attrezzi, gioielli o oggetti di uso quotidiano.
 
 ## Altre tradizioni e culti sorvegliati
 

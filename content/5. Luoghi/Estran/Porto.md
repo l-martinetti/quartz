@@ -11,4 +11,6 @@ Moli, magazzini e rimesse sono il cuore economico di Estran e il centro delle te
 
 **La Bocca** è il quartiere portuale di [[5. Luoghi/Estran/index|Estran]]. Porto, moli, magazzini e attività legate alle navi.
 
+Da qui partono rotte per l’[[Arcipelago dei Lampi]] a nord e [[Verenmar]] a sud. Il [[Regno d’Oltremare]] è un partner commerciale della città.
+
 [Fonti: V S9–S21; Taccuino Sorn.](https://discord.com/channels/1469621626717864096/1469628303877865587/1508029303093465138)

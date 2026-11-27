@@ -6,6 +6,8 @@ Raggruppamento di consultazione: non stabilisce da solo confini politici o appar
 
 - [[Deserto fra Eupharos ed Estran|Deserto fra Eupharos ed Estran]]
 - [[Foreste a sud di Eupharos ed Estran|Foreste a sud di Eupharos ed Estran]]
+- [[Bosco di Letharien]]
+- [[Voragine Profonda]]
 
 ## Approfondimenti
 

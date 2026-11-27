@@ -16,9 +16,9 @@ Ruoli, alleanze, tradizioni e rapporti documentati con le compagnie. I sospetti 
 - [[Guanto di Velluto|Guanto di Velluto]]
 - [[Lame Selvagge|Lame Selvagge]]
 - [[Maschere degli Eroi]]
-- [[Spadaccini imperiali|Spadaccini imperiali]]
+- [[Spadaccini imperiali|Spadaccini Imperiali]] — titolo conferito da Senris a combattenti che si sono distinti.
 - [[Vigilanti e Terzo Legato|Vigilanti e Terzo Legato]]
-- [[Volpe Rossa|Volpe Rossa]]
+- [[Volpe Rossa|Guaritori della Volpe]]
 
 ## Approfondimenti
 
